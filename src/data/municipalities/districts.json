@@ -1,0 +1,2691 @@
+[
+  {
+    "info_url": "https://municipalities.co.za/overview/101/alfred-nzo-district-municipality",
+    "name": "Alfred Nzo District",
+    "type": "district",
+    "province": "Eastern Cape",
+    "address": {
+      "postal": "Private Bag X511, EmaXesibeni, 4735",
+      "physical": "Erf 1400, Ntsizwa Street, EmaXesibeni, 4735"
+    },
+    "tel": "039 254 5000",
+    "website": "www.andm.gov.za",
+    "mdb_code": "DC44",
+    "description": "The Alfred Nzo District Municipality is a Category C municipality located in the north-eastern corner of the Eastern Cape Province. It stretches from the Drakensberg Mountains, bordering Harry Gwala District Municipality to the north, OR Tambo District Municipality in the south and east, and Lesotho in the west. Alfred Nzo is the smallest district in the province, covering only 6% of the geographical area. The municipality is comprised of the Matatiele, Ntabankulu, Winnie Madikizela-Mandela and Umzimvubu Local Municipalities.",
+    "area_in_km_squared": 10731,
+    "towns": [
+      "Bizana",
+      "Cedarville",
+      "KwaBhaca (Mount Frere)",
+      "Matatiele",
+      "Tabankulu",
+      "eMaxesibeni (Mount Ayliff)"
+    ],
+    "economic_sectors": [],
+    "contacts": {
+      "departments": {
+        "accounts": "039 254 5021 mabhozat@andm.gov.za",
+        "electricity": "n/a",
+        "refuse_Waste": "039 254 5075 mdutyanal@andm.gov.za",
+        "roads": "n/a",
+        "service_delivery": "039 254 5080 dlokwenid@andm.gov.za",
+        "water": "039 254 5015 gulen@andm.gov.za"
+      }
+    }
+  },
+  {
+    "info_url": "https://municipalities.co.za/overview/116/amajuba-district-municipality",
+    "name": "Amajuba District",
+    "type": "district",
+    "province": "KwaZulu-Natal",
+    "address": {
+      "postal": "Private Bag X6615, Newcastle, 2940",
+      "physical": "Unit B9356 Amajuba Building, Section 1, Madadeni"
+    },
+    "tel": "034 329 7200",
+    "website": "www.amajuba.gov.za",
+    "mdb_code": "DC25",
+    "description": "The Amajuba District Municipality is a Category C municipality located in the north-western corner of KwaZulu-Natal, bordering on the Free State Province and Limpopo. It is one of the smallest districts in the province, making up only 8% of its geographical area. The municipality comprises three local municipalities: Newcastle, eMadlangeni and Dannhauser. The main transportation routes linking the district to its surrounds are the N11, which is the alternative route to Johannesburg from Durban, and the rail line, which is the main line from the Durban harbour to Gauteng. The R34 also bisects the district in an east-west direction and provides a linkage from the port city of Richards Bay to the interior.",
+    "area_in_km_squared": 7102,
+    "towns": [
+      "Charlestown",
+      "Dannhauser",
+      "Hattingspruit",
+      "Newcastle",
+      "Utrecht"
+    ],
+    "economic_sectors": [
+      {
+        "name": "Manufacturing",
+        "percentage": 16
+      },
+      {
+        "name": "mining",
+        "percentage": 1.7
+      },
+      {
+        "name": "community services",
+        "percentage": 20
+      },
+      {
+        "name": "finance",
+        "percentage": 11
+      }
+    ],
+    "contacts": {
+      "departments": {
+        "accounts": "086 026 2582 contact@amajuba.gov.za",
+        "electricity": "n/a",
+        "refuse_Waste": "n/a",
+        "roads": "n/a",
+        "service_delivery": "n/a",
+        "water": "0860 262 582 contact@amajuba.gov.za"
+      }
+    }
+  },
+  {
+    "info_url": "https://municipalities.co.za/overview/102/amathole-district-municipality",
+    "name": "Amathole District",
+    "type": "district",
+    "province": "Eastern Cape",
+    "address": {
+      "postal": "PO Box 320, East London, 5200",
+      "physical": "15 Rees Street, Quigney, East London, 5201"
+    },
+    "tel": "043 701 4000",
+    "website": "www.amathole.gov.za",
+    "mdb_code": "DC12",
+    "description": "The Amathole District Municipality is a Category C municipality situated in the central part of the Eastern Cape. It stretches along the Sunshine Coast from the Fish River Mouth and along the Eastern Seaboard to just south of Hole in the Wall along the Wild Coast. It is bordered to the north by the Amathole Mountain Range. The municipality is comprised of six local municipalities: Mbhashe, Mnquma, Great Kei, Amahlathi, Ngqushwa and Raymond Mhlaba. Four heritage routes have been developed that are named after Xhosa kings and heroes. They are the Maqoma Route, the Makana Route, the Sandile Route and the Phalo Route. These intertwine with the other tourism routes located within the district, namely the Sunshine Coast Route, the Wild Coast Route, the Amathole Mountain Escape Route and the Friendly N6 Route.",
+    "area_in_km_squared": 21114,
+    "towns": [
+      "Adelaide",
+      "Alice",
+      "Amatola Coastal",
+      "Bedford",
+      "Butterworth",
+      "Cathcart",
+      "Dutywa",
+      "Elliotdale",
+      "Hamburg",
+      "Hogsback",
+      "Kei Mouth",
+      "Kei Road",
+      "Keiskammahoek",
+      "Kentani",
+      "Komga",
+      "KwaMaqoma (Fort Beaufort)",
+      "Middeldrift",
+      "Morgan Bay",
+      "Ngqamakhwe",
+      "Peddie",
+      "Seymore",
+      "Stutterheim",
+      "Tshoxa",
+      "Willowvale"
+    ],
+    "economic_sectors": [],
+    "contacts": {
+      "departments": {
+        "accounts": "043 783 2294; 072 106 76 revenueadm@amathole.gov.za",
+        "electricity": "081 432 9630  info@amathole.gov.za",
+        "refuse_Waste": "081 432 9630  info@amathole.gov.za",
+        "roads": "081 432 9630  info@amathole.gov.za",
+        "service_delivery": "081 432 9630 info@amathole.gov.za",
+        "water": "081 432 9630  info@amathole.gov.za"
+      }
+    }
+  },
+  {
+    "info_url": "https://municipalities.co.za/overview/139/bojanala-platinum-district-municipality",
+    "name": "Bojanala Platinum District",
+    "type": "district",
+    "province": "North West",
+    "address": {
+      "postal": "PO Box 1993, Rustenburg, 0300",
+      "physical": "Cnr Beyers Naude & Fatima Bhayat Drives, Rustenburg"
+    },
+    "tel": "014 590 4500",
+    "website": "bojanala.gov.za",
+    "mdb_code": "DC37",
+    "description": "The Bojanala Platinum District Municipality is a Category C municipality situated in the North West Province. It is bordered by the Waterberg District Municipality to the north, Dr Kenneth Kaunda District Municipality to the south, City of Tshwane Metro to the east, West Rand District Municipality to the south-east, and Ngaka Modiri Molema District Municipality to the west. It is one of four district municipalities in the province and comprises five local municipalities: Kgetlengrivier, Madibeng, Moses Kotane, Moretele and Rustenburg. The seat of Bojanala Platinum is Rustenburg.",
+    "area_in_km_squared": 18333,
+    "towns": [
+      "Brits",
+      "Derby",
+      "Hartbeesfontein-A",
+      "Hartbeespoort",
+      "Koster",
+      "Madikwe",
+      "Marikana",
+      "Mooinooi",
+      "Phatsima",
+      "Rustenburg",
+      "Swartruggens",
+      "Tlhabane"
+    ],
+    "economic_sectors": [
+      {
+        "name": "Agriculture",
+        "percentage": 2.6
+      },
+      {
+        "name": "manufacturing",
+        "percentage": 7.1
+      },
+      {
+        "name": "construction",
+        "percentage": 2.1
+      },
+      {
+        "name": "services and trade",
+        "percentage": 27.8
+      }
+    ],
+    "contacts": {
+      "departments": {
+        "accounts": "n/a",
+        "electricity": "n/a",
+        "refuse_Waste": "n/a",
+        "roads": "n/a",
+        "service_delivery": "n/a",
+        "water": "n/a"
+      }
+    }
+  },
+  {
+    "info_url": "https://municipalities.co.za/overview/143/cape-winelands-district-municipality",
+    "name": "Cape Winelands District",
+    "type": "district",
+    "province": "Western Cape",
+    "address": {
+      "postal": "PO Box 100, Stellenbosch, 7599",
+      "physical": "46 Alexander Street, Stellenbosch"
+    },
+    "tel": "086 126 5263",
+    "website": "www.capewinelands.gov.za",
+    "mdb_code": "DC2",
+    "description": "The Cape Winelands District Municipality (CWDM) is a Category C municipality situated in the Western Cape Province next to the Cape Metropolitan area. It was formerly known as the Boland District Municipality. CWDM is a landlocked area in between the West Coast and Overberg coastal districts. The district includes five local municipalities, namely: Drakenstein, Stellenbosch, Witzenberg, Breede Valley and Langeberg. The area is one of the ‘pearls' of South Africa's rural and small-town subregions, but disparate with a relatively high and diverse level of development. It’s a superb wine-producing area, and indeed the best known in South Africa. The magnificent mountain ranges around Stellenbosch and Franschhoek provide ideal microclimates for the vines.",
+    "area_in_km_squared": 21478,
+    "towns": [
+      "Ashton",
+      "Bonnievale",
+      "Ceres",
+      "De Doorns",
+      "Franschhoek",
+      "Gouda",
+      "Klapmuts",
+      "McGregor",
+      "Montagu",
+      "Op-Die-Berg",
+      "Paarl",
+      "Pniel",
+      "Prince Alfred Hamlet",
+      "Rawsonville",
+      "Robertson",
+      "Saron",
+      "Stellenbosch",
+      "Stellenbosch Farms",
+      "Touws River",
+      "Tulbagh",
+      "Wellington",
+      "Wolseley",
+      "Worcester"
+    ],
+    "economic_sectors": [
+      {
+        "name": "Finance and business services",
+        "percentage": 23.9
+      },
+      {
+        "name": "manufacturing",
+        "percentage": 19.6
+      },
+      {
+        "name": "wholesale and retail trade",
+        "percentage": 15.2
+      },
+      {
+        "name": "forestry and fishing",
+        "percentage": 13.1
+      },
+      {
+        "name": "transport and communication",
+        "percentage": 9
+      },
+      {
+        "name": "construction",
+        "percentage": 4.5
+      }
+    ],
+    "contacts": {
+      "departments": {
+        "accounts": "n/a",
+        "electricity": "n/a",
+        "refuse_Waste": "n/a",
+        "roads": "086 126 8263 Henry.Maart@capewinelands.gov.za",
+        "service_delivery": "086 126 8263 admin@capewinelands.gov.za",
+        "water": "n/a"
+      }
+    }
+  },
+  {
+    "info_url": "https://municipalities.co.za/overview/126/capricorn-district-municipality",
+    "name": "Capricorn District",
+    "type": "district",
+    "province": "Limpopo",
+    "address": {
+      "postal": "PO Box 4100, Polokwane, 0700",
+      "physical": "41 Biccard Street, Polokwane, 0700"
+    },
+    "tel": "015 294 1000",
+    "website": "cdm.org.za",
+    "mdb_code": "DC35",
+    "description": "The Capricorn District Municipality is a Category C municipality situated in the Limpopo Province. The municipality is situated as a stopover between Gauteng and the northern areas of Limpopo, and between the north-western areas and the Kruger National Park. It forms a gateway to Botswana, Zimbabwe and Mozambique.  It consists of the following four local municipalities: Blouberg, Lepelle-Nkumpi, Molemole and Polokwane. It derives its name from the Tropic of Capricorn, along which it is situated. Limpopo's capital, Polokwane (previously Pietersburg), lies in the heart of the Capricorn region. The district has an internal airport, and is linked to Gauteng by one of the best stretches of the N1 in South Africa. It has the third-largest district economy in the province, and is predominantly rural in nature.",
+    "area_in_km_squared": 21706,
+    "towns": [
+      "Alldays",
+      "Dendron",
+      "Morebeng (Soekmekaar)",
+      "Polokwane",
+      "Senwabarwana (Bochum)",
+      "Zebediela"
+    ],
+    "economic_sectors": [
+      {
+        "name": "Agriculture",
+        "percentage": 22.7
+      },
+      {
+        "name": "mining",
+        "percentage": 12.7
+      },
+      {
+        "name": "manufacturing",
+        "percentage": 44.2
+      },
+      {
+        "name": "electricity",
+        "percentage": 12.1
+      },
+      {
+        "name": "construction",
+        "percentage": 39.4
+      },
+      {
+        "name": "trade",
+        "percentage": 44.6
+      },
+      {
+        "name": "transport",
+        "percentage": 45.3
+      },
+      {
+        "name": "finance",
+        "percentage": 38.1
+      },
+      {
+        "name": "community services",
+        "percentage": 43.4
+      }
+    ],
+    "contacts": {
+      "departments": {
+        "accounts": "n/a",
+        "electricity": "n/a",
+        "refuse_Waste": "n/a",
+        "roads": "n/a",
+        "service_delivery": "n/a",
+        "water": "n/a"
+      }
+    }
+  },
+  {
+    "info_url": "https://municipalities.co.za/overview/144/central-karoo-district-municipality",
+    "name": "Central Karoo District",
+    "type": "district",
+    "province": "Western Cape",
+    "address": {
+      "postal": "Private Bag X560, Beaufort West, 6970",
+      "physical": "63 Donkin Street, Beaufort West, 6970"
+    },
+    "tel": "023 449 1000",
+    "website": "www.skdm.co.za",
+    "mdb_code": "DC5",
+    "description": "The Central Karoo District Municipality is a Category C municipality located in the Western Cape Province. It is bordered by the Pixley Ka Seme District Municipality in the north, Namakwa District Municipality in the north-west, Garden Route District Municipality in the south, Sarah Baartman District Municipality in the east and Cape Winelands District Municipality in the west. Central Karoo is the largest district in the province, making up a third of its geographical area. It is comprised of three local municipalities: Laingsburg, Prince Albert and Beaufort West. The seat of the district is Beaufort West.",
+    "area_in_km_squared": 38854,
+    "towns": [
+      "Beaufort West",
+      "Klaarstroom",
+      "Laingsburg",
+      "Leeu Gamka",
+      "Matjiesfontein",
+      "Merweville",
+      "Murraysburg",
+      "Nelspoort",
+      "Prince Albert",
+      "Welgemoed"
+    ],
+    "economic_sectors": [
+      {
+        "name": "General government",
+        "percentage": 20.74
+      },
+      {
+        "name": "social and personal services",
+        "percentage": 18.22
+      },
+      {
+        "name": "forestry and fishing",
+        "percentage": 16.28
+      },
+      {
+        "name": "business",
+        "percentage": 14.04
+      },
+      {
+        "name": "catering and accommodation",
+        "percentage": 11.06
+      },
+      {
+        "name": "storage and communication",
+        "percentage": 10.03
+      },
+      {
+        "name": "gas and water",
+        "percentage": 3.88
+      },
+      {
+        "name": "construction",
+        "percentage": 3.18
+      },
+      {
+        "name": "manufacturing",
+        "percentage": 2.53
+      },
+      {
+        "name": "mining and quarrying",
+        "percentage": 0.03
+      }
+    ],
+    "contacts": {
+      "departments": {
+        "accounts": "023 449 1000 manager@skdm.co.za",
+        "electricity": "n/a",
+        "refuse_Waste": "n/a",
+        "roads": "023 449 1000 manager@skdm.co.za",
+        "service_delivery": "023 449 1000 manager@skdm.co.za",
+        "water": "n/a"
+      }
+    }
+  },
+  {
+    "info_url": "https://municipalities.co.za/overview/104/chris-hani-district-municipality",
+    "name": "Chris Hani District",
+    "type": "district",
+    "province": "Eastern Cape",
+    "address": {
+      "postal": "Private Bag X7121, Komani, 5320",
+      "physical": "15 Bells Road, Central Komani"
+    },
+    "tel": "045 808 4600",
+    "website": "www.chrishanidm.gov.za",
+    "mdb_code": "DC13",
+    "description": "The Chris Hani District Municipality is a Category C municipality situated in the north-eastern part of the Eastern Cape, a linking node to all regions in the province. It is bordered by the Joe Gqabi District to the north, Cacadu and Amathole District to the south, OR Tambo District to the east, and Northern Cape to the west. Chris Hani is the second-largest district in the province, making up almost a third of its geographical area. The municipality comprises six local municipalities: Inxuba Yethemba, Enoch Mgijima, Intsika Yethu, Engcobo, Sakhisizwe and Emalahleni. The area, which is vastly agricultural, provides an ideal investment opportunity for agro-processing, and its proximity to the ports of East London and Gqeberha (Port Elizabeth), with links to major routes like the N6 and N10, is an advantage.",
+    "area_in_km_squared": 36406,
+    "towns": [
+      "Cacadu (Lady Frere)",
+      "Cala",
+      "Cofimvaba",
+      "Dordrecht",
+      "Engcobo",
+      "Hofmeyr",
+      "Indwe",
+      "Khowa (Elliot)",
+      "Komani (Queenstown)",
+      "Middelburg",
+      "Molteno",
+      "Mount Zebra National Park",
+      "Nxuba (Cradock)",
+      "Sada",
+      "Sterkstroom",
+      "Tarkastad",
+      "Tsomo",
+      "Whittlesea"
+    ],
+    "economic_sectors": [
+      {
+        "name": "Community services",
+        "percentage": 50
+      },
+      {
+        "name": "trade",
+        "percentage": 17
+      },
+      {
+        "name": "finance",
+        "percentage": 14.5
+      },
+      {
+        "name": "mining",
+        "percentage": 0.23
+      }
+    ],
+    "contacts": {
+      "departments": {
+        "accounts": "045 808 4715/18/25 ebilly@chrishanidm.gov.za",
+        "electricity": "n/a",
+        "refuse_Waste": "n/a",
+        "roads": "n/a",
+        "service_delivery": "0800 100 100 communications@chrishanidm.gov.za",
+        "water": "045 808 4681 mshasha@chrishanidm.gov.za"
+      }
+    }
+  },
+  {
+    "info_url": "https://municipalities.co.za/overview/140/dr-kenneth-kaunda-district-municipality",
+    "name": "Dr Kenneth Kaunda District",
+    "type": "district",
+    "province": "North West",
+    "address": {
+      "postal": "Private Bag X5017, Klerksdorp, 2570",
+      "physical": "Patmore Street, Orkney, Klerksdorp, North West Province"
+    },
+    "tel": "018 473 8000",
+    "website": "www.kaundadistrict.gov.za",
+    "mdb_code": "DC40",
+    "description": "The Dr Kenneth Kaunda District Municipality is a Category C municipality in the North West Province. It is located 65km south-west of Johannesburg and borders the Gauteng Province on that side. It is the smallest district in the province, making up 14% of its geographical area. The municipality consists of three local municipalities: JB Marks, City of Matlosana and Maquassi Hills. It is a region with a rich and diverse natural and cultural heritage, with the potential for sustained economic growth. The region is home to some of the most prominent gold mines in the world and one of the oldest meteor impact sites in the world. The district is serviced by a number of primary roads, with the N12 Treasure Corridor forming the main development axis in the district and serving as a potential concentration point for future industrial, commercial and tourism development.",
+    "area_in_km_squared": 14671,
+    "towns": [
+      "Hartbeesfontein",
+      "Klerksdorp",
+      "Leeudoringstad",
+      "Makwassie",
+      "Orkney",
+      "Potchefstroom",
+      "Stilfontein",
+      "Ventersdorp",
+      "Witpoort",
+      "Wolmaransstad"
+    ],
+    "economic_sectors": [],
+    "contacts": {
+      "departments": {
+        "accounts": "n/a",
+        "electricity": "n/a",
+        "refuse_Waste": "n/a",
+        "roads": "n/a",
+        "service_delivery": "n/a",
+        "water": "n/a"
+      }
+    }
+  },
+  {
+    "info_url": "https://municipalities.co.za/overview/141/dr-ruth-segomotsi-mompati-district-municipality",
+    "name": "Dr Ruth Segomotsi Mompati District",
+    "type": "district",
+    "province": "North West",
+    "address": {
+      "postal": "PO Box 21, Vryburg, 8600",
+      "physical": "34 Church Street, Vryburg, 8601"
+    },
+    "tel": "053 928 6400",
+    "website": "drrsmdm.gov.za",
+    "mdb_code": "DC39",
+    "description": "The Dr Ruth Segomotsi Mompati District Municipality (previously Bophirima District Municipality) is a Category C municipality located in the North West Province. It is bordered by Ngaka Modiri Molema and Dr Kenneth Kaunda in the north, and John Taolo Gaetsewe in the south, which is a cross-boundary within the Northern Cape. It is the largest district in the province, making up almost half of its geographical area. The district municipality comprises five local municipalities: Naledi, Greater Taung, Kagisano-Molopo, Mamusa and Lekwa-Teemane. It is one of four districts in the province, with poor rural areas, formerly situated in the former Bophuthatswana homeland.  With the population situated in more than 470 villages and towns dispersed in a 250km radius (approximately 50km north to south and 200km east to west), this district presents unique management and organisational challenges.",
+    "area_in_km_squared": 43753,
+    "towns": [
+      "Amalia",
+      "Bloemhof",
+      "Christiana",
+      "Piet Plessis",
+      "Pomfret",
+      "Pudimoe",
+      "Reivilo",
+      "Schweizer-Reneke",
+      "Stella",
+      "Taung",
+      "Vryburg"
+    ],
+    "economic_sectors": [],
+    "contacts": {
+      "departments": {
+        "accounts": "n/a",
+        "electricity": "n/a",
+        "refuse_Waste": "n/a",
+        "roads": "n/a",
+        "service_delivery": "053 928 6400 MarupingM@drrsmdm.gov.za ",
+        "water": "053 928 6400 MarupingM@drrsmdm.gov.za "
+      }
+    }
+  },
+  {
+    "info_url": "https://municipalities.co.za/overview/131/ehlanzeni-district-municipality",
+    "name": "Ehlanzeni District",
+    "type": "district",
+    "province": "Mpumalanga",
+    "address": {
+      "postal": "PO Box 3333, Mbombela, 1200",
+      "physical": "8 Van Niekerk Street, Mbombela, 1200"
+    },
+    "tel": "013 759 8500 / 8570",
+    "website": "www.ehlanzeni.gov.za",
+    "mdb_code": "DC32",
+    "description": "The Ehlanzeni District Municipality is a Category C municipality situated in the north-east of the Mpumalanga Province. It makes up just over a third of the province's geographical area. The district is comprised of four local municipalities: Bushbuckridge, City of Mbombela, Nkomazi and Thaba Chweu. Mbombela (previously Nelspruit) is the capital of Mpumalanga, situated in the City of Mbombela Local Municipality, which is also the home of the Mpumalanga Provincial Government and, as a result, is the most concentrated economic hub within the province. It features three border gates to both Swaziland and Mozambique (Matsamo, Komatipoort and Mananga border gates) and, therefore, movement of people from neighbouring countries to the district, and from Gauteng to either Swaziland or Mozambique, creates a catalyst for the economic life of the area.",
+    "area_in_km_squared": 27895,
+    "towns": [
+      "Barberton",
+      "Emoyeni",
+      "Entokozweni",
+      "Graskop",
+      "Hazyview",
+      "Kaapschehoop",
+      "Kabokweni",
+      "Kanyamazane",
+      "Komatipoort",
+      "Luphisi",
+      "Lydenburg",
+      "Malalane",
+      "Marloth Park",
+      "Mashishing",
+      "Matsulu",
+      "Mbombela",
+      "Mpakeni",
+      "Msogwaba",
+      "Ngodwana",
+      "Pilgrim's Rest",
+      "Sabie",
+      "Sabie Park",
+      "Skukuza",
+      "Tekwane",
+      "White River"
+    ],
+    "economic_sectors": [],
+    "contacts": {
+      "departments": {
+        "accounts": "n/a",
+        "electricity": "n/a",
+        "refuse_Waste": "n/a",
+        "roads": "n/a",
+        "service_delivery": "n/a",
+        "water": "n/a"
+      }
+    }
+  },
+  {
+    "info_url": "https://municipalities.co.za/overview/107/fezile-dabi-district-municipality",
+    "name": "Fezile Dabi District",
+    "type": "district",
+    "province": "Free State",
+    "address": {
+      "postal": "PO Box 10, Sasolburg, 1947",
+      "physical": "John Vorster Road, Sasolburg, 1947"
+    },
+    "tel": "016 970 8600",
+    "website": "feziledabi.gov.za",
+    "mdb_code": "DC20",
+    "description": "The Fezile Dabi District Municipality is a Category C municipality, formerly known as the Northern Free State District Municipality, situated in the north of the Free State. It is bordered by the North West, Gauteng and Mpumalanga Provinces to the north, Thabo Mofutsanyana District to the south, and Lejweleputswa District to the west. The municipality is the smallest district in the province, making up 16% of its geographical area. It consists of four local municipalities: Moqhaka, Metsimaholo, Ngwathe and Mafube. The main attraction site, the Vredefort Dome, being the third-largest meteorite site in the world, is located within the district.",
+    "area_in_km_squared": 20674,
+    "towns": [
+      "Cornelia",
+      "Deneysville",
+      "Edenville",
+      "Frankfort",
+      "Heilbron",
+      "Koppies",
+      "Kragbron",
+      "Kroonstad",
+      "Oranjeville",
+      "Parys",
+      "Renovaal",
+      "Sasolburg",
+      "Steynsrus",
+      "Tweeling",
+      "Vierfontein",
+      "Viljoenskroon",
+      "Villiers",
+      "Vredefort"
+    ],
+    "economic_sectors": [
+      {
+        "name": "Trade",
+        "percentage": 22
+      },
+      {
+        "name": "community services",
+        "percentage": 20
+      },
+      {
+        "name": "manufacturing",
+        "percentage": 13
+      },
+      {
+        "name": "households",
+        "percentage": 13
+      },
+      {
+        "name": "agriculture",
+        "percentage": 12
+      },
+      {
+        "name": "finance",
+        "percentage": 7
+      },
+      {
+        "name": "construction",
+        "percentage": 6
+      },
+      {
+        "name": "transport",
+        "percentage": 5
+      }
+    ],
+    "contacts": {
+      "departments": {
+        "accounts": "n/a",
+        "electricity": "n/a",
+        "refuse_Waste": "n/a",
+        "roads": "n/a",
+        "service_delivery": "n/a",
+        "water": "n/a"
+      }
+    }
+  },
+  {
+    "info_url": "https://municipalities.co.za/overview/134/frances-baard-district-municipality",
+    "name": "Frances Baard District",
+    "type": "district",
+    "province": "Northern Cape",
+    "address": {
+      "postal": "Private Bag X6088, Kimberley, 8300",
+      "physical": "51 Drakensberg Avenue, Carters Glen, Kimberley, 8301"
+    },
+    "tel": "053 838 0911",
+    "website": "www.francesbaard.gov.za",
+    "mdb_code": "DC9",
+    "description": "The Frances Baard District Municipality is a Category C municipality located in the far eastern portion of the Northern Cape Province. It shares its northern borders with the North West Province and its eastern border with the Free State Province. The municipality is the smallest district in the Northern Cape, making up only 3% of its geographical area. However, it accommodates the largest proportion of the province's population. It comprises the four local municipalities of Dikgatlong, Magareng, Phokwane and Sol Plaatje. Kimberley, which is where the district municipality is located, is less than 500km away from Johannesburg in the north, less than 1 000km away from Cape Town in the south, and less than 800km away from the Port of Durban in the east.",
+    "area_in_km_squared": 13002,
+    "towns": [
+      "Barkly West",
+      "Delportshoop",
+      "Hartswater",
+      "Jan Kempdorp",
+      "Kimberley",
+      "Pampierstat",
+      "Ritchie",
+      "Warrenton",
+      "Windsorton"
+    ],
+    "economic_sectors": [
+      {
+        "name": "Community services",
+        "percentage": 28
+      },
+      {
+        "name": "finance",
+        "percentage": 22
+      },
+      {
+        "name": "trade",
+        "percentage": 15
+      },
+      {
+        "name": "transport",
+        "percentage": 12
+      },
+      {
+        "name": "mining",
+        "percentage": 10
+      },
+      {
+        "name": "agriculture",
+        "percentage": 4
+      },
+      {
+        "name": "construction",
+        "percentage": 3
+      },
+      {
+        "name": "electricity",
+        "percentage": 2
+      }
+    ],
+    "contacts": {
+      "departments": {
+        "accounts": "n/a",
+        "electricity": "n/a",
+        "refuse_Waste": "n/a",
+        "roads": "n/a",
+        "service_delivery": "053 838 0911 frances.baard@fbdm.co.za",
+        "water": "n/a"
+      }
+    }
+  },
+  {
+    "info_url": "https://municipalities.co.za/overview/145/garden-route-district-municipality",
+    "name": "Garden Route District",
+    "type": "district",
+    "province": "Western Cape",
+    "address": {
+      "postal": "PO Box 12, George, 6530",
+      "physical": "54 York Street, George, 6530"
+    },
+    "tel": "044 803 1300",
+    "website": "www.gardenroute.gov.za",
+    "mdb_code": "DC4",
+    "description": "The Garden Route District Municipality is a Category C municipality situated in the Western Cape Province. The name was changed from Eden District Municipality to the Garden Route District Municipality in October 2018. Garden Route District shares borders with four other district municipalities, namely: Sarah Baartman District Municipality in the Eastern Cape, and Overberg, Cape Winelands and Central Karoo District Municipalities in the Western Cape. The district municipality comprises seven local municipalities: George, Mossel Bay, Knysna, Bitou, Oudtshoorn, Hessequa and Kannaland. The region is defined as a medium-capacity functional municipality. Garden Route District has a diverse natural resource base. It is marketed with regards to tourism under the internationally acclaimed brands of the ‘Garden Route' and ‘Klein Karoo'.",
+    "area_in_km_squared": 23331,
+    "towns": [
+      "Albertinia",
+      "Boggoms Bay",
+      "Brandwag",
+      "Brenton",
+      "Brenton-on-Sea",
+      "Buffels Bay",
+      "Calitzdorp",
+      "De Rust",
+      "Dysselsdorp",
+      "Friemersheim",
+      "George",
+      "Gouritsmond",
+      "Great Brak River",
+      "Haarlem",
+      "Heidelberg",
+      "Herbertsdale",
+      "Herolds Bay",
+      "Jongensfontein",
+      "Keurboomstrand",
+      "Knoetzie",
+      "Knysna",
+      "Krantshoek",
+      "Kurland",
+      "Kwanokuthula",
+      "Ladismith",
+      "Mossel Bay",
+      "Nature's Valley",
+      "Oudtshoorn",
+      "Plettenberg Bay",
+      "Rheenendal",
+      "Riversdale",
+      "Sedgefield",
+      "Slangrivier",
+      "Still Bay",
+      "Uniondale",
+      "Vanwyksdorp",
+      "Victoria Bay",
+      "Vleesbaai",
+      "Wilderness",
+      "Witsand",
+      "Wittedrift",
+      "Zoar"
+    ],
+    "economic_sectors": [
+      {
+        "name": "Finance and business services",
+        "percentage": 23.4
+      },
+      {
+        "name": "manufacturing",
+        "percentage": 17.3
+      },
+      {
+        "name": "wholesale and accommodation",
+        "percentage": 17
+      },
+      {
+        "name": "general government",
+        "percentage": 12.1
+      },
+      {
+        "name": "construction",
+        "percentage": 9.5
+      },
+      {
+        "name": "transport and communication",
+        "percentage": 7.8
+      },
+      {
+        "name": "community services",
+        "percentage": 5.5
+      },
+      {
+        "name": "forestry and fishing",
+        "percentage": 5.5
+      }
+    ],
+    "contacts": {
+      "departments": {
+        "accounts": "044 803 1339 CMartin@gardenroute.gov.za",
+        "electricity": "n/a",
+        "refuse_Waste": "n/a",
+        "roads": "044 803 1505 info@gardenroute.gov.za",
+        "service_delivery": "n/a",
+        "water": "n/a"
+      }
+    }
+  },
+  {
+    "info_url": "https://municipalities.co.za/overview/132/gert-sibande-district-municipality",
+    "name": "Gert Sibande District",
+    "type": "district",
+    "province": "Mpumalanga",
+    "address": {
+      "postal": "PO Box 1748, Ermelo, 2350",
+      "physical": "Cnr Joubert & Oosthuise Streets, Ermelo, 2350"
+    },
+    "tel": "017 801 7000",
+    "website": "www.gsibande.gov.za",
+    "mdb_code": "DC30",
+    "description": "The Gert Sibande District Municipality is a Category C municipality located in the Mpumalanga Province. It is bordered by the Ehlanzeni and Nkangala District Municipalities to the north, KwaZulu-Natal and the Free State to the south, Swaziland to the east, and Gauteng to the west. The district is the largest of the three districts in the province, making up almost half of its geographical area. It is comprised of seven local municipalities: Govan Mbeki, Chief Albert Luthuli, Msukaligwa, Dipaleseng, Mkhondo, Lekwa and Dr Pixley ka Isaka Seme. Highways that pass through Gert Sibande District Municipality include the N11, which goes through to the N2 in KwaZulu-Natal, the N17 from Gauteng passing through to Swaziland, and the N3 from Gauteng to KwaZulu-Natal.",
+    "area_in_km_squared": 31840,
+    "towns": [
+      "Amersfoort",
+      "Balfour",
+      "Bethal",
+      "Breyten",
+      "Carolina",
+      "Charl Cilliers",
+      "Chrissiesmeer",
+      "Davel",
+      "Ekulindeni",
+      "Embalenhle",
+      "Empuluzi",
+      "Ermelo",
+      "Evander",
+      "Greylingstad",
+      "Grootvlei",
+      "Kinross",
+      "Leandra",
+      "Lothair",
+      "Morgenzon",
+      "Perdekop",
+      "Secunda",
+      "Standerton",
+      "Trichardt",
+      "Volksrust",
+      "Wakkerstroom",
+      "eManzana",
+      "eMkhondo (Piet Retief)",
+      "eMvelo (Amsterdam)"
+    ],
+    "economic_sectors": [],
+    "contacts": {
+      "departments": {
+        "accounts": "017 801 7009 sibongilepz@gsibande.gov.za",
+        "electricity": "n/a",
+        "refuse_Waste": "n/a",
+        "roads": "017 801 7179 PhiweB@gsibande.gov.za",
+        "service_delivery": "017 801 7044 ephraimt@gsibande.gov.za",
+        "water": "017 801 7163/7149 tshidip@gsibande.gov.za/tshiamom@gsibande.gov.za"
+      }
+    }
+  },
+  {
+    "info_url": "https://municipalities.co.za/overview/118/harry-gwala-district-municipality",
+    "name": "Harry Gwala District",
+    "type": "district",
+    "province": "KwaZulu-Natal",
+    "address": {
+      "postal": "Private Bag X501, Ixopo, 3276",
+      "physical": "40 Main Street, Ixopo"
+    },
+    "tel": "039 834 8700",
+    "website": "www.harrygwaladm.gov.za",
+    "mdb_code": "DC43",
+    "description": "The Harry Gwala District Municipality (previously Sisonke District Municipality) is a Category C municipality situated south of KwaZulu-Natal. It borders on the Eastern Cape Province, Lesotho and the Drakensberg Mountains, which form a 200km-long World Heritage Site. The municipality is comprised of four local municipalities: Dr Nkosazana Dlamini Zuma, uMzimkhulu, Greater Kokstad and Ubuhlebezwe. The seat of Harry Gwala is Ixopo. Economically, the most prominent employment sectors are agriculture, construction and small-scale manufacturing. The district is known for its progressive farming methods. Harry Gwala has an abundance of high quality soils, high altitude, abundant water, and climatic extremes, which makes the area suitable for dairy farming. A significant portion of dairy consumed in KwaZulu-Natal is produced within the district. The unspoilt natural environment has high ecotourism and adventure-tourism potential.",
+    "area_in_km_squared": 10388,
+    "towns": [
+      "Creighton",
+      "Himeville",
+      "Ixopo",
+      "Kokstad",
+      "Underberg",
+      "uMzimkhulu"
+    ],
+    "economic_sectors": [
+      {
+        "name": "Mining",
+        "percentage": 0.3
+      },
+      {
+        "name": "trade",
+        "percentage": 21.1
+      },
+      {
+        "name": "agriculture",
+        "percentage": 11.7
+      }
+    ],
+    "contacts": {
+      "departments": {
+        "accounts": "039 834 8700 mfenqav@harrygwaladm.gov.za",
+        "electricity": "n/a",
+        "refuse_Waste": "n/a",
+        "roads": "n/a",
+        "service_delivery": "n/a",
+        "water": "086 010 3651 nkabanen@sisonkedm.gov.za"
+      }
+    }
+  },
+  {
+    "info_url": "https://municipalities.co.za/overview/117/ilembe-district-municipality",
+    "name": "iLembe District",
+    "type": "district",
+    "province": "KwaZulu-Natal",
+    "address": {
+      "postal": "PO Box 1788, KwaDukuza, 4450",
+      "physical": "iLembe House, 59/61 Mahatma Ghandi Street, KwaDukuza"
+    },
+    "tel": "032 437 9300/9375",
+    "website": "www.ilembe.gov.za",
+    "mdb_code": "DC29",
+    "description": "The iLembe District Municipality is a Category C municipality situated on the east coast of KwaZulu-Natal, bordering the Indian Ocean. It is the smallest of the province's district municipalities, making up a mere 3% of its geographical area. iLembe consists of four local municipalities located between Durban and Richards Bay: Mandeni, KwaDukuza, Maphumulo and Ndwedwe. The seat of iLembe is KwaDukuza (previously Stanger). The town straddles the Tugela River, the traditional border between former Colonial Natal and the Kingdom of Zululand, the site of historical and cultural events. The majority of the rural inland areas are tribal authority areas, characterised by subsistence farming. At the border of the district is the Unicity of Durban in the immediate south, which is linked by the coastal highway to Richards Bay in the north, giving it access to both harbours for trade purposes. It is also a leading place for the tourism industry because of its rich Zulu Kingdom heritage, as it was named in recognition of King Shaka.",
+    "area_in_km_squared": 3270,
+    "towns": [
+      "Dolphin Coast/Ballito",
+      "Isithebe",
+      "KwaDukuza",
+      "Mandeni",
+      "Ndwedwe",
+      "Nkwazi/Zinkwazi Beach"
+    ],
+    "economic_sectors": [
+      {
+        "name": "Community services",
+        "percentage": 20.6
+      },
+      {
+        "name": "agriculture",
+        "percentage": 17.7
+      },
+      {
+        "name": "mining",
+        "percentage": 0.2
+      },
+      {
+        "name": "manufacturing",
+        "percentage": 23.9
+      },
+      {
+        "name": "electricity",
+        "percentage": 2.3
+      },
+      {
+        "name": "construction",
+        "percentage": 2.5
+      },
+      {
+        "name": "trade",
+        "percentage": 9.9
+      },
+      {
+        "name": "transport",
+        "percentage": 5.8
+      },
+      {
+        "name": "finance",
+        "percentage": 16.4
+      }
+    ],
+    "contacts": {
+      "departments": {
+        "accounts": "032 437 9300 geoffrey.kumalo@ilembe.gov.za",
+        "electricity": "n/a",
+        "refuse_Waste": "n/a",
+        "roads": "n/a",
+        "service_delivery": "032 551 8704/05 Kuhle.Mthonjeni@ilembe.gov.za",
+        "water": "032 551 8704/05 Kuhle.Mthonjeni@ilembe.gov.za"
+      }
+    }
+  },
+  {
+    "info_url": "https://municipalities.co.za/overview/105/joe-gqabi-district-municipality",
+    "name": "Joe Gqabi District",
+    "type": "district",
+    "province": "Eastern Cape",
+    "address": {
+      "postal": "Private Bag X102, Barkly East, 9786",
+      "physical": "Cnr Cole & Graham Streets, Barkly East, 9786"
+    },
+    "tel": "045 979 3000",
+    "website": "www.jgdm.gov.za",
+    "mdb_code": "DC14",
+    "description": "The Joe Gqabi District Municipality (previously Ukhahlamba District Municipality) is a Category C municipality located within the Eastern Cape. It borders the Free State Province and country of Lesotho to the north. The municipality is located to the north of the OR Tambo and Chris Hani District Municipalities, to the east of the Northern Cape, and to the west of Alfred Nzo. Joe Gqabi lies approximately 34km north of Komani (Queenstown) and its northern border is formed by the Orange River, which also forms the southern boundary of the Free State. It consists of three local municipalities: Elundini, Walter Sisulu and Senqu. Aliwal North is the main commercial and tourism centre.",
+    "area_in_km_squared": 25617,
+    "towns": [
+      "Aliwal North",
+      "Barkly East",
+      "Burgersdorp",
+      "Jamestown",
+      "Lady Grey",
+      "Nqanqarhu (MaClear)",
+      "Oviston",
+      "Rhodes",
+      "Rossouw",
+      "Sterkspruit",
+      "Steynsburg",
+      "Tlokoeng (Mount Fletcher)",
+      "Ugie",
+      "Venterstad"
+    ],
+    "economic_sectors": [
+      {
+        "name": "Community services",
+        "percentage": 38
+      },
+      {
+        "name": "agriculture",
+        "percentage": 6
+      },
+      {
+        "name": "manufacturing",
+        "percentage": 8
+      },
+      {
+        "name": "electricity",
+        "percentage": 1
+      },
+      {
+        "name": "construction",
+        "percentage": 5
+      },
+      {
+        "name": "trade",
+        "percentage": 21
+      },
+      {
+        "name": "transport",
+        "percentage": 8
+      },
+      {
+        "name": "finance",
+        "percentage": 13
+      }
+    ],
+    "contacts": {
+      "departments": {
+        "accounts": "0800 201 726 callcentre@jgdm.gov.za",
+        "electricity": "n/a",
+        "refuse_Waste": "n/a",
+        "roads": "n/a",
+        "service_delivery": "0800 201 726 callcentre@jgdm.gov.za",
+        "water": "0800 201 726 callcentre@jgdm.gov.za"
+      }
+    }
+  },
+  {
+    "info_url": "https://municipalities.co.za/overview/135/john-taolo-gaetsewe-district-municipality",
+    "name": "John Taolo Gaetsewe District",
+    "type": "district",
+    "province": "Northern Cape",
+    "address": {
+      "postal": "PO Box 1480, Kuruman, 8460",
+      "physical": "4 Federale Mynbou Street, Kuruman, 8460"
+    },
+    "tel": "053 712 8700",
+    "website": "taologaetsewe.gov.za",
+    "mdb_code": "DC45",
+    "description": "The John Taolo Gaetsewe District Municipality (previously Kgalagadi) is a Category C municipality located in the north of the Northern Cape Province, bordering Botswana in the west. It comprises the three local municipalities of Gamagara, Ga-Segonyana and Joe Morolong, and 186 towns and settlements, of which the majority (80%) are villages. The boundaries of this district were demarcated in 2006 to include the once north-western part of Joe Morolong and Olifantshoek, along with its surrounds, into the Gamagara Local Municipality. It has an established rail network from Sishen South and between Black Rock and Dibeng. It is characterised by a mixture of land uses, of which agriculture and mining are dominant. The district holds potential as a viable tourist destination and has numerous growth opportunities in the industrial sector.",
+    "area_in_km_squared": 27323,
+    "towns": [
+      "Bankhara-Bodulong",
+      "Deben",
+      "Hotazel",
+      "Kathu",
+      "Kuruman",
+      "Mothibistad",
+      "Olifantshoek",
+      "Santoy",
+      "Van Zylsrus"
+    ],
+    "economic_sectors": [],
+    "contacts": {
+      "departments": {
+        "accounts": "n/a",
+        "electricity": "n/a",
+        "refuse_Waste": "n/a",
+        "roads": "053 712 8700 molusim@taologaetsewe.gov.za",
+        "service_delivery": "053 712 8700 molusim@taologaetsewe.gov.za",
+        "water": "053 712 8700 molusim@taologaetsewe.gov.za"
+      }
+    }
+  },
+  {
+    "info_url": "https://municipalities.co.za/overview/124/king-cetshwayo-district-municipality",
+    "name": "King Cetshwayo District",
+    "type": "district",
+    "province": "KwaZulu-Natal",
+    "address": {
+      "postal": "Private Bag X1025, Richards Bay, 3900",
+      "physical": "King Cetshwayo House, Kruger Rand, Richards Bay"
+    },
+    "tel": "035 799 2500",
+    "website": "www.kingcetshwayo.gov.za",
+    "mdb_code": "DC28",
+    "description": "The King Cetshwayo District Municipality (previously uThungulu District Municipality) is a Category C municipality and is located in the north-eastern region of the KwaZulu-Natal Province. It covers the area from the uMfolozi River in the north, to KwaGingindlovu (previously Gingindlovu) in the south, and inland to Nkandla. The district is home to five local municipalities: City of uMhlathuze, uMlalazi, Mthonjaneni, Nkandla and uMfolozi. The N2 highway links the district to other significant economic centres, such as Durban and Johannesburg. It also offers a direct route to Maputo in Mozambique. The development of the Richards Bay Industrial Development Zone is boosting economic activity and attracting international investors.",
+    "area_in_km_squared": 8214,
+    "towns": [
+      "Empangeni",
+      "Eshowe",
+      "KwaGingindlovu",
+      "KwaMbonambi",
+      "Mtunzini",
+      "Nkandla",
+      "Ntambanana",
+      "Richards Bay",
+      "eMthonjaneni (Melmoth)"
+    ],
+    "economic_sectors": [
+      {
+        "name": "Manufacturing",
+        "percentage": 40.9
+      },
+      {
+        "name": "mining",
+        "percentage": 15.2
+      },
+      {
+        "name": "community services",
+        "percentage": 11.9
+      },
+      {
+        "name": "finance",
+        "percentage": 8.7
+      },
+      {
+        "name": "transport",
+        "percentage": 8.5
+      },
+      {
+        "name": "trade",
+        "percentage": 6.5
+      },
+      {
+        "name": "agriculture",
+        "percentage": 5.3
+      },
+      {
+        "name": "construction",
+        "percentage": 2.1
+      }
+    ],
+    "contacts": {
+      "departments": {
+        "accounts": "080 011 1258 report@kingcetshwayo.gov.za",
+        "electricity": "n/a",
+        "refuse_Waste": "080 011 1258 report@kingcetshwayo.gov.za",
+        "roads": "n/a",
+        "service_delivery": "080 011 1258 report@kingcetshwayo.gov.za",
+        "water": "080 011 1258 report@kingcetshwayo.gov.za"
+      }
+    }
+  },
+  {
+    "info_url": "https://municipalities.co.za/overview/108/lejweleputswa-district-municipality",
+    "name": "Lejweleputswa District",
+    "type": "district",
+    "province": "Free State",
+    "address": {
+      "postal": "PO Box 2169, Welkom, 9460",
+      "physical": "Cnr Jan Hofmeyer & Tempest Streets, Welkom, 9460"
+    },
+    "tel": "057 353 3094/5/8/9",
+    "website": "www.lejweleputswa.fs.gov.za",
+    "mdb_code": "DC18",
+    "description": "The Lejweleputswa District Municipality is a Category C municipality situated in the north-western part of the Free State. It borders the North West Province to the north, Fezile Dabi and Thabo Mofutsanyana to the north-east and east respectively, Mangaung and Xhariep to the south, and the Northern Cape Province to the west. The district makes up almost a third of the province, and consists of the following five local municipalities, with approximately 18 towns distributed throughout: Masilonyana, Tokologo, Tswelopele, Matjhabeng and Nala. It is accessible from Johannesburg, Cape Town, Klerksdorp and Kimberley along the N1, one of the country's main national roads.",
+    "area_in_km_squared": 32286,
+    "towns": [
+      "Allanridge",
+      "Boshof",
+      "Bothaville",
+      "Bultfontein",
+      "Dealesville",
+      "Hennenman",
+      "Hertzogville",
+      "Hoopstad",
+      "Odendaalsrus",
+      "Soutpan",
+      "Theunissen",
+      "Ventersburg",
+      "Verkeerdevlei",
+      "Virginia",
+      "Welkom",
+      "Wesselsbron",
+      "Winburg",
+      "Winnie Mandela (Brandfort)"
+    ],
+    "economic_sectors": [],
+    "contacts": {
+      "departments": {
+        "accounts": "n/a",
+        "electricity": "n/a",
+        "refuse_Waste": "n/a",
+        "roads": "n/a",
+        "service_delivery": "n/a",
+        "water": "n/a"
+      }
+    }
+  },
+  {
+    "info_url": "https://municipalities.co.za/overview/128/mopani-district-municipality",
+    "name": "Mopani District",
+    "type": "district",
+    "province": "Limpopo",
+    "address": {
+      "postal": "Private Bag X9687, Giyani, 0826",
+      "physical": "Government Building, Main Road, Giyani, 0826"
+    },
+    "tel": "015 960 2000",
+    "website": "www.mopani.gov.za",
+    "mdb_code": "DC33",
+    "description": "The Mopani District Municipality is a Category C municipality located within the north-eastern quadrant of the Limpopo Province. It is bordered in the north by Zimbabwe and Vhembe District Municipality, in the south by the Mpumalanga Province through Ehlanzeni District Municipality, in the south-west by Sekhukhune District Municipality, in the east by Mozambique, and in the west by the Capricorn and Vhembe District Municipalities. The district consists of five local municipalities: Ba-Phalaborwa, Greater Giyani, Greater Letaba, Greater Tzaneen and Maruleng. The seat of Mopani is Giyani, and the district is part of the Great Limpopo Transfrontier Park.",
+    "area_in_km_squared": 20012,
+    "towns": [
+      "Giyani",
+      "Gravelotte",
+      "Haenertsburg",
+      "Hoedspruit",
+      "Leydsdorp",
+      "Modjadjiskloof",
+      "Tzaneen"
+    ],
+    "economic_sectors": [
+      {
+        "name": "Community services",
+        "percentage": 22.6
+      },
+      {
+        "name": "agriculture",
+        "percentage": 3.2
+      },
+      {
+        "name": "mining",
+        "percentage": 30.1
+      },
+      {
+        "name": "trades",
+        "percentage": 14.6
+      },
+      {
+        "name": "finance",
+        "percentage": 14.6
+      },
+      {
+        "name": "manufacturing",
+        "percentage": 1.9
+      }
+    ],
+    "contacts": {
+      "departments": {
+        "accounts": "n/a",
+        "electricity": "n/a",
+        "refuse_Waste": "n/a",
+        "roads": "n/a",
+        "service_delivery": "n/a",
+        "water": "n/a ralulimit@mopani.gov.za"
+      }
+    }
+  },
+  {
+    "info_url": "https://municipalities.co.za/overview/136/namakwa-district-municipality",
+    "name": "Namakwa District",
+    "type": "district",
+    "province": "Northern Cape",
+    "address": {
+      "postal": "Private Bag X20, Springbok, 8240",
+      "physical": "Hendrik J Visser Building, Van Riebeeck Street, Springbok"
+    },
+    "tel": "027 712 8000",
+    "website": "www.namakwa-dm.gov.za",
+    "mdb_code": "DC6",
+    "description": "The Namakwa District Municipality is a Category C municipality located in the Northern Cape Province. It is bordered by the republic of Namibia in the north, ZF Mgcawu Local Municipality in the north-east, Cape Winelands District Municipality in the south, West Coast District Municipality in the south-west, Pixley Ka Seme District Municipality in the east, Central Karoo District Municipality in the south-east, and the Atlantic Ocean in the west. It is the largest district in the province, making up over a third of its geographical area. It is comprised of six local municipalities: Nama Khoi, Hantam, Khai-Ma, Kamiesberg, Karoo Hoogland and Richtersveld. The seat of the Namakwa District Municipality is Springbok.",
+    "area_in_km_squared": 126836,
+    "towns": [
+      "Aggeneys",
+      "Alexander Bay",
+      "Brandvlei",
+      "Bulletrap",
+      "Calvinia",
+      "Carolusberg",
+      "Concordia",
+      "Eksteensfontein",
+      "Frasersburg",
+      "Garies",
+      "Hondeklip Bay",
+      "Kamieskroon",
+      "Kleinzee",
+      "Koingnaas",
+      "Komaggas",
+      "Kuboes",
+      "Leliefontein/Kamiesberg",
+      "Loeriesfontein",
+      "Middelpos",
+      "Nababeep",
+      "Nieuwoudtville",
+      "O'Kiep",
+      "Onderste Doorns",
+      "Pella",
+      "Pofadder",
+      "Port Nolloth",
+      "Richtersveld",
+      "Sanddrift",
+      "Springbok",
+      "Steinkopf",
+      "Sutherland",
+      "Williston"
+    ],
+    "economic_sectors": [],
+    "contacts": {
+      "departments": {
+        "accounts": "027 712 8000",
+        "electricity": "n/a",
+        "refuse_Waste": "n/a",
+        "roads": "n/a",
+        "service_delivery": "027 712 8000 info@namakwa-dm.gov.za",
+        "water": "n/a"
+      }
+    }
+  },
+  {
+    "info_url": "https://municipalities.co.za/overview/142/ngaka-modiri-molema-district-municipality",
+    "name": "Ngaka Modiri Molema District",
+    "type": "district",
+    "province": "North West",
+    "address": {
+      "postal": "Private Bag X2167, Mahikeng, 2745",
+      "physical": "Cnr Carrington Street & 1st Avenue, Industrial Site, Mahikeng, 2745"
+    },
+    "tel": "018 381 9400",
+    "website": "www.nmmdm.gov.za",
+    "mdb_code": "DC38",
+    "description": "The Ngaka Modiri Molema District Municipality is a Category C municipality and one of four district municipalities in the North West Province. It is situated centrally within the province and shares an international border with Botswana. It is comprised of five local municipalities: Mahikeng, Ratlou, Ramotshere Moiloa, Ditsobotla and Tswaing. The district is home to Mahikeng (previously Mafikeng), the capital of the province. Aptly named, the capital is nicknamed ‘The City of Goodwill', which is also the city's slogan. It is a rapidly growing, modern, residential, administrative and commercial town, which contrasts with its fascinating history.",
+    "area_in_km_squared": 28125,
+    "towns": [
+      "Biesiesvlei",
+      "Coligny",
+      "Delareyville",
+      "Disaneng",
+      "Groot Marico",
+      "Kraaipan",
+      "Lichtenburg",
+      "Madibogo",
+      "Mahikeng",
+      "Mmabatho",
+      "Ottosdal",
+      "Ottoshoop",
+      "Sannieshof",
+      "Setlagole",
+      "Zeerust"
+    ],
+    "economic_sectors": [],
+    "contacts": {
+      "departments": {
+        "accounts": "018 381 9418 innom@nmmdm.gov.za",
+        "electricity": "n/a",
+        "refuse_Waste": "n/a",
+        "roads": "018 381 9571 pulenyanek@gmail.com",
+        "service_delivery": "018 381 9589 senwedim@gmail.com",
+        "water": "018 381 9417"
+      }
+    }
+  },
+  {
+    "info_url": "https://municipalities.co.za/overview/133/nkangala-district-municipality",
+    "name": "Nkangala District",
+    "type": "district",
+    "province": "Mpumalanga",
+    "address": {
+      "postal": "PO Box 437, Middelburg, 1050",
+      "physical": "2A Walter Sisulu Street, Middelburg, 1050"
+    },
+    "tel": "013 249 2000/2800",
+    "website": "www.nkangaladm.gov.za",
+    "mdb_code": "DC31",
+    "description": "The Nkangala District Municipality is a Category C municipality in the Mpumalanga Province. It is the smallest district of the three in the province, making up 22% of its geographical area. It is comprised of six local municipalities: Victor Khanye, Emalahleni, Steve Tshwete, Emakhazeni, Thembisile Hani, and Dr JS Moroka. The district's headquarters are in Middelburg. Nkangala is at the economic hub of Mpumalanga, and is rich in minerals and natural resources. A strength of the district is the Maputo Corridor, which brings increased potential for economic growth and tourism development. The proximity to Gauteng opens up opportunities to a larger market, which is of benefit to the district's agricultural and manufacturing sectors. The further potential inherent in exporting goods provides opportunities that need to be investigated.",
+    "area_in_km_squared": 16758,
+    "towns": [
+      "Delmas",
+      "Dullstroom",
+      "Emgwenya (Waterval Boven)",
+      "Hendrina",
+      "Kriel",
+      "KwaMhlanga",
+      "Mdala Nature Reserve",
+      "Middelburg",
+      "Ogies",
+      "Phola",
+      "Pullens Hope",
+      "Rietkuil",
+      "eMakhazeni",
+      "eMalahleni",
+      "eNtokozweni (Machadodorp)"
+    ],
+    "economic_sectors": [
+      {
+        "name": "Community services",
+        "percentage": 11.6
+      },
+      {
+        "name": "agriculture",
+        "percentage": 1.8
+      },
+      {
+        "name": "mining",
+        "percentage": 41.2
+      },
+      {
+        "name": "manufacturing",
+        "percentage": 11.8
+      },
+      {
+        "name": "construction",
+        "percentage": 2.7
+      },
+      {
+        "name": "trade",
+        "percentage": 10.7
+      },
+      {
+        "name": "transport",
+        "percentage": 4.9
+      },
+      {
+        "name": "finance",
+        "percentage": 10.1
+      }
+    ],
+    "contacts": {
+      "departments": {
+        "accounts": "013 249 2124 / 2223 prinslooe@nkangaladm.gov.za",
+        "electricity": "n/a",
+        "refuse_Waste": "n/a",
+        "roads": "n/a",
+        "service_delivery": "n/a skosanamm@nkangaladm.gov.za",
+        "water": "n/a"
+      }
+    }
+  },
+  {
+    "info_url": "https://municipalities.co.za/overview/106/or-tambo-district-municipality",
+    "name": "OR Tambo District",
+    "type": "district",
+    "province": "Eastern Cape",
+    "address": {
+      "postal": "Private Bag X6043, Mthatha, 5100",
+      "physical": "OR Tambo House, Nelson Mandela Drive, Myezo Park, Mthatha"
+    },
+    "tel": "047 501 6400",
+    "website": "www.ortambodm.gov.za",
+    "mdb_code": "DC15",
+    "description": "The OR Tambo District Municipality is a Category C municipality located to the east of the Eastern Cape Province, on the coastline. It is bordered by the Alfred Nzo District Municipality to the north, the Joe Gqabi District Municipality to the north-west, the Amathole District Municipality to the south-west, and the Chris Hani District Municipality to the west. The municipality is formed by five local municipalities: King Sabata Dalindyebo, Nyandeni, Mhlontlo, Port St Johns and Ingquza Hill. It covers about 80% of what used to be marginalised homeland in the Transkei, and is one of the four Integrated Sustainable Rural Development Programme (ISRDP) nodes in the province.",
+    "area_in_km_squared": 12141,
+    "towns": [
+      "Flagstaff",
+      "Libode",
+      "Lusikisiki",
+      "Mqanduli",
+      "Mthatha (Umtata)",
+      "Ngqeleni",
+      "Port St Johns",
+      "Qumbu",
+      "Tsolo"
+    ],
+    "economic_sectors": [
+      {
+        "name": "Agriculture",
+        "percentage": 0.8
+      },
+      {
+        "name": "mining",
+        "percentage": 0.2
+      },
+      {
+        "name": "manufacturing",
+        "percentage": 2.4
+      },
+      {
+        "name": "electricity",
+        "percentage": 2.9
+      },
+      {
+        "name": "construction",
+        "percentage": 1
+      },
+      {
+        "name": "trade",
+        "percentage": 10.3
+      },
+      {
+        "name": "transport",
+        "percentage": 1.7
+      },
+      {
+        "name": "finance",
+        "percentage": 9.7
+      },
+      {
+        "name": "community services",
+        "percentage": 25.5
+      }
+    ],
+    "contacts": {
+      "departments": {
+        "accounts": "047 501 9100 nomalangam@ortambodm.org.za",
+        "electricity": "n/a",
+        "refuse_Waste": "n/a",
+        "roads": "n/a",
+        "service_delivery": "n/a",
+        "water": "047 501 9115 nomalangam@ortambodm.org.za"
+      }
+    }
+  },
+  {
+    "info_url": "https://municipalities.co.za/overview/146/overberg-district-municipality",
+    "name": "Overberg District",
+    "type": "district",
+    "province": "Western Cape",
+    "address": {
+      "postal": "Private Bag X22, Bredasdorp, 7280",
+      "physical": "26 Long Street, Bredasdorp"
+    },
+    "tel": "028 425 1157",
+    "website": "www.odm.org.za",
+    "mdb_code": "DC3",
+    "description": "The Overberg District Municipality is a Category C municipality situated in the Western Cape Province, just over Sir Lowry's Pass to the southernmost tip of Africa. The adjacent municipalities are the Cape Winelands District to the north, Garden Route District to the east and City of Cape Town to the west. It is also bounded by the Indian Ocean to the south-west and Atlantic Ocean to the west. The municipality is the smallest district in the province, making up only 9% of its geographical area. The following local municipalities form part of the Overberg region: Theewaterskloof, Swellendam, Overstrand and Cape Agulhas. The seat of the municipality is Bredasdorp.",
+    "area_in_km_squared": 12241,
+    "towns": [
+      "Agulhas",
+      "Arniston",
+      "Barrydale",
+      "Betty's Bay",
+      "Birkenhead",
+      "Bot River",
+      "Bredasdorp",
+      "Buffeljagsrivier",
+      "Caledon/Myddleton",
+      "De Kelders",
+      "Elim",
+      "Fisherhaven",
+      "Franskraal",
+      "Gansbaai",
+      "Genadendal",
+      "Grabouw",
+      "Greyton",
+      "Hawston",
+      "Hermanus",
+      "Infanta",
+      "Kleinmond",
+      "Klipdale",
+      "Malagas",
+      "Napier",
+      "Onrus",
+      "Pearly Beach",
+      "Pringle Bay",
+      "Protem",
+      "Riviersonderend",
+      "Rooi-Els",
+      "Sandbaai",
+      "Stanford",
+      "Struis Bay",
+      "Suiderstrand",
+      "Suurbraak",
+      "Swellendam",
+      "Theewaterskloof",
+      "Van Dyksbaai",
+      "Vermont",
+      "Villiersdorp"
+    ],
+    "economic_sectors": [
+      {
+        "name": "real estate and business services",
+        "percentage": 20.1
+      },
+      {
+        "name": "catering and accommodation",
+        "percentage": 19.1
+      },
+      {
+        "name": "manufacturing",
+        "percentage": 13.5
+      },
+      {
+        "name": "agriculture",
+        "percentage": 10.8
+      },
+      {
+        "name": "storage and communication",
+        "percentage": 10.8
+      }
+    ],
+    "contacts": {
+      "departments": {
+        "accounts": "n/a",
+        "electricity": "n/a",
+        "refuse_Waste": "n/a",
+        "roads": "028 425 1157 info@odm.org.za",
+        "service_delivery": "028 425 1157 info@odm.org.za",
+        "water": "n/a"
+      }
+    }
+  },
+  {
+    "info_url": "https://municipalities.co.za/overview/137/pixley-ka-seme-district-municipality",
+    "name": "Pixley Ka Seme District",
+    "type": "district",
+    "province": "Northern Cape",
+    "address": {
+      "postal": "Private Bag X1012, De Aar, 7000",
+      "physical": "Culvert Road, De Aar, 7000"
+    },
+    "tel": "053 631 0891",
+    "website": "www.pksdm.gov.za",
+    "mdb_code": "DC7",
+    "description": "The Pixley Ka Seme District Municipality is a Category C municipality situated in the south-east of the Northern Cape Province. It shares its borders with three other provinces, namely the Free State to the east, the Eastern Cape to the south-east, and the Western Cape to the south-west. It is the second-largest district of the five in the province, but makes up almost a third of its geographical area. The district is comprised of eight local municipalities: Ubuntu, Umsobomvu, Emthanjeni, Kareeberg, Renosterberg, Thembelihle, Siyathemba and Siyancuma. Its main town is De Aar. Traffic flows through the region, linking the major industrial areas of the country. The area has a low rainfall, while the largest river in South Africa flows through it. Two of the major dams in South Africa, the Vanderkloof and Gariep Dams, are situated on the borders of the district municipality.",
+    "area_in_km_squared": 103222,
+    "towns": [
+      "Britstown",
+      "Campbell",
+      "Carnarvon",
+      "Colesberg",
+      "Copperton",
+      "De Aar",
+      "Douglas",
+      "Griekwastad",
+      "Hanover",
+      "Hopetown",
+      "Hutchinson",
+      "Loxton",
+      "Marydale",
+      "Niekerkshoop",
+      "Norvalspont",
+      "Noupoort",
+      "Petrusville",
+      "Philipstown",
+      "Prieska",
+      "Richmond",
+      "Schmidtsdrif",
+      "Strydenburg",
+      "Van der Kloof",
+      "Vanwyksvlei",
+      "Victoria West",
+      "Vosburg"
+    ],
+    "economic_sectors": [
+      {
+        "name": "Agriculture",
+        "percentage": 15.9
+      },
+      {
+        "name": "manufacturing",
+        "percentage": 3.38
+      },
+      {
+        "name": "transport",
+        "percentage": 14.4
+      },
+      {
+        "name": "community services",
+        "percentage": 25.8
+      }
+    ],
+    "contacts": {
+      "departments": {
+        "accounts": "n/a",
+        "electricity": "n/a",
+        "refuse_Waste": "n/a",
+        "roads": "n/a",
+        "service_delivery": "n/a",
+        "water": "n/a"
+      }
+    }
+  },
+  {
+    "info_url": "https://municipalities.co.za/overview/103/sarah-baartman-district-municipality",
+    "name": "Sarah Baartman District",
+    "type": "district",
+    "province": "Eastern Cape",
+    "address": {
+      "postal": "PO Box 318, Port Elizabeth, 6000",
+      "physical": "32 Govan Mbeki Avenue, Gqeberha (Port Elizabeth)"
+    },
+    "tel": "041 508 7111",
+    "website": "www.sarahbaartman.co.za",
+    "mdb_code": "DC10",
+    "description": "The Sarah Baartman District Municipality (previously Cacadu District Municipality) is a Category C municipality situated in the Eastern Cape Province. It stretches from Graaff-Reinet in the north to the Indian Ocean in the south and between the Great Fish River in the east and Bloukrans River in the west. Sarah Baartman is the biggest district in the province, making up approximately a third of its geographical area. It comprises seven local municipalities: Dr Beyers Naude, Blue Crane Route, Makana, Ndlambe, Sundays River Valley, Kouga and Koukamma. The district surrounds one of the largest metropolitan ports in South Africa, Nelson Mandela Bay (Gqeberha [Port Elizabeth]).",
+    "area_in_km_squared": 58244,
+    "towns": [
+      "Aberdeen",
+      "Addo",
+      "Adendorp",
+      "Alexandria",
+      "Alicedale",
+      "Bathurst",
+      "Boknes/Cannon Rocks",
+      "Bushmans River",
+      "Cape St Francis",
+      "Clarkson",
+      "Cookhouse",
+      "Graaff-Reinet",
+      "Hankey",
+      "Humansdorp",
+      "Jansenville",
+      "Jeffreys Bay",
+      "Joubertina",
+      "Kareedouw",
+      "Kendrew",
+      "Kenton-on-Sea",
+      "Klipplaat",
+      "Krakeel River",
+      "KwaNojoli (Somerset East)",
+      "Loerie",
+      "Louterwater",
+      "Makhanda (Grahamstown)",
+      "Misgund",
+      "Nieu-Bethesda",
+      "Nompumelelo",
+      "Nqweba (Kirkwood)",
+      "Oyster Bay",
+      "Patensie",
+      "Paterson",
+      "Pearston",
+      "Petersburg",
+      "Port Alfred",
+      "Riebeek East",
+      "Rietbron",
+      "Sanddrif",
+      "Seafield",
+      "Sidbury",
+      "St Francis Bay",
+      "Steytlerville",
+      "Storms River",
+      "Thornhill",
+      "Waterford",
+      "Willowmore",
+      "Woodlands"
+    ],
+    "economic_sectors": [
+      {
+        "name": "Agriculture",
+        "percentage": 28
+      },
+      {
+        "name": "manufacturing",
+        "percentage": 10
+      },
+      {
+        "name": "tourism",
+        "percentage": 7.5
+      },
+      {
+        "name": "state",
+        "percentage": 28
+      }
+    ],
+    "contacts": {
+      "departments": {
+        "accounts": "041 508 7151 / 7039 tkramer@sbdm.co.za",
+        "electricity": "041 508 7107 / 7336 okwababana@sbdm.co.za",
+        "refuse_Waste": "041 508 7075 tmokoena@sbdm.co.za",
+        "roads": "041 508 7088 mmbanga@sbdm.co.za",
+        "service_delivery": "041 508 7096 danielsu@sbdm.co.za ",
+        "water": "041 508 7107 / 7336 ksanyamandwe@sbdm.co.za"
+      }
+    }
+  },
+  {
+    "info_url": "https://municipalities.co.za/overview/114/sedibeng-district-municipality",
+    "name": "Sedibeng District",
+    "type": "district",
+    "province": "Gauteng",
+    "address": {
+      "postal": "PO Box 471, Vereeniging, 1930",
+      "physical": "Cnr Beaconsfield Avenue & Leslie Street, Vereeniging"
+    },
+    "tel": "016 450 3000",
+    "website": "www.sedibeng.gov.za",
+    "mdb_code": "DC42",
+    "description": "The Sedibeng District Municipality is a Category C municipality situated on the southern tip of the Gauteng Province and strategically located on the border of three other provinces, namely Free State, North West and Mpumalanga. The municipality is the only area in the province that is situated on the banks of the Vaal River and Vaal Dam, covering the area formerly known as the Vaal Triangle. The municipality is a stones throw from Johannesburg along the scenic Vaal, Klip and Suikerbos Rivers. It is comprised of the Emfuleni, Lesedi and Midvaal Local Municipalities, and includes the historic townships of Evaton, Sebokeng, Boipatong, Bophelong, Sharpeville and Ratanda, which have a rich political history and heritage.  It has a variety of attractions offering a vast cultural heritage and historical experience including, among others, the political breakthroughs that led to the country's political turnabout. The Sedibeng region boasts several Heritage Sites related to the South African War of 1899-1902 and the two World Wars that followed. The Sharpeville Memorial Precinct stands as a reminder of the Sharpeville Massacre of 21 March 1960, when 69 people lost their lives while protesting the pass laws of the then apartheid South Africa. Sedibeng is the fourth-largest contributor to the Gauteng economy. The predominant economic sector in the district is the manufacturing of fabricated metal and chemicals. In the metal sector, the Arcelor-Mittal Steel plant, the Cape Gate Davsteel Wire and Steel plant, and the Ferromanganese plant of Samancor are the three main large baseline plants in the district, while DCDDorbyl Heavy Engineering is the biggest manufacturer of engineered products in Southern Africa. The well-developed national road network that cuts across the district to all the provinces ensures that the region remains the industrial centre of the Gauteng Province. The municipality is 40km away from Johannesburg and 80km away from Pretoria, without the high traffic volumes. The municipality offers the best opportunity for growth and development as a result of availability of land for both residential and commercial development in a picturesque and tranquil setting. The Vaal University of Technology and the North-West University's Vaal Campus offer a wide range of graduates that provide the bulwark of employees for business and industries that seek to set up operations in Sedibeng.",
+    "area_in_km_squared": 4173,
+    "towns": [
+      "De Deur/Walkerville",
+      "Devon",
+      "Eikenhof",
+      "Evaton",
+      "Heidelberg",
+      "Meyerton",
+      "Nigel",
+      "Sebokeng",
+      "Vaal Marina",
+      "Vaal Oewer",
+      "Vanderbijlpark",
+      "Vereeniging",
+      "Vischkuil"
+    ],
+    "economic_sectors": [],
+    "contacts": {
+      "departments": {
+        "accounts": "n/a",
+        "electricity": "n/a",
+        "refuse_Waste": "n/a",
+        "roads": "n/a",
+        "service_delivery": "n/a",
+        "water": "n/a"
+      }
+    }
+  },
+  {
+    "info_url": "https://municipalities.co.za/overview/127/sekhukhune-district-municipality",
+    "name": "Sekhukhune District",
+    "type": "district",
+    "province": "Limpopo",
+    "address": {
+      "postal": "Private Bag X8611, Groblersdal, 0470",
+      "physical": "3 Wes Street, Groblersdal, 0470"
+    },
+    "tel": "013 262 7300",
+    "website": "www.sekhukhunedistrict.gov.za",
+    "mdb_code": "DC47",
+    "description": "The Sekhukhune District Municipality is a Category C municipality and is located in the Limpopo Province, the northernmost part of South Africa. It lies in the south-eastern part of the province, bordering on the Capricorn and Mopani Districts in the north, Mpumalanga in the south and east, and the Waterberg District in the west.  The district is the smallest in the province, making up 11% of its geographical area. It is comprised of four local municipalities: Elias Motsoaledi, Ephraim Mogale, Makhuduthamaga and Fetakgomo Tubatse. The area's towns and villages are serviced by its major river – the Olifants.",
+    "area_in_km_squared": 13527,
+    "towns": [
+      "Burgersfort",
+      "Groblersdal",
+      "Marble Hall",
+      "Ohrigstad",
+      "Roossenekal",
+      "Schuinsdraai Nature Reserve",
+      "Steelpoort"
+    ],
+    "economic_sectors": [],
+    "contacts": {
+      "departments": {
+        "accounts": "013 262 7300/7301/7302 sekinfo@sekhukhune.gov.za",
+        "electricity": "013 262 7300/7301/7302 sekinfo@sekhukhune.gov.za",
+        "refuse_Waste": "013 262 7300/7301/7302 sekinfo@sekhukhune.gov.za",
+        "roads": "013 262 7300/7301/7302 sekinfo@sekhukhune.gov.za",
+        "service_delivery": "013 262 7300/7301/7302 sekinfo@sekhukhune.gov.za",
+        "water": "013 262 7300/7301/7302 sekinfo@sekhukhune.gov.za"
+      }
+    }
+  },
+  {
+    "info_url": "https://municipalities.co.za/overview/110/thabo-mofutsanyana-district-municipality",
+    "name": "Thabo Mofutsanyana District",
+    "type": "district",
+    "province": "Free State",
+    "address": {
+      "postal": "Private Bag X810, Witsieshoek, 9870",
+      "physical": "1 Mampoi Street, Old Parliament Building, Phuthaditjhaba"
+    },
+    "tel": "058 713 4485 / 058 718 1000",
+    "website": "www.thabomofutsanyana.gov.za/Default.aspx",
+    "mdb_code": "DC19",
+    "description": "The Thabo Mofutsanyana District Municipality is a Category C municipality located in the eastern Free State Province, and borders on Lesotho and the provinces of KwaZulu-Natal and Mpumalanga.  The district makes up almost a third of the geographical area of the province. It comprises six local municipalities: Setsoto, Dihlabeng, Nketoana, Maluti-A-Phofung, Phumelela and Mantsopa. It is named after Edwin Thabo Mofutsanyana, a stalwart of the communist party. Despite all the socio-economic challenges facing this district, the area has huge potential for tourism development because of its scenic beauty and its rich cultural heritage. The N3 and N5 National Roads pass through the district, and the famous Golden Gate is found in the area on the slopes of the Drakensberg Mountains.",
+    "area_in_km_squared": 32730,
+    "towns": [
+      "Arlington",
+      "Bethlehem",
+      "Clarens",
+      "Clocolan",
+      "Excelsior",
+      "Ficksburg",
+      "Fouriesburg",
+      "Golden Gate Highlands National Park",
+      "Harrismith",
+      "Hobhouse",
+      "Kestell",
+      "Ladybrand",
+      "Lindley",
+      "Marquard",
+      "Memel",
+      "Paul Roux",
+      "Petrus Steyn",
+      "Phuthaditjhaba",
+      "Reitz",
+      "Rosendal",
+      "Senekal",
+      "Thaba Patchoa",
+      "Tweespruit",
+      "Vrede",
+      "Warden"
+    ],
+    "economic_sectors": [
+      {
+        "name": "Community services",
+        "percentage": 29.4
+      },
+      {
+        "name": "agriculture",
+        "percentage": 11.5
+      },
+      {
+        "name": "manufacturing",
+        "percentage": 7.6
+      }
+    ],
+    "contacts": {
+      "departments": {
+        "accounts": "n/a",
+        "electricity": "n/a",
+        "refuse_Waste": "n/a",
+        "roads": "n/a",
+        "service_delivery": "n/a",
+        "water": "n/a"
+      }
+    }
+  },
+  {
+    "info_url": "https://municipalities.co.za/overview/119/ugu-district-municipality",
+    "name": "Ugu District",
+    "type": "district",
+    "province": "KwaZulu-Natal",
+    "address": {
+      "postal": "PO Box 33, Port Shepstone, 4240",
+      "physical": "28 Connor Street, Port Shepstone"
+    },
+    "tel": "039 688 5700",
+    "website": "www.ugu.gov.za",
+    "mdb_code": "DC21",
+    "description": "The Ugu District Municipality is a Category C municipality situated in the far south of KwaZulu-Natal. It lies south of Durban, bordered by a coastline of 112km. The district is made up of four local municipalities: Umdoni, uMzumbe, Ray Nkonyeni and Umuziwabantu, all of which have played a critical role in the cultivation of the district’s economy. The Ray Nkonyeni Municipality is the ultimate economy booster due to its location. Commercial agriculture in the district produces one-fifth of all bananas consumed in South Africa, with numerous companies successfully exporting these and other products to some of the most exclusive packers in the United Kingdom. The Ugu District is the proud owner of Blue Flag Status beaches, which have marked tourism as a major economic cultivator. The improvement of its infrastructure, education, health and recreational facilities contributes immensely to its appeal. The nurturing of the local economy highly features tourism and agriculture, and includes the district’s very own Ugu Jazz Festival. It also includes other renowned annual activities, such as the Africa Bike Week, which have gained momentum worldwide.",
+    "area_in_km_squared": 4790,
+    "towns": [
+      "Harding",
+      "Hibberdene",
+      "Margate",
+      "Pennington",
+      "Port Edward",
+      "Port Shepstone",
+      "Scottburgh/Umzinto North",
+      "Southbroom"
+    ],
+    "economic_sectors": [
+      {
+        "name": "Manufacturing",
+        "percentage": 19
+      },
+      {
+        "name": "real estate and business services",
+        "percentage": 17
+      },
+      {
+        "name": "catering and accommodation",
+        "percentage": 17
+      },
+      {
+        "name": "storage and communication",
+        "percentage": 11
+      },
+      {
+        "name": "forestry and fishing",
+        "percentage": 8
+      },
+      {
+        "name": "social and personal services",
+        "percentage": 7
+      },
+      {
+        "name": "construction",
+        "percentage": 4
+      }
+    ],
+    "contacts": {
+      "departments": {
+        "accounts": "039 688 5830 enquiries@ugu.gov.za",
+        "electricity": "n/a",
+        "refuse_Waste": "n/a",
+        "roads": "n/a",
+        "service_delivery": "n/a",
+        "water": "080 009 2837"
+      }
+    }
+  },
+  {
+    "info_url": "https://municipalities.co.za/overview/120/umgungundlovu-district-municipality",
+    "name": "uMgungundlovu District",
+    "type": "district",
+    "province": "KwaZulu-Natal",
+    "address": {
+      "postal": "PO Box 3235, Pietermaritzburg, 3200",
+      "physical": "242 Langalibalele Street, Pietermaritzburg"
+    },
+    "tel": "033 897 6700",
+    "website": "www.umdm.gov.za",
+    "mdb_code": "DC22",
+    "description": "The uMgungundlovu District Municipality is a Category C municipality located in the KwaZulu-Natal Midlands. The district is comprised of the following seven local municipalities, which are based in the accompanying towns: Impendle – Impendle, Mkhambathini – Camperdown, Mpofana – Mooi River, Msunduzi – Pietermaritzburg, Richmond – Richmond, uMngeni – Howick, and uMshwathi – New Hanover/Wartburg. The main city of the area is Pietermaritzburg, which is both the capital city and the legislative capital of KwaZulu-Natal. uMgungundlovu is a water services authority and also a water service provider that continually strives to maintain its Blue Drop and Green Drop Status. The district offers distinguished education facilities and is a retirement mecca for senior citizens. It also offers excellent sporting, commercial and health facilities. It is an important industrial, timber, dairy and agricultural hub that has a modern, sophisticated infrastructure with easy access to airports, the N3 arterial, and railway stations.",
+    "area_in_km_squared": 9602,
+    "towns": [
+      "Ashburton",
+      "Camperdown",
+      "Cool Air",
+      "Dalton",
+      "Hilton",
+      "Howick",
+      "Impendle",
+      "Mooi River",
+      "New Hanover",
+      "Pietermaritzburg",
+      "Richmond",
+      "Wartburg"
+    ],
+    "economic_sectors": [
+      {
+        "name": "transport and storage",
+        "percentage": 10
+      }
+    ],
+    "contacts": {
+      "departments": {
+        "accounts": "033 897 6700 customercare@umdm.gov.za",
+        "electricity": "n/a",
+        "refuse_Waste": "n/a",
+        "roads": "n/a",
+        "service_delivery": "033 897 6763 mm@umdm.gov.za",
+        "water": "033 897 6708 Zenzele.Ndlovu@umdm.gov.za"
+      }
+    }
+  },
+  {
+    "info_url": "https://municipalities.co.za/overview/121/umkhanyakude-district-municipality",
+    "name": "uMkhanyakude District",
+    "type": "district",
+    "province": "KwaZulu-Natal",
+    "address": {
+      "postal": "PO Box 449, Mkuze, 3965",
+      "physical": "Harlingen No.13433, Kingfisher Road, Mkuze, 3965"
+    },
+    "tel": "035 573 8600",
+    "website": "www.ukdm.gov.za",
+    "mdb_code": "DC27",
+    "description": "The uMkhanyakude District Municipality is a Category C municipality located along the coast in the far north of the KwaZulu-Natal Province. It shares its borders with Swaziland and Mozambique, as well as with the districts of Zululand and King Cetshwayo. It is the second-largest district in the province, and consists of the following four local municipalities: uMhlabuyalingana, Jozini, Big 5 Hlabisa and Inkosi uMtubatuba. ‘uMkhanyakude' refers to the Acacia Xanthophloea fever tree and means ‘that shows light from afar'. The name reflects both the uniqueness of its people and their hospitality, as well as the biodiversity and conservation history that the region is very proud of. The Isimangaliso Wetland Park, formerly Greater St Lucia Wetland Park, encompasses the entire coastline.",
+    "area_in_km_squared": 13855,
+    "towns": [
+      "Hlabisa",
+      "Hluhluwe",
+      "Ingwavuma",
+      "Jozini",
+      "Mbazwana",
+      "Mkuze",
+      "Mtubatuba",
+      "St Lucia"
+    ],
+    "economic_sectors": [
+      {
+        "name": "Agriculture",
+        "percentage": 5.5
+      },
+      {
+        "name": "mining",
+        "percentage": 1.4
+      },
+      {
+        "name": "manufacturing",
+        "percentage": 19.1
+      },
+      {
+        "name": "electricity",
+        "percentage": 6
+      },
+      {
+        "name": "construction",
+        "percentage": 3.9
+      },
+      {
+        "name": "trade",
+        "percentage": 13.2
+      },
+      {
+        "name": "transport",
+        "percentage": 8.4
+      },
+      {
+        "name": "finance",
+        "percentage": 15.8
+      },
+      {
+        "name": "community services",
+        "percentage": 30.6
+      },
+      {
+        "name": "retail catering and accommodation",
+        "percentage": 20.3
+      }
+    ],
+    "contacts": {
+      "departments": {
+        "accounts": "035 573 8600 mpumed@ukdm.gov.za",
+        "electricity": "035 573 8600 mpumed@ukdm.gov.za",
+        "refuse_Waste": "n/a",
+        "roads": "n/a",
+        "service_delivery": "035 573 8600 mm@ukdm.gov.za",
+        "water": "035 573 8600 sizwek@ukdm.gov.za"
+      }
+    }
+  },
+  {
+    "info_url": "https://municipalities.co.za/overview/122/umzinyathi-district-municipality",
+    "name": "uMzinyathi District",
+    "type": "district",
+    "province": "KwaZulu-Natal",
+    "address": {
+      "postal": "PO Box 1965, Dundee, 3000",
+      "physical": "Princess Magogo Building, Dundee, KwaZulu-Natal"
+    },
+    "tel": "034 219 1500",
+    "website": "www.umzinyathi.gov.za",
+    "mdb_code": "DC24",
+    "description": "The uMzinyathi District Municipality is a Category C municipality located in the north and central areas of the KwaZulu-Natal Province. The municipality is bordered in the north by Amajuba Municipality, in the south-east by iLembe Municipality, in the south-west by uMgungundlovu Municipality, in the east by King Cetshwayo Municipality, and in the west by uThukela Municipality. The district consists of four local municipalities: Endumeni, Nquthu, uMsinga and Umvoti. The district lies between the main N3 Corridor between Durban and Gauteng and the Coastal Corridor, running along the east coast. The more developed urban areas include Dundee and Greytown, which can be viewed as a strong regional centre with substantial commercial and agricultural activity. The seat of uMzinyathi is Dundee.",
+    "area_in_km_squared": 8652,
+    "towns": [
+      "Dundee",
+      "Glencoe",
+      "Greytown",
+      "Kranskop",
+      "Nquthu",
+      "Pomeroy"
+    ],
+    "economic_sectors": [
+      {
+        "name": "Manufacturing",
+        "percentage": 19
+      },
+      {
+        "name": "transport and communication",
+        "percentage": 2.5
+      },
+      {
+        "name": "agriculture",
+        "percentage": 10.8
+      },
+      {
+        "name": "retail",
+        "percentage": 15.2
+      },
+      {
+        "name": "community and social services",
+        "percentage": 7.3
+      }
+    ],
+    "contacts": {
+      "departments": {
+        "accounts": "n/a",
+        "electricity": "n/a",
+        "refuse_Waste": "n/a",
+        "roads": "n/a",
+        "service_delivery": "034 219 1500 rc3@umzinyathi.gov.za",
+        "water": "034 212 2222 / 086 167888 customercare@umzinyathi.gov.za"
+      }
+    }
+  },
+  {
+    "info_url": "https://municipalities.co.za/overview/123/uthukela-district-municipality",
+    "name": "uThukela District",
+    "type": "district",
+    "province": "KwaZulu-Natal",
+    "address": {
+      "postal": "PO Box 116, uMnambithi (Ladysmith), 3370",
+      "physical": "36 Lyel Street / 33 Forbes Street, uMnambithi (Ladysmith)"
+    },
+    "tel": "036 638 5100 / 036 638 2400",
+    "website": "www.uthukela.gov.za",
+    "mdb_code": "DC23",
+    "description": "The uThukela District Municipality is a Category C municipality and is located on the western boundary of the KwaZulu-Natal Province. It is bordered by three other district municipalities: Amajuba, uMzinyathi and uMgungundlovu. It consists of three local municipalities: Okhahlamba, Alfred Duma and Inkosi Langalibalele. The district derives its name from one of the major rivers in KwaZulu-Natal, the uThukela River, which rises from the Drakensberg Mountains and supplies water to a large portion of KZN, as well as Gauteng. It is predominately rural and is characterised by poor socio-economic indicators such as low revenue base, poor infrastructure, limited access to services, and low economic base.",
+    "area_in_km_squared": 11134,
+    "towns": [
+      "Bergville",
+      "Cathkin Park",
+      "Colenso",
+      "Estcourt",
+      "Van Reenen",
+      "Weenen",
+      "Winterton",
+      "uMnambithi (Ladysmith)"
+    ],
+    "economic_sectors": [],
+    "contacts": {
+      "departments": {
+        "accounts": "036 638 5100/036 638 2400",
+        "electricity": "n/a",
+        "refuse_Waste": "n/a",
+        "roads": "n/a",
+        "service_delivery": "086 010 4257",
+        "water": "086 010 4257"
+      }
+    }
+  },
+  {
+    "info_url": "https://municipalities.co.za/overview/129/vhembe-district-municipality",
+    "name": "Vhembe District",
+    "type": "district",
+    "province": "Limpopo",
+    "address": {
+      "postal": "Private Bag X5006, Thohoyandou, 0950",
+      "physical": "Old Parliament, Government Complex, Tusk Venda Street, Thohoyandou"
+    },
+    "tel": "015 960 2000",
+    "website": "www.vhembe.gov.za",
+    "mdb_code": "DC34",
+    "description": "The Vhembe District Municipality is a Category C municipality located in the northern part of the Limpopo Province. It shares borders with Zimbabwe and Botswana in the north-west and Mozambique in the south-east through the Kruger National Park. The Limpopo River valley forms the border between the district and its international neighbours. The district includes the Transvaal, and areas that were previously under Venda and Gazankulu Bantustan's administration. It is comprised of four local municipalities: Musina, Thulamela, Makhado and Collins Chabane. The district municipal offices are located in the town of Thohoyandou. It covers a geographical area that is predominantly rural. It is a legendary cultural hub, and a catalyst for agricultural and tourism development.",
+    "area_in_km_squared": 25597,
+    "towns": [
+      "Makhado",
+      "Malamulele",
+      "Musina",
+      "Thohoyandou"
+    ],
+    "economic_sectors": [],
+    "contacts": {
+      "departments": {
+        "accounts": "015 960 2032 cfo@vhembe.gov.za",
+        "electricity": "n/a",
+        "refuse_Waste": "n/a",
+        "roads": "n/a",
+        "service_delivery": "015 960 2000",
+        "water": "015 960 2117 gmtechnical@vhembe.gov.za"
+      }
+    }
+  },
+  {
+    "info_url": "https://municipalities.co.za/overview/130/waterberg-district-municipality",
+    "name": "Waterberg District",
+    "type": "district",
+    "province": "Limpopo",
+    "address": {
+      "postal": "Private Bag X1018, Modimolle, 0510",
+      "physical": "Harry Gwala Street, Modimolle, 0510"
+    },
+    "tel": "014 718 3300",
+    "website": "www.waterberg.gov.za",
+    "mdb_code": "DC36",
+    "description": "The Waterberg District Municipality is a Category C municipality located in the western part of the Limpopo Province. It is strategically located in sharing its borders with Capricorn District Municipality in the north and Sekhukhune District Municipality in the east. The south-western boundary abuts the North West, while the Gauteng Province lies on the south-eastern side. The municipality is the biggest district in the province, making up just more than a third of its geographical area. It shares its five-border control points with Botswana, namely Groblersbrug, Stockpoort, Derdepoort, Zanzibar and Platjan. It is comprised of five local municipalities: Bela-Bela, Lephalale, Modimolle-Mookgophong, Mogalakwena and Thabazimbi. The region, as we know it today, is more than three million years old. With its great variety of wildlife, birds and scenic splendour. It is one of South Africa's prime ecotourism destinations.",
+    "area_in_km_squared": 44914,
+    "towns": [
+      "Amandelbult Mine Town",
+      "Bela-Bela",
+      "Lephalale",
+      "Modimolle",
+      "Mokopane (Potgietersrus)",
+      "Mookgophong (Naboomspruit)",
+      "Pienaarsrivier",
+      "Thabazimbi",
+      "Vaalwater"
+    ],
+    "economic_sectors": [
+      {
+        "name": "Agriculture",
+        "percentage": 3
+      },
+      {
+        "name": "mining",
+        "percentage": 56
+      },
+      {
+        "name": "manufacturing",
+        "percentage": 3
+      },
+      {
+        "name": "electricity",
+        "percentage": 3
+      },
+      {
+        "name": "construction",
+        "percentage": 2
+      },
+      {
+        "name": "trade",
+        "percentage": 9
+      },
+      {
+        "name": "transport",
+        "percentage": 4
+      },
+      {
+        "name": "finance",
+        "percentage": 8
+      },
+      {
+        "name": "community services",
+        "percentage": 12
+      }
+    ],
+    "contacts": {
+      "departments": {
+        "accounts": "n/a",
+        "electricity": "n/a",
+        "refuse_Waste": "n/a",
+        "roads": "n/a",
+        "service_delivery": "n/a",
+        "water": "n/a"
+      }
+    }
+  },
+  {
+    "info_url": "https://municipalities.co.za/overview/147/west-coast-district-municipality",
+    "name": "West Coast District",
+    "type": "district",
+    "province": "Western Cape",
+    "address": {
+      "postal": "PO Box 242, Moorreesburg, 7310",
+      "physical": "58 Long Street, Moorreesburg, 7310"
+    },
+    "tel": "022 433 8400",
+    "website": "www.westcoastdm.co.za",
+    "mdb_code": "DC1",
+    "description": "The West Coast District Municipality is a Category C municipality located in the Western Cape Province. The municipalities adjacent to the West Coast District are the Namakwa District to the north and north-east, City of Cape Town to the south and Cape Winelands District to the south-east. It is also bordered by the Atlantic Ocean to the west. It is comprised of five local municipalities: Swartland, with Malmesbury as the administrative centre; Bergrivier, with Piketberg as the administrative centre; Matzikama, with Vredendal as the administrative centre; Cederberg, with Clanwilliam as the administrative centre; and Saldanha Bay, with Vredenburg as the administrative centre. Moorreesburg is the seat of the district.",
+    "area_in_km_squared": 31118,
+    "towns": [
+      "Abbotsdale",
+      "Aurora",
+      "Bitterfontein",
+      "Chatsworth",
+      "Citrusdal",
+      "Clanwilliam",
+      "Darling",
+      "Doring Bay",
+      "Ebenhaezer",
+      "Eendekuil",
+      "Elands Bay",
+      "Graafwater",
+      "Grotto Bay",
+      "Hopefield",
+      "Jacobsaai",
+      "Kalbaskraal",
+      "Klawer",
+      "Kliprand",
+      "Koekenaa",
+      "Koringberg",
+      "Lamberts Bay",
+      "Langebaan",
+      "Leipoldtville",
+      "Lutzville",
+      "Malmesbury",
+      "Molsvlei",
+      "Moorreesburg",
+      "Nuwerus",
+      "Paternoster",
+      "Piketberg",
+      "Porterville",
+      "Putsekloof",
+      "Redelinghuys",
+      "Riebeeck Kasteel",
+      "Riebeeck West",
+      "Rietpoort",
+      "Riverlands",
+      "Saldanha",
+      "St Helena Bay",
+      "Stofkraal",
+      "Strandfontein",
+      "Vanrhynsdorp",
+      "Velddrif",
+      "Vredenburg",
+      "Vredendal",
+      "Wupperthal",
+      "Yzerfontein"
+    ],
+    "economic_sectors": [
+      {
+        "name": "Manufacturing",
+        "percentage": 20.3
+      },
+      {
+        "name": "forestry and fishing",
+        "percentage": 20.2
+      },
+      {
+        "name": "real estate and business services",
+        "percentage": 11.4
+      },
+      {
+        "name": "catering and accommodation",
+        "percentage": 15.3
+      },
+      {
+        "name": "general government",
+        "percentage": 10.5
+      },
+      {
+        "name": "storage and communication",
+        "percentage": 8.2
+      },
+      {
+        "name": "construction",
+        "percentage": 5
+      },
+      {
+        "name": "social and personal services",
+        "percentage": 6.1
+      }
+    ],
+    "contacts": {
+      "departments": {
+        "accounts": "022 433 8444 jjonker@wcdm.co.za",
+        "electricity": "n/a",
+        "refuse_Waste": "n/a",
+        "roads": "064 684 2209 rstander@wcdm.co.za",
+        "service_delivery": "Fire: 10177 / 022 4338700 Fire Service: bsenekal@wcdm.co.za",
+        "water": "082 557 7696/083 668 6087 majvisser@wcdm.co.za / bbvdmerwe@wcdm.co.za"
+      }
+    }
+  },
+  {
+    "info_url": "https://municipalities.co.za/overview/115/west-rand-district-municipality",
+    "name": "West Rand District",
+    "type": "district",
+    "province": "Gauteng",
+    "address": {
+      "postal": "Private Bag X033, Randfontein, 1759",
+      "physical": "Cnr Sixth & Park Streets, Randfontein"
+    },
+    "tel": "011 411 5000",
+    "website": "www.wrdm.gov.za",
+    "mdb_code": "DC48",
+    "description": "The West Rand District Municipality is a Category C municipality located in the west of the Gauteng Province. The West Rand extends from Randfontein (the seat of the district) in the west to Roodepoort in the east, and includes the town of Krugersdorp. It is bordered by Bojanala Platinum to the north-west, City of Tshwane to the north-east, City of Johannesburg to the east, Sedibeng to the south-east, and Dr Kenneth Kaunda to the south-west. It comprises three local municipalities: Merafong, Mogale and Rand West Cities. The municipality is situated relatively closely to the hub of economic activity in Gauteng, and is transversed by major national roads, namely the N12 and N14. Its main contribution lies primarily within the mining sector, however, areas such as Krugersdorp fulfil a residential function for many people working in Johannesburg. The West Rand remains the poorest region contributing to Gauteng's GDP. The Cradle of Humankind falls under the jurisdiction of Mogale City and Merafong City, and forms part of the World Heritage Site.",
+    "area_in_km_squared": 4090,
+    "towns": [
+      "Carletonville",
+      "Fochville",
+      "Krugersdorp",
+      "Magaliesburg",
+      "Muldersdrift",
+      "Randfontein",
+      "Wedela",
+      "Westonaria"
+    ],
+    "economic_sectors": [
+      {
+        "name": "Manufacturing",
+        "percentage": 22
+      },
+      {
+        "name": "mining",
+        "percentage": 19
+      },
+      {
+        "name": "community services",
+        "percentage": 19
+      },
+      {
+        "name": "finance",
+        "percentage": 16
+      },
+      {
+        "name": "trade",
+        "percentage": 10
+      },
+      {
+        "name": "transport",
+        "percentage": 6
+      },
+      {
+        "name": "construction",
+        "percentage": 4
+      }
+    ],
+    "contacts": {
+      "departments": {
+        "accounts": "011 411 5038 dmonamoli@wrdm.gov.za",
+        "electricity": "n/a",
+        "refuse_Waste": "n/a",
+        "roads": "011 411 5138 Zmphaphuli@wrdm.gov.za",
+        "service_delivery": "0114115203 / 0114115251 nkahts@wrdm.gov.za / mdaka@wrdm.gov.za",
+        "water": "n/a"
+      }
+    }
+  },
+  {
+    "info_url": "https://municipalities.co.za/overview/111/xhariep-district-municipality",
+    "name": "Xhariep District",
+    "type": "district",
+    "province": "Free State",
+    "address": {
+      "postal": "Private Bag X136, Trompsburg, 9913",
+      "physical": "20 Louw Street, Trompsburg"
+    },
+    "tel": "051 713 9300",
+    "website": "www.xhariep.gov.za",
+    "mdb_code": "DC16",
+    "description": "The Xhariep District Municipality is a Category C municipality situated in the southern part of the Free State. It is bordered by the Mangaung Metro to the north, Eastern Cape to the south, Lesotho to the east, and Northern Cape to the west. It is the largest district in the province, making up just more than a third of its geographical area. It is comprised of three local municipalities: Letsemeng, Kopanong and Mohokare, which include 21 towns. Its administrative headquarters are in Trompsburg, which lies 125km south of Bloemfontein. The towns in this district boast abundant natural resources such as water and agricultural land. The largest dam in South Africa is situated at the southern tip of the district. Three national roads (N1 – Gauteng to Cape Town, N6 – Eastern Cape to Bloemfontein and N8 – Bloemfontein to Kimberley) pass through this area.",
+    "area_in_km_squared": 34250,
+    "towns": [
+      "Bethulie",
+      "Edenburg",
+      "Fauresmith",
+      "Gariep Dam",
+      "Jacobsdal",
+      "Jagersfontein",
+      "Koffiefontein",
+      "Luckhoff",
+      "Oppermansgronde",
+      "Petrusburg",
+      "Philippolis",
+      "Reddersburg",
+      "Rouxville",
+      "Smithfield",
+      "Springfontein",
+      "Trompsburg",
+      "Waterkloof",
+      "Zastron"
+    ],
+    "economic_sectors": [],
+    "contacts": {
+      "departments": {
+        "accounts": "n/a",
+        "electricity": "n/a",
+        "refuse_Waste": "n/a",
+        "roads": "n/a",
+        "service_delivery": "0739204750 ndoyisilef@gmail.com",
+        "water": "0716774535 xhariepehp@gmail.com"
+      }
+    }
+  },
+  {
+    "info_url": "https://municipalities.co.za/overview/138/zf-mgcawu-district-municipality",
+    "name": "ZF Mgcawu District",
+    "type": "district",
+    "province": "Northern Cape",
+    "address": {
+      "postal": "Private Bag X6039, Upington, 8800",
+      "physical": "Cnr Nelson Mandela Avenue & Upington 26 Road, Upington"
+    },
+    "tel": "054 337 2800",
+    "website": "www.zfm-dm.gov.za",
+    "mdb_code": "DC8",
+    "description": "The ZF Mgcawu District Municipality (previously Siyanda District Municipality) is a Category C municipality forming the mid-northern section of the Northern Cape Province, bordering with Botswana in the north and Namibia in the west. It makes up just under a third of the province's geographical area, of which 65 000km² comprise the vast Kalahari Desert, Kgalagadi Transfrontier Park and the former Bushmanland. This district comprises five local municipalities: Dawid Kruiper, Kai !Garib, Tsantsabane, !Kheis and Kgatelopele. Upington is the district municipal capital, where the municipal government is located.",
+    "area_in_km_squared": 102504,
+    "towns": [
+      "Beeshoek",
+      "Brandboom",
+      "Danielskuil",
+      "Eksteenskuil",
+      "Groblershoop",
+      "Kakamas",
+      "Keimoes",
+      "Kenhardt",
+      "Lime Acres",
+      "Mier",
+      "Postmasburg",
+      "Rietfontein",
+      "Upington"
+    ],
+    "economic_sectors": [],
+    "contacts": {
+      "departments": {
+        "accounts": "n/a",
+        "electricity": "n/a",
+        "refuse_Waste": "n/a",
+        "roads": "n/a",
+        "service_delivery": "n/a",
+        "water": "n/a"
+      }
+    }
+  },
+  {
+    "info_url": "https://municipalities.co.za/overview/125/zululand-district-municipality",
+    "name": "Zululand District",
+    "type": "district",
+    "province": "KwaZulu-Natal",
+    "address": {
+      "postal": "Private Bag X76, Ulundi, 3838",
+      "physical": "400 Ugagane Street, Ulundi"
+    },
+    "tel": "035 874 5530",
+    "website": "www.zululand.org.za",
+    "mdb_code": "DC26",
+    "description": "The Zululand District Municipality is a Category C municipality situated in the north-eastern part of KwaZulu-Natal. It is the biggest district in the province, making up 16% of its geographical area. It comprises five local municipalities: Ulundi, Nongoma, uPhongolo, eDumbe and AbaQulusi. Vryheid and Ulundi are two urban centres of note in the district, respectively serving as a regional service and a regional and provincial administrative centre. The town of Vryheid is a commercial and business hub, while Ulundi Town is mainly an administrative centre and also the headquarters of the Zululand District Municipality. It is primarily a rural district. About half the area falls under the jurisdiction of traditional authorities, while the remainder is privately owned commercial farms or protected areas.",
+    "area_in_km_squared": 14800,
+    "towns": [
+      "Louwsburg",
+      "Nongoma",
+      "Paulpietersburg",
+      "Pongola",
+      "Ulundi",
+      "Vryheid"
+    ],
+    "economic_sectors": [
+      {
+        "name": "Community services",
+        "percentage": 37.3
+      },
+      {
+        "name": "finance",
+        "percentage": 16.7
+      },
+      {
+        "name": "transport",
+        "percentage": 9.1
+      },
+      {
+        "name": "trade",
+        "percentage": 11.5
+      },
+      {
+        "name": "construction",
+        "percentage": 2.8
+      },
+      {
+        "name": "electricity",
+        "percentage": 6.2
+      },
+      {
+        "name": "manufacturing",
+        "percentage": 5.9
+      },
+      {
+        "name": "mining",
+        "percentage": 2.9
+      },
+      {
+        "name": "agriculture",
+        "percentage": 7.5
+      }
+    ],
+    "contacts": {
+      "departments": {
+        "accounts": "035 874 5524 tdladla@zululand.org.za",
+        "electricity": "n/a",
+        "refuse_Waste": "n/a",
+        "roads": "n/a",
+        "service_delivery": "035 874 5530 bzulu@zululand.org.za",
+        "water": "035 874 5509 sngubane@zululand.org.za"
+      }
+    }
+  }
+]
