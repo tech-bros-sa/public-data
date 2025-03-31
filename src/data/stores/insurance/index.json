@@ -1,0 +1,207 @@
+[
+    {
+      "name": "Old Mutual",
+      "founded": 1845,
+      "headquarters": "Cape Town",
+      "types_of_insurance": [
+        "Life Insurance",
+        "Health Insurance",
+        "Short-term Insurance",
+        "Investment Products"
+      ],
+      "website": "https://www.oldmutual.co.za"
+    },
+    {
+      "name": "Sanlam",
+      "founded": 1918,
+      "headquarters": "Bellville",
+      "types_of_insurance": [
+        "Life Insurance",
+        "Health Insurance",
+        "General Insurance",
+        "Investment Products"
+      ],
+      "website": "https://www.sanlam.co.za"
+    },
+    {
+      "name": "Discovery",
+      "founded": 1992,
+      "headquarters": "Sandton",
+      "types_of_insurance": [
+        "Health Insurance",
+        "Life Insurance",
+        "Short-term Insurance",
+        "Investment Products"
+      ],
+      "website": "https://www.discovery.co.za"
+    },
+    {
+      "name": "Liberty",
+      "founded": 1957,
+      "headquarters": "Johannesburg",
+      "types_of_insurance": [
+        "Life Insurance",
+        "Health Insurance",
+        "Short-term Insurance",
+        "Investment Products"
+      ],
+      "website": "https://www.liberty.co.za"
+    },
+    {
+      "name": "Momentum",
+      "founded": 1993,
+      "headquarters": "Centurion",
+      "types_of_insurance": [
+        "Life Insurance",
+        "Health Insurance",
+        "Short-term Insurance",
+        "Investment Products"
+      ],
+      "website": "https://www.momentum.co.za"
+    },
+    {
+      "name": "First For Women",
+      "founded": 1998,
+      "headquarters": "Johannesburg",
+      "types_of_insurance": [
+        "Motor Insurance",
+        "Home Insurance",
+        "Medical Insurance"
+      ],
+      "website": "https://www.firstforwomen.co.za"
+    },
+    {
+      "name": "Guardrisk",
+      "founded": 1996,
+      "headquarters": "Johannesburg",
+      "types_of_insurance": [
+        "Short-term and Specialized Insurance"
+      ],
+      "website": "https://www.guardrisk.co.za"
+    },
+    {
+      "name": "Hollard",
+      "founded": 1980,
+      "headquarters": "Johannesburg",
+      "types_of_insurance": [
+        "Life Insurance",
+        "Short-term Insurance",
+        "Health Insurance"
+      ],
+      "website": "https://www.hollard.co.za"
+    },
+    {
+      "name": "Bryte Insurance",
+      "founded": 2013,
+      "headquarters": "Johannesburg",
+      "types_of_insurance": [
+        "Commercial Insurance",
+        "Personal Insurance"
+      ],
+      "website": "https://www.brytesa.com"
+    },
+    {
+      "name": "Santam",
+      "founded": 1918,
+      "headquarters": "Cape Town",
+      "types_of_insurance": [
+        "Short-term Insurance",
+        "Commercial Insurance",
+        "Personal Insurance"
+      ],
+      "website": "https://www.santam.co.za"
+    },
+    {
+      "name": "Momentum Multiply",
+      "founded": 2015,
+      "headquarters": "Centurion",
+      "types_of_insurance": [
+        "Health Insurance",
+        "Lifestyle Benefits"
+      ],
+      "website": "https://www.momentum.co.za/multiply"
+    },
+    {
+      "name": "AIG South Africa",
+      "founded": 1979,
+      "headquarters": "Johannesburg",
+      "types_of_insurance": [
+        "Travel Insurance",
+        "Commercial Insurance",
+        "Specialty insurance"
+      ],
+      "website": "https://www.aig.co.za"
+    },
+    {
+      "name": "Brolink",
+      "founded": 1998,
+      "headquarters": "Johannesburg",
+      "types_of_insurance": [
+        "Short-term Insurance",
+        "Risk management"
+      ],
+      "website": "https://www.brolink.co.za"
+    },
+    {
+      "name": "Sasria",
+      "founded": 1979,
+      "headquarters": "Johannesburg",
+      "types_of_insurance": [
+        "Civil Commotion and Terrorism Insurance"
+      ],
+      "website": "https://www.sasria.co.za"
+    },
+    {
+      "name": "Clientèle Life",
+      "founded": 1998,
+      "headquarters": "Johannesburg",
+      "types_of_insurance": [
+        "Life Insurance",
+        "Funeral Cover",
+        "Savings Plans"
+      ],
+      "website": "https://www.clientele.co.za"
+    },
+    {
+      "name": "Simply Financial Services",
+      "founded": 2015,
+      "headquarters": "Johannesburg",
+      "types_of_insurance": [
+        "Life Insurance",
+        "Funeral Insurance"
+      ],
+      "website": "https://www.simply.co.za"
+    },
+    {
+      "name": "Pineapple",
+      "founded": 2017,
+      "headquarters": "Johannesburg",
+      "types_of_insurance": [
+        "Home Insurance",
+        "Motor Insurance",
+        "Travel Insurance"
+      ],
+      "website": "https://www.pineapple.co.za"
+    },
+    {
+      "name": "King Price",
+      "founded": 2012,
+      "headquarters": "Centurion",
+      "types_of_insurance": [
+        "Motor Insurance",
+        "Home Insurance",
+        "Business Insurance"
+      ],
+      "website": "https://www.kingprice.co.za"
+    },
+    {
+      "name": "Wealth Assurance",
+      "founded": 2013,
+      "headquarters": "Johannesburg",
+      "types_of_insurance": [
+        "Life Insurance",
+        "Investment Products"
+      ],
+      "website": "https://www.wealthassurance.co.za"
+    }
+  ]
