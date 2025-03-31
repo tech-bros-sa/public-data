@@ -1,0 +1,189 @@
+[
+    {
+      "name": "Mica",
+      "founded": 1985,
+      "headquarters": "Durban",
+      "store_count": 200,
+      "categories": [
+        "Building materials",
+        "DIY supplies",
+        "Tools",
+        "Paints"
+      ],
+      "website": "https://www.micahardware.co.za"
+    },
+    {
+      "name": "Build It",
+      "founded": 1987,
+      "headquarters": "Johannesburg",
+      "store_count": 350,
+      "categories": [
+        "Building materials",
+        "Home improvement",
+        "DIY tools",
+        "Landscaping"
+      ],
+      "website": "https://www.buildit.co.za"
+    },
+    {
+      "name": "Cashbuild",
+      "founded": 1986,
+      "headquarters": "Johannesburg",
+      "store_count": 320,
+      "categories": [
+        "Building materials",
+        "Hardware",
+        "DIY supplies"
+      ],
+      "website": "https://www.cashbuild.co.za"
+    },
+    {
+      "name": "Builders Warehouse",
+      "founded": 2000,
+      "headquarters": "Johannesburg",
+      "store_count": 100,
+      "categories": [
+        "Building materials",
+        "DIY supplies",
+        "Tools",
+        "Lighting"
+      ],
+      "website": "https://www.builders.co.za"
+    },
+    {
+      "name": "Burgess and Finch",
+      "founded": 1973,
+      "headquarters": "Cape Town",
+      "store_count": 15,
+      "categories": [
+        "Paint",
+        "Hardware",
+        "DIY products"
+      ],
+      "website": "https://www.burgessandfinch.co.za"
+    },
+    {
+      "name": "Hardware Centre",
+      "founded": 1999,
+      "headquarters": "Johannesburg",
+      "store_count": 20,
+      "categories": [
+        "Building materials",
+        "Power tools",
+        "Hand tools",
+        "Plumbing"
+      ],
+      "website": "https://www.hardwarecentre.co.za"
+    },
+    {
+      "name": "Fixit",
+      "founded": 2005,
+      "headquarters": "Pretoria",
+      "store_count": 25,
+      "categories": [
+        "Building materials",
+        "Hand tools",
+        "Power tools",
+        "Safety equipment"
+      ],
+      "website": "http://www.fixit.co.za"
+    },
+    {
+      "name": "Italtile",
+      "founded": 1969,
+      "headquarters": "Johannesburg",
+      "store_count": 100,
+      "categories": [
+        "Tiles",
+        "Sanitaryware",
+        "Kitchen and bathroom fittings"
+      ],
+      "website": "https://www.italtile.com"
+    },
+    {
+      "name": "CTM",
+      "founded": 1983,
+      "headquarters": "Johannesburg",
+      "store_count": 140,
+      "categories": [
+        "Tiles",
+        "Bathroom fittings",
+        "Flooring",
+        "DIY supplies"
+      ],
+      "website": "https://www.ctm.co.za"
+    },
+    {
+      "name": "Grafton Everest",
+      "founded": 1970,
+      "headquarters": "Gauteng",
+      "store_count": 14,
+      "categories": [
+        "Building materials",
+        "Roofing",
+        "Insulation",
+        "Fasteners"
+      ],
+      "website": "https://www.grafton.co.za"
+    },
+    {
+      "name": "Plumbline",
+      "founded": 1998,
+      "headquarters": "Cape Town",
+      "store_count": 10,
+      "categories": [
+        "Plumbing supplies",
+        "Building materials",
+        "Tools"
+      ],
+      "website": "https://www.plumbline.co.za"
+    },
+    {
+      "name": "The Building Company",
+      "founded": 2010,
+      "headquarters": "Cape Town",
+      "store_count": 100,
+      "categories": [
+        "Building materials",
+        "Hardware",
+        "Home improvement"
+      ],
+      "website": "https://www.buildingcompany.co.za"
+    },
+    {
+      "name": "B&Q",
+      "founded": 1968,
+      "headquarters": "Johannesburg",
+      "store_count": 35,
+      "categories": [
+        "DIY supplies",
+        "Building materials",
+        "Decorative items"
+      ],
+      "website": "https://www.bandq.co.uk"
+    },
+    {
+      "name": "TuffStuff",
+      "founded": 1995,
+      "headquarters": "Gauteng",
+      "store_count": 50,
+      "categories": [
+        "Building materials",
+        "Fasteners",
+        "Tools"
+      ],
+      "website": "https://www.tuffstuff.co.za"
+    },
+    {
+      "name": "Dulux",
+      "founded": 1931,
+      "headquarters": "Johannesburg",
+      "store_count": 120,
+      "categories": [
+        "Paint",
+        "Decorative finishes",
+        "DIY products"
+      ],
+      "website": "https://www.dulux.co.za"
+    }
+  ]

@@ -1,0 +1,168 @@
+[
+    {
+      "name": "Shoprite",
+      "founded": 1979,
+      "headquarters": "Brackenfell, Cape Town",
+      "store_count": 2200,
+      "categories": [
+        "Groceries",
+        "Household goods",
+        "Clothing",
+        "Electronics"
+      ],
+      "website": "https://www.shoprite.co.za"
+    },
+    {
+      "name": "Pick n Pay",
+      "founded": 1967,
+      "headquarters": "Cape Town",
+      "store_count": 1500,
+      "categories": [
+        "Groceries",
+        "Fresh produce",
+        "Clothing",
+        "Beverages"
+      ],
+      "website": "https://www.pnp.co.za"
+    },
+    {
+      "name": "Woolworths",
+      "founded": 1931,
+      "headquarters": "Cape Town",
+      "store_count": 900,
+      "categories": [
+        "Groceries",
+        "Clothing",
+        "Beauty products",
+        "Home goods"
+      ],
+      "website": "https://www.woolworths.co.za"
+    },
+    {
+      "name": "Spar",
+      "founded": 1963,
+      "headquarters": "Pretoria",
+      "store_count": 1000,
+      "categories": [
+        "Groceries",
+        "Bakery",
+        "Deli",
+        "Pharmacy"
+      ],
+      "website": "https://www.spar.co.za"
+    },
+    {
+      "name": "Checkout",
+      "founded": 2018,
+      "headquarters": "Johannesburg",
+      "store_count": 50,
+      "categories": [
+        "Groceries",
+        "Snacks",
+        "Beverages"
+      ],
+      "website": "https://www.checkout.co.za"
+    },
+    {
+      "name": "Rhino",
+      "founded": 1991,
+      "headquarters": "Durban",
+      "store_count": 80,
+      "categories": [
+        "Groceries",
+        "Household products",
+        "Personal care"
+      ],
+      "website": "https://www.rhinomarkets.co.za"
+    },
+    {
+      "name": "Boxer",
+      "founded": 1992,
+      "headquarters": "Durban",
+      "store_count": 500,
+      "categories": [
+        "Groceries",
+        "Fruits and vegetables",
+        "Meats",
+        "Beverages"
+      ],
+      "website": "https://www.boxer.co.za"
+    },
+    {
+      "name": "Spargs",
+      "founded": 2005,
+      "headquarters": "Port Elizabeth",
+      "store_count": 30,
+      "categories": [
+        "Groceries",
+        "Fruits and vegetables",
+        "Deli",
+        "Frozen foods"
+      ],
+      "website": "https://www.spargs.co.za"
+    },
+    {
+      "name": "Food Lovers Market",
+      "founded": 1993,
+      "headquarters": "Cape Town",
+      "store_count": 150,
+      "categories": [
+        "Fresh produce",
+        "Groceries",
+        "Delicatessen",
+        "Beverages"
+      ],
+      "website": "https://www.foodloversmarket.co.za"
+    },
+    {
+      "name": "Makro",
+      "founded": 1991,
+      "headquarters": "Johannesburg",
+      "store_count": 23,
+      "categories": [
+        "Wholesale groceries",
+        "Electronics",
+        "Home essentials",
+        "Office supplies"
+      ],
+      "website": "https://www.makro.co.za"
+    },
+    {
+      "name": "Dischem",
+      "founded": 1978,
+      "headquarters": "Midrand",
+      "store_count": 200,
+      "categories": [
+        "Pharmacy",
+        "Health supplements",
+        "Personal care",
+        "Groceries"
+      ],
+      "website": "https://www.dischem.co.za"
+    },
+    {
+      "name": "Checkers",
+      "founded": 1991,
+      "headquarters": "Brackenfell, Cape Town",
+      "store_count": 250,
+      "categories": [
+        "Groceries",
+        "Household goods",
+        "Bakery",
+        "Fresh produce"
+      ],
+      "website": "https://www.checkers.co.za"
+    },
+    {
+      "name": "Giant",
+      "founded": 1990,
+      "headquarters": "Durban",
+      "store_count": 45,
+      "categories": [
+        "Groceries",
+        "Household items",
+        "Personal care"
+      ],
+      "website": "https://www.giant.co.za"
+    }
+  ]

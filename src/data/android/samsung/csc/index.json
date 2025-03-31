@@ -1,0 +1,47 @@
+[
+  {
+    "code": "XFA",
+    "country": "South Africa",
+    "region": "South Africa",
+    "carrier": "No-carrier",
+    "iso": "ZAF",
+    "continent": "Africa",
+    "sub_region": "Sub-Saharan Africa"
+  },
+  {
+    "code": "XFC",
+    "country": "South Africa",
+    "region": "South Africa",
+    "carrier": "No-carrier",
+    "iso": "ZAF",
+    "continent": "Africa",
+    "sub_region": "Sub-Saharan Africa"
+  },
+  {
+    "code": "XFE",
+    "country": "South Africa",
+    "region": "South Africa",
+    "carrier": "No-carrier",
+    "iso": "ZAF",
+    "continent": "Africa",
+    "sub_region": "Sub-Saharan Africa"
+  },
+  {
+    "code": "XFM",
+    "country": "South Africa",
+    "region": "South Africa",
+    "carrier": "No-carrier",
+    "iso": "ZAF",
+    "continent": "Africa",
+    "sub_region": "Sub-Saharan Africa"
+  },
+  {
+    "code": "XFV",
+    "country": "South Africa",
+    "region": "South Africa",
+    "carrier": "Vodafone",
+    "iso": "ZAF",
+    "continent": "Africa",
+    "sub_region": "Sub-Saharan Africa"
+  }
+]

@@ -1,0 +1,256 @@
+[
+    {
+      "name": "Pep",
+      "founded": 1965,
+      "headquarters": "Durban",
+      "store_count": 2000,
+      "categories": [
+        "Clothing",
+        "Footwear",
+        "Accessories"
+      ],
+      "website": "https://www.pepstores.com"
+    },
+    {
+      "name": "Ackermans",
+      "founded": 1916,
+      "headquarters": "Cape Town",
+      "store_count": 800,
+      "categories": [
+        "Clothing",
+        "Footwear",
+        "Babywear"
+      ],
+      "website": "https://www.ackermans.co.za"
+    },
+    {
+      "name": "Jet",
+      "founded": 1991,
+      "headquarters": "Johannesburg",
+      "store_count": 700,
+      "categories": [
+        "Clothing",
+        "Footwear",
+        "Accessories"
+      ],
+      "website": "https://www.jetstores.co.za"
+    },
+    {
+      "name": "Edgars",
+      "founded": 1929,
+      "headquarters": "Johannesburg",
+      "store_count": 120,
+      "categories": [
+        "Clothing",
+        "Cosmetics",
+        "Footwear"
+      ],
+      "website": "https://www.edgars.co.za"
+    },
+    {
+      "name": "Truworths",
+      "founded": 1944,
+      "headquarters": "Cape Town",
+      "store_count": 600,
+      "categories": [
+        "Clothing",
+        "Footwear",
+        "Accessories"
+      ],
+      "website": "https://www.truworths.co.za"
+    },
+    {
+      "name": "Markhams",
+      "founded": 1920,
+      "headquarters": "Johannesburg",
+      "store_count": 150,
+      "categories": [
+        "Men's clothing",
+        "Footwear",
+        "Accessories"
+      ],
+      "website": "https://www.markhams.co.za"
+    },
+    {
+      "name": "Woolworths",
+      "founded": 1931,
+      "headquarters": "Cape Town",
+      "store_count": 900,
+      "categories": [
+        "Clothing",
+        "Beauty products",
+        "Food and groceries"
+      ],
+      "website": "https://www.woolworths.co.za"
+    },
+    {
+      "name": "Mr Price",
+      "founded": 1985,
+      "headquarters": "Durban",
+      "store_count": 1400,
+      "categories": [
+        "Clothing",
+        "Footwear",
+        "Sportswear"
+      ],
+      "website": "https://www.mrprice.com"
+    },
+    {
+      "name": "Cotton On",
+      "founded": 1991,
+      "headquarters": "Gqeberha",
+      "store_count": 50,
+      "categories": [
+        "Clothing",
+        "Accessories",
+        "Stationery"
+      ],
+      "website": "https://cottonon.com/ZA/"
+    },
+    {
+      "name": "Superbalist",
+      "founded": 2010,
+      "headquarters": "Cape Town",
+      "store_count": 1,
+      "categories": [
+        "Clothing",
+        "Footwear",
+        "Accessories",
+        "Homeware"
+      ],
+      "website": "https://www.superbalist.com"
+    },
+    {
+      "name": "BrandHouse",
+      "founded": 2002,
+      "headquarters": "Johannesburg",
+      "store_count": 30,
+      "categories": [
+        "Branded clothing",
+        "Footwear",
+        "Streetwear"
+      ],
+      "website": "https://www.brandhouse.com"
+    },
+    {
+      "name": "The Foschini Group",
+      "founded": 1924,
+      "headquarters": "Cape Town",
+      "store_count": 2000,
+      "categories": [
+        "Clothing",
+        "Footwear",
+        "Accessories",
+        "Beauty"
+      ],
+      "website": "https://www.tfg.co.za"
+    },
+    {
+      "name": "H&M",
+      "founded": 1947,
+      "headquarters": "Johannesburg",
+      "store_count": 27,
+      "categories": [
+        "Clothing",
+        "Footwear",
+        "Accessories"
+      ],
+      "website": "https://www2.hm.com/en_za/index.html"
+    },
+    {
+      "name": "Zara",
+      "founded": 1974,
+      "headquarters": "Johannesburg",
+      "store_count": 20,
+      "categories": [
+        "Clothing",
+        "Footwear",
+        "Accessories"
+      ],
+      "website": "https://www.zara.com/za/"
+    },
+    {
+      "name": "Forever New",
+      "founded": 2006,
+      "headquarters": "Cape Town",
+      "store_count": 30,
+      "categories": [
+        "Women's clothing",
+        "Accessories"
+      ],
+      "website": "https://www.forevernew.co.za"
+    },
+    {
+      "name": "Levi's",
+      "founded": 1853,
+      "headquarters": "Johannesburg",
+      "store_count": 28,
+      "categories": [
+        "Denim",
+        "Casual wear",
+        "Accessories"
+      ],
+      "website": "https://www.levi.com/ZA"
+    },
+    {
+      "name": "Tekkie Town",
+      "founded": 2000,
+      "headquarters": "Cape Town",
+      "store_count": 500,
+      "categories": [
+        "Footwear",
+        "Clothing",
+        "Accessories"
+      ],
+      "website": "https://www.tekkietown.co.za"
+    },
+    {
+      "name": "Crossroads",
+      "founded": 1991,
+      "headquarters": "Johannesburg",
+      "store_count": 45,
+      "categories": [
+        "Casual wear",
+        "Footwear",
+        "Accessories"
+      ],
+      "website": "https://www.crossroads.co.za"
+    },
+    {
+      "name": "Sissy Boy",
+      "founded": 1988,
+      "headquarters": "Cape Town",
+      "store_count": 40,
+      "categories": [
+        "Women's fashion",
+        "Accessories",
+        "Home decor"
+      ],
+      "website": "https://www.sissyboy.com"
+    },
+    {
+      "name": "Red Square",
+      "founded": 2003,
+      "headquarters": "Johannesburg",
+      "store_count": 60,
+      "categories": [
+        "Cosmetics",
+        "Clothing",
+        "Accessories"
+      ],
+      "website": "https://www.redsquare.co.za"
+    },
+    {
+      "name": "Takealot",
+      "founded": 2011,
+      "headquarters": "Cape Town",
+      "store_count": 1,
+      "categories": [
+        "Online retail",
+        "Clothing",
+        "Accessories",
+        "Electronics"
+      ],
+      "website": "https://www.takealot.com"
+    }
+  ]
