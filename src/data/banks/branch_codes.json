@@ -1,0 +1,113 @@
+{
+  "za_branch_bank_codes":
+  [
+    {
+      "bank_name" : "Absa Bank",
+      "bank_code" : "632005"
+    },
+    {
+      "bank_name" : "African Bank",
+      "bank_code" : "430000"
+    },
+    {
+      "bank_name" : "Capitec Bank",
+      "bank_code" : "470010"
+    },
+    {
+      "bank_name" : "First National Bank (South Africa)",
+      "bank_code" : "250655"
+    },
+    {
+      "bank_name" : "Investec Bank",
+      "bank_code" : "580105"
+    },
+    {
+      "bank_name" : "Mtn Banking",
+      "bank_code" : "490991"
+    },
+    {
+      "bank_name" : "Meeg Bank",
+      "bank_code" : "471001"
+    },
+    {
+      "bank_name" : "Nedbank (South Africa)",
+      "bank_code" : "198765"
+    },
+    {
+      "bank_name" : "Postbank",
+      "bank_code" : "460005"
+    },
+    {
+      "bank_name" : "Standard Bank (South Africa)",
+      "bank_code" : "51001"
+    },
+    {
+      "bank_name" : "Albaraka Bank",
+      "bank_code" : "800000"
+    },
+    {
+      "bank_name" : "Bank Of Namibia",
+      "bank_code" : "980172"
+    },
+    {
+      "bank_name" : "Bidvest Bank",
+      "bank_code" : "462005"
+    },
+    {
+      "bank_name" : "Central Bank Of Lesotho",
+      "bank_code" : "586611"
+    },
+    {
+      "bank_name" : "Citi Bank",
+      "bank_code" : "350005"
+    },
+    {
+      "bank_name" : "Finbond Mutual Bank",
+      "bank_code" : "589000"
+    },
+    {
+      "bank_name" : "First National Bank Lesotho",
+      "bank_code" : "280061"
+    },
+    {
+      "bank_name" : "First National Bank Namibia",
+      "bank_code" : "282672"
+    },
+    {
+      "bank_name" : "First National Bank Swaziland",
+      "bank_code" : "280164"
+    },
+    {
+      "bank_name" : "Grinrod Bank",
+      "bank_code" : "584000"
+    },
+    {
+      "bank_name" : "Hsbc Bank",
+      "bank_code" : "587000"
+    },
+    {
+      "bank_name" : "Jp Morgan Chase Bank",
+      "bank_code" : "432000"
+    },
+    {
+      "bank_name" : "Standard Bank Namibia",
+      "bank_code" : "87373"
+    },
+    {
+      "bank_name" : "State Bank Of India",
+      "bank_code" : "801000"
+    },
+    {
+      "bank_name" : "Ubank",
+      "bank_code" : "431010"
+    },
+    {
+      "bank_name" : "Unibank",
+      "bank_code" : "790005"
+    },
+    {
+      "bank_name" : "Vbs Mutual Bank",
+      "bank_code" : "588000"
+    }
+  ]
+}

@@ -1,0 +1,577 @@
+[
+  {
+    "info_url": "https://municipalities.co.za/overview/7/buffalo-city-metropolitan-municipality",
+    "name": "Buffalo City Metropolitan",
+    "type": "district",
+    "province": "Eastern Cape",
+    "address": {
+      "postal": "PO Box 134, East London, 5200",
+      "physical": "117 Oxford Street, Cnr North & Oxford Streets, Trust Centre, East London"
+    },
+    "tel": "043 705 2000",
+    "website": "www.buffalocity.gov.za",
+    "mdb_code": "BUF",
+    "description": "The Buffalo City Metropolitan Municipality is a Category A municipality situated on the east coast of the Eastern Cape Province. The boundaries of the newly established municipality now include a large area characterised by very different features. Two former municipalities, Transitional Local Councils – that of East London and Qonce (King William's Town) – have merged into one. Other areas that were previously not included in either of them are now part of Buffalo City. The municipality was established as a local municipality in 2000 after South Africa's reorganisation of municipal areas and is named after the Buffalo River, at whose mouth lies the only river port in South Africa. On 18 May 2011 it was separated from the Amathole District Municipality and converted into a metropolitan municipality. History was made in Buffalo City when the City elected its first female mayor on Friday, 17 March 2006. The area has a well-developed manufacturing base, with the auto industry playing a major role. The climate is mild, with year-round sunshine. Average rainfall is 850mm.",
+    "area_in_km_squared": 2753,
+    "towns": [
+      "Beacon Bay",
+      "Bisho",
+      "Breidbach",
+      "Dimbaza",
+      "East London",
+      "Kidd's Beach",
+      "Mdantsane",
+      "Ntabozuko (Berlin)",
+      "Phakamisa",
+      "Potsdam",
+      "Qonce (King William's Town)",
+      "Zwelitsha"
+    ],
+    "economic_sectors": [
+      {
+        "name": "Agriculture",
+        "percentage": 1
+      },
+      {
+        "name": "mining",
+        "percentage": 0.1
+      },
+      {
+        "name": "manufacturing",
+        "percentage": 14.1
+      },
+      {
+        "name": "electricity",
+        "percentage": 1.3
+      },
+      {
+        "name": "construction",
+        "percentage": 2.3
+      },
+      {
+        "name": "trade",
+        "percentage": 15.3
+      },
+      {
+        "name": "transport",
+        "percentage": 5
+      },
+      {
+        "name": "finance",
+        "percentage": 17.4
+      },
+      {
+        "name": "community services",
+        "percentage": 33.7
+      }
+    ],
+    "contacts": {
+      "departments": {
+        "accounts": "043 705 3504,debbiecr@buffalocity.gov.za",
+        "electricity": "043 705 9220,bevans@buffalocity.gov.za",
+        "roads": "043 705 2000,sandiles@buffalocity.gov.za",
+        "service_delivery": "043 705 2000,siyabongak@buffalocity.gov.za",
+        "water": "043 705 2000,siyamcelam@buffalocity.gov.za"
+      }
+    }
+  },
+  {
+    "info_url": "https://municipalities.co.za/overview/6/city-of-cape-town-metropolitan-municipality",
+    "name": "City of Cape Town Metropolitan",
+    "type": "district",
+    "province": "Western Cape",
+    "address": {
+      "postal": "Private Bag X9181, Cape Town, 8000",
+      "physical": "Civic Centre, 12 Hertzog Boulevard, Cape Town"
+    },
+    "tel": "021 400 1111/0860 103 089",
+    "website": "www.capetown.gov.za",
+    "mdb_code": "CPT",
+    "description": "The City of Cape Town Metropolitan Municipality is a Category A municipality and is situated in the southern peninsula of the Western Cape Province. It has a coastline of 294km. It stretches from Gordon's Bay to Atlantis and includes the suburbs of Khayelitsha and Mitchells Plain. The municipalities adjacent to it are Swartland and West Coast to the north; Drakenstein, Cape Winelands and Stellenbosch to the north-east; and Theewaterskloof, Overberg and Overstrand to the south-east. It is also bounded by the Atlantic Ocean to the south and west. The City is South Africa's second-largest economic centre and second most populous city after Johannesburg. It is the provincial capital and primate city of the Western Cape, as well as the legislative capital of South Africa, where the National Parliament and many government offices are located. The City is famous for its harbour, as well as its natural setting in the Cape Floral Kingdom, including such well-known landmarks as Table Mountain and Cape Point. It is hailed as one of the most beautiful cities in the world as officially recognised by Forbes. It is also Africa's most popular tourist destination. Being the oldest city in South Africa, it is affectionately known as ‘The Mother City'.",
+    "area_in_km_squared": 2441,
+    "towns": [
+      "Athlone",
+      "Atlantis",
+      "Belhar",
+      "Bellville",
+      "Blackheath",
+      "Blouberg",
+      "Blue Downs",
+      "Brackenfell",
+      "Cape Point",
+      "Cape Town",
+      "Delft",
+      "Durbanville",
+      "Elsies Rivier",
+      "Fish Hoek",
+      "Goodwood",
+      "Gordon's Bay",
+      "Grassy Park",
+      "Guguletu",
+      "Hout Bay",
+      "Khayelitsha",
+      "Kommetjie",
+      "Kraaifontein",
+      "Kuils River",
+      "Langa",
+      "Macassar",
+      "Matroosfontein",
+      "Melkbosstrand",
+      "Milnerton",
+      "Mitchells Plain",
+      "Muizenberg",
+      "Noordhoek",
+      "Nyanga",
+      "Parow",
+      "Philadelphia",
+      "Philippi",
+      "Robben Island",
+      "Scarborough",
+      "Simon's Town",
+      "Sir Lowry's Pass",
+      "Somerset West",
+      "Southern Suburbs",
+      "Strand",
+      "Table View"
+    ],
+    "economic_sectors": [],
+    "contacts": {
+      "departments": {
+        "accounts": "086 010 3089,accounts@capetown.gov.za",
+        "electricity": "086 010 3089,Contact.Us@capetown.gov.za",
+        "roads": "086 010 3089,TMCInfo@capetown.gov.za",
+        "service_delivery": "086 010 3089,Contact.Us@capetown.gov.za",
+        "water": "086 010 3089,water@capetown.gov.za"
+      }
+    }
+  },
+  {
+    "info_url": "https://municipalities.co.za/overview/4/city-of-ekurhuleni-metropolitan-municipality",
+    "name": "City of Ekurhuleni Metropolitan",
+    "type": "district",
+    "province": "Gauteng",
+    "address": {
+      "postal": "Private Bag X1069, Germiston, 1400",
+      "physical": "Head Office, 15 Queen Street, Germiston"
+    },
+    "tel": "086 054 3000",
+    "website": "www.ekurhuleni.gov.za",
+    "mdb_code": "EKU",
+    "description": "The City of Ekurhuleni Metropolitan Municipality is a Category A municipality covers an extensive area from Germiston in the west to Springs and Nigel in the east. The former administrations of the nine towns in the former East Rand were amalgamated into the metropolitan municipality, along with the Khayalami Metropolitan Council and the Eastern Gauteng Services Council. It is one of the most densely populated areas in the province, and the country. The economy in the region is larger and more diverse than that of many small countries in Africa. It accounts for nearly a quarter of Gauteng's economy, which in turn contributes over a third of the national Gross Domestic Product. Many of the factories for production of goods and commodities are located in Ekurhuleni, often referred to as ‘Africa's Workshop'. The network of roads, airports, rail lines, telephones, electricity grids and telecommunications found in Ekurhuleni rivals that of Europe and America. It can be regarded as the transportation hub of the country. It is home to OR Tambo International Airport; South Africa's largest railway hub; a number of South Africa's modern freeways and expressways; the Maputo Corridor Development; direct rail, road and air links connecting Ekurhuleni to Durban; the Blue IQ projects, with linkages to the City Deep Container terminal; the planned Gautrain rapid rail link to Johannesburg and Pretoria; and the OR Tambo International Airport Industrial Development Zone (IDZ).",
+    "area_in_km_squared": 1976,
+    "towns": [
+      "Alberton",
+      "Bedfordview",
+      "Benoni",
+      "Birchleigh",
+      "Boksburg",
+      "Brakpan",
+      "Clayville",
+      "Daveyton",
+      "Dunnottar",
+      "Edenvale",
+      "Geduld",
+      "Germiston",
+      "Katlehong",
+      "Kempton Park",
+      "Kwa-Thema",
+      "Machenzieville",
+      "Nigel",
+      "Olifantsfontein",
+      "Springs",
+      "Tembisa",
+      "Tokoza",
+      "Vosloorus",
+      "Vorsterkroon"
+    ],
+    "economic_sectors": [
+      {
+        "name": "Community services",
+        "percentage": 24
+      },
+      {
+        "name": "mining",
+        "percentage": 2
+      },
+      {
+        "name": "manufacturing",
+        "percentage": 21
+      },
+      {
+        "name": "electricity",
+        "percentage": 3
+      },
+      {
+        "name": "construction",
+        "percentage": 3
+      },
+      {
+        "name": "trade",
+        "percentage": 13
+      },
+      {
+        "name": "transport",
+        "percentage": 8
+      },
+      {
+        "name": "finance",
+        "percentage": 26
+      }
+    ],
+    "contacts": {
+      "departments": {
+        "accounts": "0860 543 000,call.centre@ekurhuleni.gov.za",
+        "electricity": "0860 543 000,call.centre@ekurhuleni.gov.za",
+        "roads": "0860 543 000,call.centre@ekurhuleni.gov.za",
+        "service_delivery": "0860 543 000,call.centre@ekurhuleni.gov.za",
+        "water": "0860 543 000,call.centre@ekurhuleni.gov.za"
+      }
+    }
+  },
+  {
+    "info_url": "https://municipalities.co.za/overview/2/city-of-johannesburg-metropolitan-municipality",
+    "name": "City of Johannesburg Metropolitan",
+    "type": "district",
+    "province": "Gauteng",
+    "address": {
+      "postal": "PO Box 1049, Johannesburg, 2000",
+      "physical": "158 Civic Boulevard, Braamfontein, Johannesburg"
+    },
+    "tel": "011 407 6111",
+    "website": "www.joburg.org.za",
+    "mdb_code": "JHB",
+    "description": "The City of Johannesburg Metropolitan Municipality is located in the Gauteng Province. Johannesburg is the most advanced commercial city in Africa and the engine room of the South African and regional economy. It is a city with a unique, African character, world-class infrastructure in the fields of telecommunications, transportation, water and power, and with globally-competitive health care and educational facilities. However, the city is also one of contrasts – home to both wealthy and poor, residents and refugees, global corporations and emerging enterprises. The demographics of Johannesburg indicate a large and ethnically diverse metropolitan area. As the largest city in South Africa, its population is defined by a long history of local and international migration. Johannesburg is home to almost five million people, accounting for about 36% of Gauteng's population and 8% of the national population. Over the last decade the city has been growing. A key contributor to this is that the city continues to attract people from other provinces, and internationally, who are looking for better economic opportunities and quality of life. The population pyramid indicates that the city’s population is predominantly young. This can be attributed to migration from other parts of the country as young people look for jobs. Johannesburg is considered the economic hub of South Africa and is often the first choice of destination by job seekers across the country.",
+    "area_in_km_squared": 1643,
+    "towns": [
+      "Alexandra",
+      "Diepkloof",
+      "Diepsloot",
+      "Ennerdale",
+      "Johannesburg",
+      "Johannesburg South",
+      "Lawley",
+      "Lenasia",
+      "Lenasia South",
+      "Meadowlands East",
+      "Meadowlands West",
+      "Midrand",
+      "Orange Farm",
+      "Pimville",
+      "Randburg",
+      "Roodepoort",
+      "Sandton",
+      "Soweto"
+    ],
+    "economic_sectors": [],
+    "contacts": {
+      "departments": {
+        "accounts": "0860 562 874,joburgconnect@joburg.org.za",
+        "electricity": "0860 562 874,customerservice@citypower.co.za",
+        "roads": "0860 562 874,hotline@jra.org.za",
+        "service_delivery": "011 203 3300,",
+        "water": "0860 562 874,customerserviceemails@jwater.co.za"
+      }
+    }
+  },
+  {
+    "info_url": "https://municipalities.co.za/overview/3/city-of-tshwane-metropolitan-municipality",
+    "name": "City of Tshwane Metropolitan",
+    "type": "district",
+    "province": "Gauteng",
+    "address": {
+      "postal": "PO Box 440, Pretoria, 0001",
+      "physical": "Tshwane House, 320 Madiba Street, Pretoria"
+    },
+    "tel": "012 358 9999",
+    "website": "www.tshwane.gov.za",
+    "mdb_code": "TSH",
+    "description": "The City of Tshwane Metropolitan Municipality is a Category A municipality situated in the Gauteng Province. It merged with the Metsweding District, which was a consequence of the Gauteng Global City Region Strategy to reduce the number of municipalities in Gauteng to at least four by 2016. The City of Tshwane is the single-largest metropolitan municipality in the country, comprising seven regions, 105 wards and 210 councillors. Pretoria is the capital of South Africa. It has the second-largest number of embassies in the world after Washington DC. Many embassies thus call this city their home. The Union Buildings house the administrative hub of the country and have also been the setting for the presidential inaugurations of Nelson Mandela, Thabo Mbeki and the incumbent South African president, Jacob Zuma. These sandstone buildings offer beautiful views over the City. Its rich and colourful heritage is reflected in the City's myriad of museums, monuments and historical buildings, and is punctuated by contemporary arts and crafts markets, bringing the City alive with a unique blend of new and old. The Science and Technology Museum offers a tactile experience of science at work. The South African mint has a minting press dating back to 1892 that is still in operation. The City also offers township sleepovers with a five-star stay. Church Square and the State Theatre often host international and national performances. There are also two nature reserves where visitors can view wildlife such as buffalo, antelope, cheetah, jackal, giraffe and sable.",
+    "area_in_km_squared": 6298,
+    "towns": [
+      "Akasia",
+      "Atteridgeville",
+      "Bronkhorstspruit",
+      "Centurion",
+      "Cullinan",
+      "Ekangala",
+      "Ga-Rankuwa",
+      "Garsfontein",
+      "Hammanskraal",
+      "Irene",
+      "Kudube",
+      "Mabopane",
+      "Mamelodi",
+      "Pretoria",
+      "Pretoria North",
+      "Rayton",
+      "Refilwe",
+      "Roodeplaat",
+      "Soshanguve",
+      "Temba",
+      "Winterveldt"
+    ],
+    "economic_sectors": [
+      {
+        "name": "Community services",
+        "percentage": 35.2
+      },
+      {
+        "name": "finance",
+        "percentage": 25
+      },
+      {
+        "name": "manufacturing",
+        "percentage": 11.5
+      },
+      {
+        "name": "agriculture",
+        "percentage": 0.66
+      }
+    ],
+    "contacts": {
+      "departments": {
+        "accounts": "012 358 9999,customercare@tshwane.gov.za",
+        "electricity": " 082 612 0333,customercare@tshwane.gov.za",
+        "roads": "080 111 1556 / 0123589999,customercare@tshwane.gov.za",
+        "service_delivery": "012 358 9140,customercare@tshwane.gov.za",
+        "water": "012 358 2111 / 0801111556,customercare@tshwane.gov.za"
+      }
+    }
+  },
+  {
+    "info_url": "https://municipalities.co.za/overview/5/ethekwini-metropolitan-municipality",
+    "name": "eThekwini Metropolitan",
+    "type": "district",
+    "province": "KwaZulu-Natal",
+    "address": {
+      "postal": "PO Box 1014, Durban, 4000",
+      "physical": "City Hall, 263 Dr Pixley Ka Seme Street, Durban, 4000"
+    },
+    "tel": "031 311 1111",
+    "website": "www.durban.gov.za",
+    "mdb_code": "ETH",
+    "description": "The eThekwini Metropolitan Municipality is a Category A municipality found in the South African province of KwaZulu-Natal. eThekwini is the largest city in this province and the third-largest city in the country. Its land area is comparatively larger than that of other South African cities and is topographically hilly, with many gorges and ravines and almost no true coastal plain.  It is a sophisticated, cosmopolitan city and is known as the home of Africa's best-managed, busiest port. The world-class International Convention Centre in Durban has hosted a historic line-up of events, including conferences on a global scale. Durban has a turbulent history dating from ivory hunters in the 1820s and their conflict with the local Zulu monarchs. The province has the largest number of battlefields. It is also a major centre of tourism because of the City's warm, subtropical climate and extensive beaches. Durban Tourism is the leading domestic destination in South Africa. The estimated visitor number for the financial year 2010/11 is 9,95 million. The value of the domestic tourism economic impact on the region’s GDP is estimated to be 8% per annum. The hospitality industry consists of many fine hotels, nightspots, shopping malls, ethnic attractions, traditional villages, craft markets, sparkling dams, and big-game parks.",
+    "area_in_km_squared": 2556,
+    "towns": [
+      "Amalanga",
+      "Amanzimtoti",
+      "Amaotana",
+      "Berea",
+      "Blackburn",
+      "Bluff",
+      "Cato Ridge",
+      "Cele/Vumengazi",
+      "Chatsworth",
+      "Cibane",
+      "Clermont",
+      "Clifton Canyon",
+      "Craigieburn",
+      "Dassenhoek",
+      "Desainager",
+      "Durban",
+      "Durban International Airport",
+      "Durban North",
+      "Durban South",
+      "Emalangeni",
+      "Embo/Nksa Isimahla",
+      "Emona",
+      "Ethekwini",
+      "Everton",
+      "Ezembeni",
+      "Folweni",
+      "Gcumisa",
+      "Genazzano",
+      "Gillitts",
+      "Glenashley",
+      "Golokodo-Ensimbini",
+      "Hambanathi",
+      "Hammarsdale",
+      "Hillcrest",
+      "Ilanga",
+      "Ilfracombe",
+      "Illovo North",
+      "Illovo South",
+      "Inanda",
+      "Inchanga",
+      "Iqadi",
+      "Isipingo",
+      "Isipingo Beach",
+      "Kingsburgh",
+      "Klaarwater",
+      "Kloof",
+      "KwaDabeka",
+      "KwaMashu",
+      "KwaNdengezi",
+      "La Mercy",
+      "Lotus Park",
+      "Luganda",
+      "Luthuli/Umnini Trust",
+      "Magabeni",
+      "Malagazi",
+      "Mangangeni/Vumazonke",
+      "Maphephetha",
+      "Mariannhill",
+      "Mawotana",
+      "Mawothi",
+      "Molweni",
+      "Mount Edgecombe",
+      "Mount Moreland",
+      "Mpolo",
+      "Mpumalanga",
+      "New Germany",
+      "Newlands East",
+      "Newlands West",
+      "Ngcolosi",
+      "Ngqungqulu",
+      "Ntuzuma",
+      "Oceans",
+      "Outer West Durban",
+      "Phoenix",
+      "Pinetown",
+      "Prospecton",
+      "Qadi",
+      "Qiniselani Manyuswa",
+      "Queensburgh",
+      "Redcliffe",
+      "Roseneath",
+      "Sapref",
+      "Shallcross",
+      "Sobonakhona",
+      "Thoyana",
+      "Tongaat",
+      "Tongaat Beach",
+      "Tshelimnyama",
+      "UmgogintwiniUmbumbulu",
+      "Umdloti",
+      "Umgababa",
+      "Umhlanga",
+      "Umkomaas",
+      "Umlazi",
+      "Verulam",
+      "Waterfall",
+      "Westbrook",
+      "Westville",
+      "Ximba"
+    ],
+    "economic_sectors": [],
+    "contacts": {
+      "departments": {
+        "accounts": "031 324 5000,Revline@durban.gov.za",
+        "electricity": "Faults 0801 313 111,Cable theft 031 311 9611",
+        "roads": "080 1313 013,",
+        "service_delivery": "0800 331 011,Sizakala@durban.gov.za",
+        "water": "080 13 13 013,073 148 3477 (Whatsapp)"
+      }
+    }
+  },
+  {
+    "info_url": "https://municipalities.co.za/overview/8/mangaung-metropolitan-municipality",
+    "name": "Mangaung Metropolitan",
+    "type": "district",
+    "province": "Free State",
+    "address": {
+      "postal": "PO Box 3704, Bloemfontein, 9300",
+      "physical": "Bram Fischer Building, Nelson Mandela Drive & Markgraaff Street, Bloemfontein"
+    },
+    "tel": "0800 111 300",
+    "website": "www.mangaung.co.za",
+    "mdb_code": "MAN",
+    "description": "The Mangaung Metropolitan Municipality is a Category A municipality. It is situated in the Free State Province, in the central interior of South Africa. The Free State is bordered by the Gauteng, Eastern Cape, Northern Cape, KwaZulu-Natal and North West Provinces, as well as by the neighbouring country of Lesotho. Mangaung, meaning ‘Place of the Cheetahs', accentuates the vibrant, dynamic and energetic character of the tourism industry in the 'At the Heart of it All'. The economy is strongly driven by the government sector, which has seen the fastest growth in the last five years as a result of increased government programmes in livelihoods improvement interventions. The finance sector is the second-fastest growing sector due to very active estate and construction activities. Small businesses have a major role to play in the South African, and especially the Mangaung, economy in terms of employment creation, income generation and output growth. It is estimated that more than 12 million people in South Africa are actively involved in the SMME sector, which accounts for approximately 60% of all employment in the economy and 40% of output. In an area such as Mangaung, with its relatively high levels of unemployment and poverty, it can be expected that the SMME sector plays an even more important role in job creation and poverty alleviation. The informal economy makes an important contribution to the economic and social life of Mangaung. Due to the decline in formal employment and consequent increase in unemployment, many people seek alternative means of earning an income.",
+    "area_in_km_squared": 9886,
+    "towns": [
+      "Bloemfontein",
+      "Botshabelo",
+      "Dewetsdorp",
+      "Mangaung",
+      "Soutpan",
+      "Thaba Nchu",
+      "Van Stadensrus",
+      "Wepener"
+    ],
+    "economic_sectors": [
+      {
+        "name": "Agriculture",
+        "percentage": 2.6
+      },
+      {
+        "name": "mining",
+        "percentage": 1.6
+      },
+      {
+        "name": "manufacturing",
+        "percentage": 5.5
+      },
+      {
+        "name": "electricity",
+        "percentage": 2.6
+      },
+      {
+        "name": "construction",
+        "percentage": 2.1
+      },
+      {
+        "name": "trade",
+        "percentage": 17
+      },
+      {
+        "name": "transport",
+        "percentage": 11.8
+      },
+      {
+        "name": "finance",
+        "percentage": 28.7
+      },
+      {
+        "name": "community services",
+        "percentage": 40.6
+      }
+    ],
+    "contacts": {
+      "departments": {
+        "accounts": "0800 111 300,ebilling@mangaung.co.za",
+        "electricity": "051 409 2465/2300,Karin.kirsdorp@centlec.co.za",
+        "roads": "0800 111 300,mlondolozi.ndlovu@mangaung.co.za",
+        "service_delivery": "0800 111 300,",
+        "water": "0800 111 300,mlondolozi.ndlovu@mangaung.co.za"
+      }
+    }
+  },
+  {
+    "info_url": "https://municipalities.co.za/overview/1/nelson-mandela-bay-metropolitan-municipality",
+    "name": "Nelson Mandela Bay Metropolitan",
+    "type": "district",
+    "province": "Eastern Cape",
+    "address": {
+      "postal": "PO Box 116, Port Elizabeth, 6000",
+      "physical": "City Hall, Vuyisile Mini Square, Govan Mbeki Avenue, Nelson Mandela Bay"
+    },
+    "tel": "041 506 1911",
+    "website": "www.nelsonmandelabay.gov.za",
+    "mdb_code": "NMA",
+    "description": "The Nelson Mandela Bay Metropolitan Municipality is a Category A municipality, established on 5 December 2000. Nelson Mandela Bay was the first city in South Africa to establish a fully integrated democratic local authority and the only city in the world named after Nelson Mandela, who was born and spent his formative years in the Eastern Cape. Nelson Mandela Bay is a major seaport and automotive manufacturing centre located on the south-eastern coast of Africa. It is the economic powerhouse of the Eastern Cape Province and one of eight metropolitan areas in South Africa. Its boundaries are formed by Cassie Mountain View in the north, Cape Recife in the south, Sundays River Mouth in the east, and Van Stadens River Mouth in the west. The city is a holiday hot spot for both national and international tourists. The predominant languages spoken are English, Afrikaans and isiXhosa.",
+    "area_in_km_squared": 1957,
+    "towns": [
+      "Bethelsdorp",
+      "Bloemendal",
+      "Blue Horizon Bay",
+      "Clarendon Marine",
+      "Despatch",
+      "Gqeberha (Port Elizabeth)",
+      "Kariega (Uitenhage)",
+      "KwaNobuhle",
+      "Motherwell",
+      "Summerstrand",
+      "Swartkops"
+    ],
+    "economic_sectors": [],
+    "contacts": {
+      "departments": {
+        "accounts": "041 506 5555,customercare@mandelametro.gov.za",
+        "electricity": "041 374 4434,electricity@mandelametro.gov.za",
+        "roads": "041 506 2428,",
+        "service_delivery": "0800 20 50 50,",
+        "water": "041 506 2258,waterleaks@mandelametro.gov.za"
+      }
+    }
+  }
+]
