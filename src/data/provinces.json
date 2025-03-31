@@ -1,0 +1,83 @@
+[
+  {
+    "code": "EC",
+    "name": {
+      "en": "Eastern Cape",
+      "local": "Mpuma-Koloni"
+    },
+    "capital": "Bhisho",
+    "geographicCode": "ZA-EC"
+  },
+  {
+    "code": "FS",
+    "name": {
+      "en": "Free State",
+      "local": "Foreistata"
+    },
+    "capital": "Bloemfontein",
+    "geographicCode": "ZA-FS"
+  },
+  {
+    "code": "GP",
+    "name": {
+      "en": "Gauteng",
+      "local": "Gauteng"
+    },
+    "capital": "Johannesburg",
+    "geographicCode": "ZA-GP"
+  },
+  {
+    "code": "KZN",
+    "name": {
+      "en": "KwaZulu-Natal",
+      "local": "KwaZulu-Natali"
+    },
+    "capital": "Pietermaritzburg",
+    "geographicCode": "ZA-KZN"
+  },
+  {
+    "code": "LP",
+    "name": {
+      "en": "Limpopo",
+      "local": "Limpopo"
+    },
+    "capital": "Polokwane",
+    "geographicCode": "ZA-LP"
+  },
+  {
+    "code": "MP",
+    "name": {
+      "en": "Mpumalanga",
+      "local": "Mpumalanga"
+    },
+    "capital": "Mbombela",
+    "geographicCode": "ZA-MP"
+  },
+  {
+    "code": "NC",
+    "name": {
+      "en": "Northern Cape",
+      "local": "Kapa Bokone"
+    },
+    "capital": "Kimberley",
+    "geographicCode": "ZA-NC"
+  },
+  {
+    "code": "NW",
+    "name": {
+      "en": "North West",
+      "local": "Bokone Bophirima"
+    },
+    "capital": "Mahikeng",
+    "geographicCode": "ZA-NW"
+  },
+  {
+    "code": "WC",
+    "name": {
+      "en": "Western Cape",
+      "local": "Kapa Bophirima"
+    },
+    "capital": "Cape Town",
+    "geographicCode": "ZA-WC"
+  }
+]
