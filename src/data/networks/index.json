@@ -1,0 +1,134 @@
+[
+  {
+    "networkCode": "655 01",
+    "networkName": "Vodacom"
+  },
+  {
+    "networkCode": "655 02",
+    "networkName": "Telkom"
+  },
+  {
+    "networkCode": "655 04",
+    "networkName": "Sasol (Pty) Ltd."
+  },
+  {
+    "networkCode": "655 06",
+    "networkName": "Sentech (Pty) Ltd"
+  },
+  {
+    "networkCode": "655 07",
+    "networkName": "Cell C"
+  },
+  {
+    "networkCode": "655 10",
+    "networkName": "MTN"
+  },
+  {
+    "networkCode": "655 11",
+    "networkName": "South African Police Service Gauteng"
+  },
+  {
+    "networkCode": "655 12",
+    "networkName": "MTN"
+  },
+  {
+    "networkCode": "655 13",
+    "networkName": "Neotel"
+  },
+  {
+    "networkCode": "655 14",
+    "networkName": "Neotel"
+  },
+  {
+    "networkCode": "655 16",
+    "networkName": "Phoenix System Integration (Pty) Ltd"
+  },
+  {
+    "networkCode": "655 17",
+    "networkName": "Sishen Iron Ore Company (Ltd) Pty"
+  },
+  {
+    "networkCode": "655 19",
+    "networkName": "Wireless Business Solutions (Pty) Ltd"
+  },
+  {
+    "networkCode": "655 21",
+    "networkName": "Cape Town Metropolitan Council"
+  },
+  {
+    "networkCode": "655 24",
+    "networkName": "SMSPortal (Pty) Ltd."
+  },
+  {
+    "networkCode": "655 25",
+    "networkName": "Wirels Connect"
+  },
+  {
+    "networkCode": "655 27",
+    "networkName": "A to Z Vaal Industrial Supplies Pty Ltd"
+  },
+  {
+    "networkCode": "655 28",
+    "networkName": "Hymax Talking Solutions (Pty) Ltd"
+  },
+  {
+    "networkCode": "655 30",
+    "networkName": "Bokamoso Consortium"
+  },
+  {
+    "networkCode": "655 31",
+    "networkName": "Karabo Telecoms (Pty) Ltd."
+  },
+  {
+    "networkCode": "655 32",
+    "networkName": "Ilizwi Telecommunications"
+  },
+  {
+    "networkCode": "655 33",
+    "networkName": "Thinta Thinta Telecommunications Pty Ltd"
+  },
+  {
+    "networkCode": "655 34",
+    "networkName": "Bokone Telecoms Pty Ltd"
+  },
+  {
+    "networkCode": "655 35",
+    "networkName": "Kingdom Communications Pty Ltd"
+  },
+  {
+    "networkCode": "655 36",
+    "networkName": "Amatole Telecommunications Pty Ltd"
+  },
+  {
+    "networkCode": "655 38",
+    "networkName": "iBurst"
+  },
+  {
+    "networkCode": "655 41",
+    "networkName": "South African Police Service"
+  },
+  {
+    "networkCode": "655 46",
+    "networkName": "SMS Cellular Services (Pty) Ltd"
+  },
+  {
+    "networkCode": "655 50",
+    "networkName": "Ericsson South Africa (Pty) Ltd"
+  },
+  {
+    "networkCode": "655 51",
+    "networkName": "Integrat (Pty) Ltd"
+  },
+  {
+    "networkCode": "655 53",
+    "networkName": "Lycamobile"
+  },
+  {
+    "networkCode": "655 73",
+    "networkName": "iBurst"
+  },
+  {
+    "networkCode": "655 74",
+    "networkName": "iBurst"
+  }
+]
