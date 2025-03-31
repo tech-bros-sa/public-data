@@ -1,0 +1,158 @@
+[
+  {
+    "name": "University of Cape Town (UCT)",
+    "founded": 1829,
+    "headquarters": "Cape Town",
+    "website": "https://www.uct.ac.za"
+  },
+  {
+    "name": "Stellenbosch University",
+    "founded": 1918,
+    "headquarters": "Stellenbosch",
+    "website": "https://www.sun.ac.za"
+  },
+  {
+    "name": "University of the Witwatersrand (Wits)",
+    "founded": 1922,
+    "headquarters": "Johannesburg",
+    "website": "https://www.wits.ac.za"
+  },
+  {
+    "name": "University of Pretoria (UP)",
+    "founded": 1908,
+    "headquarters": "Pretoria",
+    "website": "https://www.up.ac.za"
+  },
+  {
+    "name": "University of KwaZulu-Natal (UKZN)",
+    "founded": 2004,
+    "headquarters": "Durban",
+    "website": "https://www.ukzn.ac.za"
+  },
+  {
+    "name": "University of Johannesburg (UJ)",
+    "founded": 2005,
+    "headquarters": "Johannesburg",
+    "website": "https://www.uj.ac.za"
+  },
+  {
+    "name": "North-West University (NWU)",
+    "founded": 2004,
+    "headquarters": "Potchefstroom",
+    "website": "https://www.nwu.ac.za"
+  },
+  {
+    "name": "University of the Western Cape (UWC)",
+    "founded": 1960,
+    "headquarters": "Bellville",
+    "website": "https://www.uwc.ac.za"
+  },
+  {
+    "name": "Rhodes University",
+    "founded": 1904,
+    "headquarters": "Grahamstown",
+    "website": "https://www.ru.ac.za"
+  },
+  {
+    "name": "University of Limpopo",
+    "founded": 2005,
+    "headquarters": "Turfloop",
+    "website": "https://www.ul.ac.za"
+  },
+  {
+    "name": "University of the Free State (UFS)",
+    "founded": 1904,
+    "headquarters": "Bloemfontein",
+    "website": "https://www.ufs.ac.za"
+  },
+  {
+    "name": "Tshwane University of Technology (TUT)",
+    "founded": 2004,
+    "headquarters": "Pretoria",
+    "website": "https://www.tut.ac.za"
+  },
+  {
+    "name": "Cape Peninsula University of Technology (CPUT)",
+    "founded": 2005,
+    "headquarters": "Cape Town",
+    "website": "https://www.cput.ac.za"
+  },
+  {
+    "name": "Durban University of Technology (DUT)",
+    "founded": 2002,
+    "headquarters": "Durban",
+    "website": "https://www.dut.ac.za"
+  },
+  {
+    "name": "Vaal University of Technology (VUT)",
+    "founded": 1966,
+    "headquarters": "Vanderbijlpark",
+    "website": "https://www.vut.ac.za"
+  },
+  {
+    "name": "Mangosuthu University of Technology (MUT)",
+    "founded": 1979,
+    "headquarters": "Durban",
+    "website": "https://www.mut.ac.za"
+  },
+  {
+    "name": "University of Fort Hare",
+    "founded": 1916,
+    "headquarters": "Alice",
+    "website": "https://www.ufh.ac.za"
+  },
+  {
+    "name": "Sefako Makgatho Health Sciences University",
+    "founded": 2014,
+    "headquarters": "Pretoria",
+    "website": "https://www.smu.ac.za"
+  },
+  {
+    "name": "Walter Sisulu University (WSU)",
+    "founded": 2005,
+    "headquarters": "Mthatha",
+    "website": "https://www.wsu.ac.za"
+  },
+  {
+    "name": "University of Mpumalanga",
+    "founded": 2014,
+    "headquarters": "Mbombela",
+    "website": "https://www.ump.ac.za"
+  },
+  {
+    "name": "Central University of Technology (CUT)",
+    "founded": 2000,
+    "headquarters": "Bloemfontein",
+    "website": "https://www.cut.ac.za"
+  },
+  {
+    "name": "Nelson Mandela University (NMU)",
+    "founded": 2005,
+    "headquarters": "Port Elizabeth",
+    "website": "https://www.mandela.ac.za"
+  },
+  {
+    "name": "University of South Africa (UNISA)",
+    "founded": 1873,
+    "headquarters": "Pretoria",
+    "website": "https://www.unisa.ac.za"
+  },
+  {
+    "name": "University of Venda",
+    "founded": 1982,
+    "headquarters": "Thohoyandou",
+    "website": "https://www.univen.ac.za"
+  },
+  {
+    "name": "University of Zululand (UniZulu)",
+    "founded": 1960,
+    "headquarters": "Kwadlangezwa",
+    "website": "https://www.unizulu.ac.za"
+  },
+  {
+    "name": "Sol Plaatje University (SPU)",
+    "founded": 2014,
+    "headquarters": "Kimberley",
+    "website": "https://www.spu.ac.za"
+  }
+]
