@@ -1,0 +1,93 @@
+[
+    {
+      "name": "South African Airways (SAA)",
+      "founded": 1934,
+      "headquarters": "Johannesburg",
+      "function": "National airline of South Africa",
+      "website": "https://www.flysaa.com"
+    },
+    {
+      "name": "Eskom",
+      "founded": 1923,
+      "headquarters": "Johannesburg",
+      "function": "Electricity supply and generation",
+      "website": "https://www.eskom.co.za"
+    },
+    {
+      "name": "Transnet",
+      "founded": 1990,
+      "headquarters": "Johannesburg",
+      "function": "Freight transport and logistics",
+      "website": "https://www.transnet.net"
+    },
+    {
+      "name": "Telkom",
+      "founded": 1991,
+      "headquarters": "Centurion",
+      "function": "Telecommunications services",
+      "website": "https://www.telkom.co.za"
+    },
+    {
+      "name": "Denel",
+      "founded": 1992,
+      "headquarters": "Centurion",
+      "function": "Defense and aerospace",
+      "website": "https://www.denel.co.za"
+    },
+    {
+      "name": "South African Broadcasting Corporation (SABC)",
+      "founded": 1936,
+      "headquarters": "Johannesburg",
+      "function": "Public broadcasting",
+      "website": "https://www.sabc.co.za"
+    },
+    {
+      "name": "Pipelines",
+      "founded": 1997,
+      "headquarters": "Johannesburg",
+      "function": "Transportation of fuel and gas through pipelines",
+      "website": "https://www.pipelines.co.za"
+    },
+    {
+      "name": "South African Post Office (SAPO)",
+      "founded": 1991,
+      "headquarters": "Pretoria",
+      "function": "Postal services",
+      "website": "https://www.postoffice.co.za"
+    },
+    {
+      "name": "Airports Company South Africa (ACSA)",
+      "founded": 1993,
+      "headquarters": "Kempton Park",
+      "function": "Management of airports",
+      "website": "https://www.airports.co.za"
+    },
+    {
+      "name": "Products and Services",
+      "founded": 2003,
+      "headquarters": "Pretoria",
+      "function": "Provision of a range of services and products to government",
+      "website": "https://www.products.co.za"
+    },
+    {
+      "name": "Centurion Systems",
+      "founded": 1985,
+      "headquarters": "Centurion",
+      "function": "Automation and access control systems",
+      "website": "https://www.centurionsystems.com"
+    },
+    {
+      "name": "Asphalt and Concrete",
+      "founded": 2000,
+      "headquarters": "Johannesburg",
+      "function": "Construction materials and services",
+      "website": "https://www.asphaltandconcrete.co.za"
+    },
+    {
+      "name": "South African Social Security Agency (SASSA)",
+      "founded": 2005,
+      "headquarters": "Pretoria",
+      "function": "Social grants administration",
+      "website": "https://www.sassa.gov.za"
+    }
+  ]
