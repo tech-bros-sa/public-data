@@ -1,19 +1,22 @@
 # ZA Public Data
 
-(Work in Progress)
+## (Work in Progress)
+
 A comprehensive South African public data library for developers, providing easy access to provinces, municipalities, government entities, banks, educational institutions, and more.
 
 ## Installation
 
-\`\`\`bash
+```bash
 npm install za-public-data
-\`\`\`
+```
+
+_We dont have an npm library yet but the aim is to have one_
 
 ## Usage
 
 ### Basic Import
 
-\`\`\`typescript
+```typescript
 import { provinces, municipalities, banks } from 'za-public-data';
 
 // Get all provinces
@@ -24,11 +27,11 @@ console.log(municipalities);
 
 // Get all banks
 console.log(banks);
-\`\`\`
+```
 
 ### Specific Imports
 
-\`\`\`typescript
+```typescript
 // Import specific data sets
 import { getProvinceByCode } from 'za-public-data/provinces';
 import { getMunicipalitiesByProvince } from 'za-public-data/municipalities';
@@ -42,7 +45,7 @@ const wcMunicipalities = getMunicipalitiesByProvince('WC');
 
 // Get a specific bank
 const bank = getBankByCode('632005');
-\`\`\`
+```
 
 ### Available Data Sets
 
@@ -57,8 +60,12 @@ const bank = getBankByCode('632005');
 
 ### Utility Functions
 
-\`\`\`typescript
-import { validateProvinceCode, searchByName, groupByProvince } from 'za-public-data';
+```typescript
+import {
+  validateProvinceCode,
+  searchByName,
+  groupByProvince,
+} from 'za-public-data';
 
 // Validate province code
 const isValid = validateProvinceCode('WC'); // true
@@ -68,7 +75,7 @@ const results = searchByName(universities, 'Cape Town');
 
 // Group items by province
 const grouped = groupByProvince(universities);
-\`\`\`
+```
 
 ## API Reference
 
@@ -100,13 +107,13 @@ const grouped = groupByProvince(universities);
 
 This library is written in TypeScript and provides full type definitions for all data structures.
 
-\`\`\`typescript
+```typescript
 import { Province, Municipality, Bank } from 'za-public-data';
 
 const province: Province = getProvinceByCode('WC');
 const municipality: Municipality = getMunicipalityByCode('CPT');
 const bank: Bank = getBankByCode('632005');
-\`\`\`
+```
 
 ## Contributing
 
