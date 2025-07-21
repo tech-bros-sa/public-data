@@ -1,0 +1,1622 @@
+[
+  {
+    "coordinates": {
+      "latitude": -25.7657819,
+      "longitude": 28.2988797
+    },
+    "address": "22 Hibiscus St, Lynnwood Ridge, Pretoria, 0081, South Africa",
+    "isAtm": true,
+    "isBranch": false
+  },
+  {
+    "coordinates": {
+      "latitude": -33.9336115,
+      "longitude": 18.5112398
+    },
+    "address": "Canal edge one, Office Suite 15, Carel Cronje Drive, Tyger Waterfront, Bellville, Pinelands, Cape Town, 7405, South Africa",
+    "isAtm": true,
+    "isBranch": false
+  },
+  {
+    "coordinates": {
+      "latitude": -31.4953274,
+      "longitude": 25.0055213
+    },
+    "address": "28 Meintjies St, Middelburg - Ec, Middelburg, 5900, South Africa",
+    "isAtm": true,
+    "isBranch": false
+  },
+  {
+    "coordinates": {
+      "latitude": -25.7860358,
+      "longitude": 28.2772567
+    },
+    "address": "Menlyn Mall, Newlands, Pretoria, 0049, South Africa",
+    "isAtm": false,
+    "isBranch": true
+  },
+  {
+    "coordinates": {
+      "latitude": -25.75855,
+      "longitude": 28.241
+    },
+    "address": "121 Dyer Rd, Hillcrest, Pretoria, 0083, South Africa",
+    "isAtm": false,
+    "isBranch": true
+  },
+  {
+    "coordinates": {
+      "latitude": -25.7499448,
+      "longitude": 28.2353313
+    },
+    "address": "Cnr Burnett & Hilda St Shop 6, Hatfield Plaza, Hatfield, Pretoria, 0083, South Africa",
+    "isAtm": false,
+    "isBranch": true
+  },
+  {
+    "coordinates": {
+      "latitude": -25.7188751,
+      "longitude": 28.2021773
+    },
+    "address": "489 Steve Biko Rd, Eloff Estate 320-Jr, Pretoria, 0084, South Africa",
+    "isAtm": false,
+    "isBranch": true
+  },
+  {
+    "coordinates": {
+      "latitude": -25.78295,
+      "longitude": 28.27591
+    },
+    "address": "Menlyn Park, Lois Ave, Garston AH, Pretoria, 0063, South Africa",
+    "isAtm": false,
+    "isBranch": true
+  },
+  {
+    "coordinates": {
+      "latitude": -26.10007,
+      "longitude": 28.04934
+    },
+    "address": "Cnr Grayston Drive & Benmore Road Benmore Shopping Centre, Shop G05 & G06, Benmore Gardens, Sandton, 2196, South Africa",
+    "isAtm": false,
+    "isBranch": true
+  },
+  {
+    "coordinates": {
+      "latitude": -26.09337,
+      "longitude": 28.00355
+    },
+    "address": "Shop 8B Randburg City, Pretoria Ave, Ferndale, Randburg, 2194, South Africa",
+    "isAtm": false,
+    "isBranch": true
+  },
+  {
+    "coordinates": {
+      "latitude": -25.8287309,
+      "longitude": 28.2056102
+    },
+    "address": "102 Government Rd, Lyttelton Manor, Centurion, 0157, South Africa",
+    "isAtm": true,
+    "isBranch": false
+  },
+  {
+    "coordinates": {
+      "latitude": -25.8571623,
+      "longitude": 28.1831905
+    },
+    "address": "2025 Gordon Hood Rd, Centurion Central, Centurion, 0046, South Africa",
+    "isAtm": true,
+    "isBranch": false
+  },
+  {
+    "coordinates": {
+      "latitude": -25.68134,
+      "longitude": 28.24847
+    },
+    "address": "Corner of Zambesi Drive Dr Van Der Merwe Rd, Montana Park, Pretoria, 0159, South Africa",
+    "isAtm": false,
+    "isBranch": true
+  },
+  {
+    "coordinates": {
+      "latitude": -25.8783562,
+      "longitude": 28.1643173
+    },
+    "address": "Shop B1, Centurion Lifestyle Centre, Lenchen Ave, Brakfontein 399-Jr, Centurion, 0157, South Africa",
+    "isAtm": true,
+    "isBranch": false
+  },
+  {
+    "coordinates": {
+      "latitude": -25.7480605,
+      "longitude": 28.1485766
+    },
+    "address": "Quagga Shopping Centre, Corner WF Nkomo and Court Streets, Pretoria West, Pretoria, 0183, South Africa",
+    "isAtm": false,
+    "isBranch": true
+  },
+  {
+    "coordinates": {
+      "latitude": -25.7450216,
+      "longitude": 28.205721
+    },
+    "address": "542 Stanza Bopape St, Arcadia, Pretoria, 0002, South Africa",
+    "isAtm": true,
+    "isBranch": false
+  },
+  {
+    "coordinates": {
+      "latitude": -33.9439539,
+      "longitude": 25.5171101
+    },
+    "address": "2 Papenkuils Street, Linton Grange, Gqeberha, 6015, South Africa",
+    "isAtm": true,
+    "isBranch": false
+  },
+  {
+    "coordinates": {
+      "latitude": -26.0795827,
+      "longitude": 28.2466251
+    },
+    "address": "Shop 2, Woodbridge Square Corner Monument and Dann roads, Glen marais, Kempton Park, 1619, South Africa",
+    "isAtm": true,
+    "isBranch": false
+  },
+  {
+    "coordinates": {
+      "latitude": -34.1390883,
+      "longitude": 18.4308914
+    },
+    "address": "77 Main Rd, Fish Hoek, Cape Town, 7975, South Africa",
+    "isAtm": true,
+    "isBranch": false
+  },
+  {
+    "coordinates": {
+      "latitude": -27.7695146,
+      "longitude": 30.7942814
+    },
+    "address": "216-196 Mark St, Vryheid, 3100, South Africa",
+    "isAtm": true,
+    "isBranch": false
+  },
+  {
+    "coordinates": {
+      "latitude": -25.4741173,
+      "longitude": 30.968085
+    },
+    "address": "GXG9+96 Mbombela, South Africa",
+    "isAtm": false,
+    "isBranch": true
+  },
+  {
+    "coordinates": {
+      "latitude": -34.1477945,
+      "longitude": 22.1037803
+    },
+    "address": "r102 Louis Fourie Rd, Garden Hill, Mossel Bay, 6511, South Africa",
+    "isAtm": true,
+    "isBranch": false
+  },
+  {
+    "coordinates": {
+      "latitude": -25.7666712,
+      "longitude": 28.3255812
+    },
+    "address": "Lynnwood Rd &, Simon Vermooten Rd, Equestria, Pretoria, 0184, South Africa",
+    "isAtm": false,
+    "isBranch": true
+  },
+  {
+    "coordinates": {
+      "latitude": -26.1823701,
+      "longitude": 28.03579
+    },
+    "address": "0A St Davids Pl, Parktown, Johannesburg, 2193, South Africa",
+    "isAtm": false,
+    "isBranch": true
+  },
+  {
+    "coordinates": {
+      "latitude": -26.10818,
+      "longitude": 28.05388
+    },
+    "address": "ACM Gold 12th floor, Sandton City Office Tower, Sandhurst, Sandton, 2196, South Africa",
+    "isAtm": false,
+    "isBranch": true
+  },
+  {
+    "coordinates": {
+      "latitude": -33.9348013,
+      "longitude": 18.4178257
+    },
+    "address": "14A Myrtle St, Oranjezicht, Cape Town, 8001, South Africa",
+    "isAtm": true,
+    "isBranch": false
+  },
+  {
+    "coordinates": {
+      "latitude": -26.1310539,
+      "longitude": 27.9741057
+    },
+    "address": "Beyers Naudé Drive, Shop L34-L37, Cresta Shopping Centre, Cresta, Randburg, 2194, South Africa",
+    "isAtm": false,
+    "isBranch": true
+  },
+  {
+    "coordinates": {
+      "latitude": -25.9957379,
+      "longitude": 28.1275054
+    },
+    "address": "Kings Crossing Midrand, Halfway House, Midrand, 1685, South Africa",
+    "isAtm": false,
+    "isBranch": true
+  },
+  {
+    "coordinates": {
+      "latitude": -25.9974801,
+      "longitude": 28.1267011
+    },
+    "address": "185 Old Pretoria Rd, Halfway House, Midrand, 1685, South Africa",
+    "isAtm": false,
+    "isBranch": true
+  },
+  {
+    "coordinates": {
+      "latitude": -25.9762799,
+      "longitude": 28.2304501
+    },
+    "address": "Phumulani Mall, Olifantsfontein Rd, Clayville, Johannesburg, 1665, South Africa",
+    "isAtm": false,
+    "isBranch": true
+  },
+  {
+    "coordinates": {
+      "latitude": -26.1825198,
+      "longitude": 28.0040457
+    },
+    "address": "Campus Square, Kingsway Ave, Auckland Park, Johannesburg, 2092, South Africa",
+    "isAtm": false,
+    "isBranch": true
+  },
+  {
+    "coordinates": {
+      "latitude": -26.061654,
+      "longitude": 27.9471719
+    },
+    "address": "Shop No. 227, Northgate Mall, Corner of Olivenhout & Northumberland Avenues, Northgate, Randburg, 2162, South Africa",
+    "isAtm": false,
+    "isBranch": true
+  },
+  {
+    "coordinates": {
+      "latitude": -27.4280281,
+      "longitude": 29.1610167
+    },
+    "address": "18 Rass St, Vrede, 9835, South Africa",
+    "isAtm": true,
+    "isBranch": false
+  },
+  {
+    "coordinates": {
+      "latitude": -26.206148,
+      "longitude": 28.0404282
+    },
+    "address": "89 Fox St, Marshalltown, Johannesburg, 2107, South Africa",
+    "isAtm": true,
+    "isBranch": false
+  },
+  {
+    "coordinates": {
+      "latitude": -26.1461652,
+      "longitude": 28.0416733
+    },
+    "address": "C227, 50 Bath Ave, Rosebank, Johannesburg, 2196, South Africa",
+    "isAtm": true,
+    "isBranch": false
+  },
+  {
+    "coordinates": {
+      "latitude": -26.2042284,
+      "longitude": 28.0381786
+    },
+    "address": "54 Pixley Ka Isaka Seme St, Johannesburg, 2001, South Africa",
+    "isAtm": true,
+    "isBranch": false
+  },
+  {
+    "coordinates": {
+      "latitude": -26.1200877,
+      "longitude": 28.1409726
+    },
+    "address": "V4HR+X9 Lethabong, South Africa",
+    "isAtm": false,
+    "isBranch": true
+  },
+  {
+    "coordinates": {
+      "latitude": -29.7242767,
+      "longitude": 31.0666517
+    },
+    "address": "4319 Palm Blvd, Umhlanga Ridge, uMhlanga, 4319, South Africa",
+    "isAtm": false,
+    "isBranch": true
+  },
+  {
+    "coordinates": {
+      "latitude": -26.0512113,
+      "longitude": 28.0928785
+    },
+    "address": "Shop No. 12 A Woodmead Retail Park, Woodmead Dr, Sandton, 2191, South Africa",
+    "isAtm": true,
+    "isBranch": false
+  },
+  {
+    "coordinates": {
+      "latitude": -33.4623027,
+      "longitude": 18.7297054
+    },
+    "address": "2 Hill St, Malmesbury, 7300, South Africa",
+    "isAtm": false,
+    "isBranch": true
+  },
+  {
+    "coordinates": {
+      "latitude": -26.1338039,
+      "longitude": 28.2322881
+    },
+    "address": "V68J+FW Kempton Park, South Africa",
+    "isAtm": false,
+    "isBranch": true
+  },
+  {
+    "coordinates": {
+      "latitude": -33.090278,
+      "longitude": 18.0337619
+    },
+    "address": "Koewheni Centre, Oostewal St, Langebaan, 7357, South Africa",
+    "isAtm": true,
+    "isBranch": false
+  },
+  {
+    "coordinates": {
+      "latitude": -29.5624133,
+      "longitude": 30.3008509
+    },
+    "address": "The Quarry, 57 Hilton Ave, Hilton, Pietermaritzburg, 3201, South Africa",
+    "isAtm": true,
+    "isBranch": false
+  },
+  {
+    "coordinates": {
+      "latitude": -34.0208923,
+      "longitude": 18.4435052
+    },
+    "address": "21 Constantia Main Rd, Constantia, Cape Town, 7806, South Africa",
+    "isAtm": true,
+    "isBranch": false
+  },
+  {
+    "coordinates": {
+      "latitude": -33.9181997,
+      "longitude": 18.3874828
+    },
+    "address": "2B Regent Rd, Sea Point, Cape Town, 8005, South Africa",
+    "isAtm": true,
+    "isBranch": false
+  },
+  {
+    "coordinates": {
+      "latitude": -33.0075075,
+      "longitude": 17.9451624
+    },
+    "address": "27 Berg St, Sadanha, Capetown, 7394, South Africa",
+    "isAtm": true,
+    "isBranch": false
+  },
+  {
+    "coordinates": {
+      "latitude": -26.867638,
+      "longitude": 26.665281
+    },
+    "address": "45 Church St, Klerksdorp Central, Klerksdorp, 2570, South Africa",
+    "isAtm": false,
+    "isBranch": true
+  },
+  {
+    "coordinates": {
+      "latitude": -33.9810605,
+      "longitude": 25.5560526
+    },
+    "address": "Cnr Main Rd &, Jre House, 16th Ave, Walmer, Gqeberha, 6065, South Africa",
+    "isAtm": false,
+    "isBranch": true
+  },
+  {
+    "coordinates": {
+      "latitude": -27.7567312,
+      "longitude": 29.9326766
+    },
+    "address": "64 Scott St, Newcastle CBD, Newcastle, 2940, South Africa",
+    "isAtm": false,
+    "isBranch": true
+  },
+  {
+    "coordinates": {
+      "latitude": -33.9807002,
+      "longitude": 25.5918557
+    },
+    "address": "22 7th Ave, Walmer, Gqeberha, 6065, South Africa",
+    "isAtm": false,
+    "isBranch": true
+  },
+  {
+    "coordinates": {
+      "latitude": -33.3762807,
+      "longitude": 18.3807318
+    },
+    "address": "22 Main St, Darling, 7345, South Africa",
+    "isAtm": true,
+    "isBranch": false
+  },
+  {
+    "coordinates": {
+      "latitude": -25.6835251,
+      "longitude": 28.2944735
+    },
+    "address": "1 Sefako Makgatho Dr, Montana Tuine, Pretoria, 0182, South Africa",
+    "isAtm": true,
+    "isBranch": false
+  },
+  {
+    "coordinates": {
+      "latitude": -29.92376,
+      "longitude": 30.9690515
+    },
+    "address": "Shop 15 - 17, Montclair Mall, Montclair Rd, Montclair, Durban, 4004, South Africa",
+    "isAtm": true,
+    "isBranch": false
+  },
+  {
+    "coordinates": {
+      "latitude": -33.8810234,
+      "longitude": 18.6852757
+    },
+    "address": "58 Old Paarl Rd, Brackenfell, Cape Town, 7560, South Africa",
+    "isAtm": true,
+    "isBranch": false
+  },
+  {
+    "coordinates": {
+      "latitude": -25.7700531,
+      "longitude": 28.0910457
+    },
+    "address": "2 Mowana St, Atteridgeville, Pretoria, 0006, South Africa",
+    "isAtm": false,
+    "isBranch": true
+  },
+  {
+    "coordinates": {
+      "latitude": -26.179646,
+      "longitude": 28.2444235
+    },
+    "address": "99 Jeremy Kark's Rd, Jansen Park, Boksburg, 1459, South Africa",
+    "isAtm": false,
+    "isBranch": true
+  },
+  {
+    "coordinates": {
+      "latitude": -26.0002482,
+      "longitude": 27.982676
+    },
+    "address": "Corner Cedar and, Valley Rd, Broadacres AH, Sandton, 2055, South Africa",
+    "isAtm": false,
+    "isBranch": true
+  },
+  {
+    "coordinates": {
+      "latitude": -25.7142285,
+      "longitude": 28.3344427
+    },
+    "address": "78PM+8Q Pretoria, South Africa",
+    "isAtm": false,
+    "isBranch": true
+  },
+  {
+    "coordinates": {
+      "latitude": -25.6706089,
+      "longitude": 28.1115639
+    },
+    "address": "84H6+QJ Akasia, South Africa",
+    "isAtm": false,
+    "isBranch": true
+  },
+  {
+    "coordinates": {
+      "latitude": -26.1670997,
+      "longitude": 27.9272794
+    },
+    "address": "27 Olympus St, Florida North, Roodepoort, 1709, South Africa",
+    "isAtm": false,
+    "isBranch": true
+  },
+  {
+    "coordinates": {
+      "latitude": -30.7433528,
+      "longitude": 30.4537356
+    },
+    "address": "Sinclair/Daly street, Port Shepstone, 4240, South Africa",
+    "isAtm": true,
+    "isBranch": false
+  },
+  {
+    "coordinates": {
+      "latitude": -26.2935295,
+      "longitude": 28.452943
+    },
+    "address": "1508 Pridgeon Ave, Selection Park, Springs, 1559, South Africa",
+    "isAtm": false,
+    "isBranch": true
+  },
+  {
+    "coordinates": {
+      "latitude": -26.25831,
+      "longitude": 27.9308938
+    },
+    "address": "Chris Hani Rd, Diepkloof Zone 6, Diepkloof, 1862, South Africa",
+    "isAtm": false,
+    "isBranch": true
+  },
+  {
+    "coordinates": {
+      "latitude": -26.0328081,
+      "longitude": 28.0619413
+    },
+    "address": "The Square Centre, L95 Naivasha Rd, Sunninghill, Midrand, 2191, South Africa",
+    "isAtm": false,
+    "isBranch": true
+  },
+  {
+    "coordinates": {
+      "latitude": -26.223656,
+      "longitude": 28.2540624
+    },
+    "address": "1 Eloff St, Boksburg, 1459, South Africa",
+    "isAtm": false,
+    "isBranch": true
+  },
+  {
+    "coordinates": {
+      "latitude": -25.8176129,
+      "longitude": 28.2691674
+    },
+    "address": "491 Nossob St, Erasmuskloof, Pretoria, 0048, South Africa",
+    "isAtm": false,
+    "isBranch": true
+  },
+  {
+    "coordinates": {
+      "latitude": -26.0791463,
+      "longitude": 27.9773601
+    },
+    "address": "Next to Local Choice Pharmecy, 20 Struik St, Ferndale, Randburg, 2194, South Africa",
+    "isAtm": false,
+    "isBranch": true
+  },
+  {
+    "coordinates": {
+      "latitude": -26.1078146,
+      "longitude": 28.2276862
+    },
+    "address": "44 Pretoria Rd, Kempton Park Cbd, Kempton Park, 1619, South Africa",
+    "isAtm": false,
+    "isBranch": true
+  },
+  {
+    "coordinates": {
+      "latitude": -26.2668475,
+      "longitude": 28.1859457
+    },
+    "address": "29 Dekema Rd, Wadeville, Germiston, 1428, South Africa",
+    "isAtm": false,
+    "isBranch": true
+  },
+  {
+    "coordinates": {
+      "latitude": -27.8539865,
+      "longitude": 26.3637742
+    },
+    "address": "2 Erwee St, Wesselsbron, 9680, South Africa",
+    "isAtm": false,
+    "isBranch": true
+  },
+  {
+    "coordinates": {
+      "latitude": -31.9040401,
+      "longitude": 26.8898021
+    },
+    "address": "9 Brewery Road, Sandringham, Komani, 5321, South Africa",
+    "isAtm": false,
+    "isBranch": true
+  },
+  {
+    "coordinates": {
+      "latitude": -33.9873033,
+      "longitude": 25.6680696
+    },
+    "address": "3 8th Ave, Summerstrand, Gqeberha, 6001, South Africa",
+    "isAtm": true,
+    "isBranch": false
+  },
+  {
+    "coordinates": {
+      "latitude": -32.8773459,
+      "longitude": 27.392935
+    },
+    "address": "8 Queens Rd, Qonce, 5601, South Africa",
+    "isAtm": false,
+    "isBranch": true
+  },
+  {
+    "coordinates": {
+      "latitude": -31.080026,
+      "longitude": 29.5032686
+    },
+    "address": "erf 316 Main St, Flagstaff, 4810, South Africa",
+    "isAtm": false,
+    "isBranch": true
+  },
+  {
+    "coordinates": {
+      "latitude": -28.2695832,
+      "longitude": 29.1259656
+    },
+    "address": "10 Sarel Cilliers St, Intabazwe, Harrismith, 9880, South Africa",
+    "isAtm": false,
+    "isBranch": true
+  },
+  {
+    "coordinates": {
+      "latitude": -33.7314787,
+      "longitude": 18.4438797
+    },
+    "address": "6 Birkenhead Dr, Melkbosstrand, Cape Town, 7437, South Africa",
+    "isAtm": false,
+    "isBranch": true
+  },
+  {
+    "coordinates": {
+      "latitude": -33.9251066,
+      "longitude": 18.5504451
+    },
+    "address": "4A Showground Ave, Goodwood, Cape Town, 7460, South Africa",
+    "isAtm": false,
+    "isBranch": true
+  },
+  {
+    "coordinates": {
+      "latitude": -25.6851829,
+      "longitude": 28.1908495
+    },
+    "address": "Wonderboom Junction, Shopping Centre, 16 Lavender Rd W, Annlin West, Pretoria, 0066, South Africa",
+    "isAtm": false,
+    "isBranch": true
+  },
+  {
+    "coordinates": {
+      "latitude": -33.8621461,
+      "longitude": 18.5030162
+    },
+    "address": "39 Racecourse Rd, Milnerton, Cape Town, 7442, South Africa",
+    "isAtm": false,
+    "isBranch": true
+  },
+  {
+    "coordinates": {
+      "latitude": -29.62485,
+      "longitude": 30.4086138
+    },
+    "address": "28 Blackburrow Rd, Hayfields, Pietermaritzburg, 3200, South Africa",
+    "isAtm": true,
+    "isBranch": false
+  },
+  {
+    "coordinates": {
+      "latitude": -29.7477323,
+      "longitude": 30.974534
+    },
+    "address": "302 Malendela Rd, Emlanjeni, KwaMashu, 4051, South Africa",
+    "isAtm": false,
+    "isBranch": true
+  },
+  {
+    "coordinates": {
+      "latitude": -27.9085724,
+      "longitude": 31.6471297
+    },
+    "address": "3JRW+HV Nongoma, South Africa",
+    "isAtm": false,
+    "isBranch": true
+  },
+  {
+    "coordinates": {
+      "latitude": -29.814042,
+      "longitude": 30.8595144
+    },
+    "address": "45 Josiah Gumede Rd, Pinetown CBD, Pinetown, 3620, South Africa",
+    "isAtm": false,
+    "isBranch": true
+  },
+  {
+    "coordinates": {
+      "latitude": -29.5972596,
+      "longitude": 30.3827532
+    },
+    "address": "361 Church St, Pietermaritzburg, 3201, South Africa",
+    "isAtm": false,
+    "isBranch": true
+  },
+  {
+    "coordinates": {
+      "latitude": -29.8484412,
+      "longitude": 30.9998413
+    },
+    "address": "Musgrave centre, 137 Musgrave Rd, Musgrave, Durban, 4000, South Africa",
+    "isAtm": false,
+    "isBranch": true
+  },
+  {
+    "coordinates": {
+      "latitude": -29.8350973,
+      "longitude": 30.9140032
+    },
+    "address": "30 Church Rd, Dawncliffe, Westville, 3629, South Africa",
+    "isAtm": false,
+    "isBranch": true
+  },
+  {
+    "coordinates": {
+      "latitude": -24.6671873,
+      "longitude": 30.3254933
+    },
+    "address": "55 Dirk Winterbach St, Burgersfort, 1150, South Africa",
+    "isAtm": false,
+    "isBranch": true
+  },
+  {
+    "coordinates": {
+      "latitude": -22.970704,
+      "longitude": 30.4563496
+    },
+    "address": "2FH4+PG Thohoyandou, South Africa",
+    "isAtm": false,
+    "isBranch": true
+  },
+  {
+    "coordinates": {
+      "latitude": -24.1876525,
+      "longitude": 29.0127467
+    },
+    "address": "33 Hooge St, Mokopane, 0600, South Africa",
+    "isAtm": false,
+    "isBranch": true
+  },
+  {
+    "coordinates": {
+      "latitude": -25.3613181,
+      "longitude": 27.0999251
+    },
+    "address": "J3QX+FX Sun City, South Africa",
+    "isAtm": false,
+    "isBranch": true
+  },
+  {
+    "coordinates": {
+      "latitude": -26.8627746,
+      "longitude": 26.6629703
+    },
+    "address": "45b Golf St, Klerksdorp Central, Klerksdorp, 2571, South Africa",
+    "isAtm": false,
+    "isBranch": true
+  },
+  {
+    "coordinates": {
+      "latitude": -27.561171,
+      "longitude": 24.7489611
+    },
+    "address": "Taung shopping centre, Taung, 8584, South Africa",
+    "isAtm": false,
+    "isBranch": true
+  },
+  {
+    "coordinates": {
+      "latitude": -25.6687417,
+      "longitude": 27.2436371
+    },
+    "address": "153 Kerk St, Rustenburg, 2999, South Africa",
+    "isAtm": false,
+    "isBranch": true
+  },
+  {
+    "coordinates": {
+      "latitude": -26.9577723,
+      "longitude": 24.7263171
+    },
+    "address": "56 Market St, Vryburg, 8601, South Africa",
+    "isAtm": false,
+    "isBranch": true
+  },
+  {
+    "coordinates": {
+      "latitude": -24.833918,
+      "longitude": 31.0699779
+    },
+    "address": "1282 R40, Marijane A, Bushbuckridge, South Africa",
+    "isAtm": false,
+    "isBranch": true
+  },
+  {
+    "coordinates": {
+      "latitude": -26.7124841,
+      "longitude": 27.1071856
+    },
+    "address": "1 Nelson Mandela Dr, Potchefstroom, 2520, South Africa",
+    "isAtm": true,
+    "isBranch": false
+  },
+  {
+    "coordinates": {
+      "latitude": -26.150156,
+      "longitude": 26.158225
+    },
+    "address": "17 Gerrit Maritz St, Lichtenburg, 2470, South Africa",
+    "isAtm": true,
+    "isBranch": false
+  },
+  {
+    "coordinates": {
+      "latitude": -30.154592,
+      "longitude": 30.0586585
+    },
+    "address": "Shop 5, 25 Margaret St, eXobho, 3276, South Africa",
+    "isAtm": false,
+    "isBranch": true
+  },
+  {
+    "coordinates": {
+      "latitude": -32.9556191,
+      "longitude": 27.9336729
+    },
+    "address": "2WVM+QF East London, South Africa",
+    "isAtm": true,
+    "isBranch": false
+  },
+  {
+    "coordinates": {
+      "latitude": -32.9825515,
+      "longitude": 27.9016621
+    },
+    "address": "13 Balfour Rd, Vincent, East London, 5217, South Africa",
+    "isAtm": true,
+    "isBranch": false
+  },
+  {
+    "coordinates": {
+      "latitude": -32.9702523,
+      "longitude": 27.8973757
+    },
+    "address": "Shop G80 Hemingways Shopping Centre Cnr Western Services Ave. & Two Rivers Rd, Ocean View, East London, 5247, South Africa",
+    "isAtm": true,
+    "isBranch": false
+  },
+  {
+    "coordinates": {
+      "latitude": -29.1056331,
+      "longitude": 31.4191305
+    },
+    "address": "14 White St, Mandini, 4450, South Africa",
+    "isAtm": false,
+    "isBranch": true
+  },
+  {
+    "coordinates": {
+      "latitude": -30.8997983,
+      "longitude": 28.9940204
+    },
+    "address": "49 N2, KwaBhaca, 5090, South Africa",
+    "isAtm": false,
+    "isBranch": true
+  },
+  {
+    "coordinates": {
+      "latitude": -34.0291254,
+      "longitude": 24.7707208
+    },
+    "address": "23 Main St, Humansdorp, 6300, South Africa",
+    "isAtm": false,
+    "isBranch": true
+  },
+  {
+    "coordinates": {
+      "latitude": -30.7384186,
+      "longitude": 30.4500131
+    },
+    "address": "40 Nelson Mandela Dr, Port Shepstone, 4680, South Africa",
+    "isAtm": false,
+    "isBranch": true
+  },
+  {
+    "coordinates": {
+      "latitude": -33.3093862,
+      "longitude": 26.5273156
+    },
+    "address": "63 High St, Makhanda, 6139, South Africa",
+    "isAtm": true,
+    "isBranch": false
+  },
+  {
+    "coordinates": {
+      "latitude": -32.6795541,
+      "longitude": 26.0859796
+    },
+    "address": "34 Donkin St, Bedford, 5780, South Africa",
+    "isAtm": true,
+    "isBranch": false
+  },
+  {
+    "coordinates": {
+      "latitude": -23.6684079,
+      "longitude": 27.7431253
+    },
+    "address": "27 Fox Odendaal St, Lephalale, 0555, South Africa",
+    "isAtm": true,
+    "isBranch": false
+  },
+  {
+    "coordinates": {
+      "latitude": -23.8274742,
+      "longitude": 30.1609912
+    },
+    "address": "16 Morgan St, Arbor Park, Tzaneen, 0850, South Africa",
+    "isAtm": false,
+    "isBranch": true
+  },
+  {
+    "coordinates": {
+      "latitude": -32.2491034,
+      "longitude": 24.5354249
+    },
+    "address": "33 Caledon St, Graaff-Reinet, 6280, South Africa",
+    "isAtm": false,
+    "isBranch": true
+  },
+  {
+    "coordinates": {
+      "latitude": -33.6535475,
+      "longitude": 26.4106535
+    },
+    "address": "1345 Voortrekker St, Alexandria, 6185, South Africa",
+    "isAtm": true,
+    "isBranch": false
+  },
+  {
+    "coordinates": {
+      "latitude": -26.3043411,
+      "longitude": 28.4465302
+    },
+    "address": "204b Nigel S Rd, Selcourt, Springs, 1559, South Africa",
+    "isAtm": false,
+    "isBranch": true
+  },
+  {
+    "coordinates": {
+      "latitude": -33.285186,
+      "longitude": 19.139342
+    },
+    "address": "24 Van Der Stel St, Tulbagh, 6820, South Africa",
+    "isAtm": true,
+    "isBranch": false
+  },
+  {
+    "coordinates": {
+      "latitude": -28.3121906,
+      "longitude": 28.7025046
+    },
+    "address": "13 Blignaut St, Kestell, 9860, South Africa",
+    "isAtm": true,
+    "isBranch": false
+  },
+  {
+    "coordinates": {
+      "latitude": -33.0159635,
+      "longitude": 27.9044287
+    },
+    "address": "83 Oxford St, East London Cbd, East London, 5200, South Africa",
+    "isAtm": false,
+    "isBranch": true
+  },
+  {
+    "coordinates": {
+      "latitude": -26.6878521,
+      "longitude": 25.4578086
+    },
+    "address": "28 Generaal Delarey St, Delareyville, 2770, South Africa",
+    "isAtm": true,
+    "isBranch": false
+  },
+  {
+    "coordinates": {
+      "latitude": -26.5078977,
+      "longitude": 29.1856934
+    },
+    "address": "1 Horwood St, Secunda, 2302, South Africa",
+    "isAtm": false,
+    "isBranch": true
+  },
+  {
+    "coordinates": {
+      "latitude": -28.7113161,
+      "longitude": 20.9796964
+    },
+    "address": "56 Main Rd, Keimoes, 8860, South Africa",
+    "isAtm": true,
+    "isBranch": false
+  },
+  {
+    "coordinates": {
+      "latitude": -28.7742386,
+      "longitude": 20.6228012
+    },
+    "address": "26 Voortrekker Way, Kakamas, 8870, South Africa",
+    "isAtm": true,
+    "isBranch": false
+  },
+  {
+    "coordinates": {
+      "latitude": -34.1643732,
+      "longitude": 24.8275715
+    },
+    "address": "165 St Francis Dr, St Francis Bay, 6312, South Africa",
+    "isAtm": true,
+    "isBranch": false
+  },
+  {
+    "coordinates": {
+      "latitude": -26.259057,
+      "longitude": 28.270403
+    },
+    "address": "Sunward Lifestyle Centre Cnr Kingfisher Avenue & Trichardt Road, Kingfisher Ave, Sunward Park, Boksburg, 1459, South Africa",
+    "isAtm": true,
+    "isBranch": false
+  },
+  {
+    "coordinates": {
+      "latitude": -33.8326859,
+      "longitude": 18.646695
+    },
+    "address": "29 Main Rd, Durbanville, Cape Town, 7550, South Africa",
+    "isAtm": true,
+    "isBranch": false
+  },
+  {
+    "coordinates": {
+      "latitude": -33.8912298,
+      "longitude": 18.5609515
+    },
+    "address": "9 Louwtjie Rothman St, N1 City, Cape Town, 7460, South Africa",
+    "isAtm": true,
+    "isBranch": false
+  },
+  {
+    "coordinates": {
+      "latitude": -25.8191865,
+      "longitude": 28.1991117
+    },
+    "address": "104 Trichardt Rd, Lyttelton Manor, Centurion, 0157, South Africa",
+    "isAtm": true,
+    "isBranch": false
+  },
+  {
+    "coordinates": {
+      "latitude": -33.5306215,
+      "longitude": 21.6898301
+    },
+    "address": "7 Calitz St, Calitzdorp, 6660, South Africa",
+    "isAtm": false,
+    "isBranch": true
+  },
+  {
+    "coordinates": {
+      "latitude": -34.005374,
+      "longitude": 18.4693235
+    },
+    "address": "93 Main Rd, Wynberg, Cape Town, 7800, South Africa",
+    "isAtm": false,
+    "isBranch": true
+  },
+  {
+    "coordinates": {
+      "latitude": -30.7124436,
+      "longitude": 27.2149246
+    },
+    "address": "20 Botha St, Lady Grey, 9755, South Africa",
+    "isAtm": false,
+    "isBranch": true
+  },
+  {
+    "coordinates": {
+      "latitude": -33.9620458,
+      "longitude": 18.4702379
+    },
+    "address": "Shop 4, Riverside Mall, Belmont Rd, Rondebosch, Cape Town, 7701, South Africa",
+    "isAtm": false,
+    "isBranch": true
+  },
+  {
+    "coordinates": {
+      "latitude": -27.200439,
+      "longitude": 25.9844631
+    },
+    "address": "15 Kruger St, Wolmaranstad, Wolmaransstad, 2630, South Africa",
+    "isAtm": true,
+    "isBranch": false
+  },
+  {
+    "coordinates": {
+      "latitude": -26.0684336,
+      "longitude": 30.1148168
+    },
+    "address": "Cnr. Vissage & Voortrekker St, Carolina, 1185, South Africa",
+    "isAtm": false,
+    "isBranch": true
+  },
+  {
+    "coordinates": {
+      "latitude": -32.0993285,
+      "longitude": 28.3040814
+    },
+    "address": "1929 N2, Dutywa, 5000, South Africa",
+    "isAtm": false,
+    "isBranch": true
+  },
+  {
+    "coordinates": {
+      "latitude": -29.8480975,
+      "longitude": 31.0265411
+    },
+    "address": "13 Kingsmead Way, Stamford Hill, Durban, 4025, South Africa",
+    "isAtm": false,
+    "isBranch": true
+  },
+  {
+    "coordinates": {
+      "latitude": -26.1235386,
+      "longitude": 28.0312932
+    },
+    "address": "Unit 2 Edenburg Gate Hyde Park Lane, Hyde Park, Sandton, 2196, South Africa",
+    "isAtm": false,
+    "isBranch": true
+  },
+  {
+    "coordinates": {
+      "latitude": -31.8965556,
+      "longitude": 26.8718143
+    },
+    "address": "86 Cathcart Rd, Queenstown, Komani, 5320, South Africa",
+    "isAtm": false,
+    "isBranch": true
+  },
+  {
+    "coordinates": {
+      "latitude": -26.1861672,
+      "longitude": 28.048778
+    },
+    "address": "Spar, Claim St & Caroline St, Hillbrow, Johannesburg, 2001, South Africa",
+    "isAtm": false,
+    "isBranch": true
+  },
+  {
+    "coordinates": {
+      "latitude": -26.2012929,
+      "longitude": 28.0370168
+    },
+    "address": "Shop 14 Block B, Metro MallBree and Simmonds, New Town, Newtown, Johannesburg, 2001, South Africa",
+    "isAtm": false,
+    "isBranch": true
+  },
+  {
+    "coordinates": {
+      "latitude": -26.2649218,
+      "longitude": 28.1215399
+    },
+    "address": "30A Voortrekker Rd, New Redruth, Alberton, 1449, South Africa",
+    "isAtm": true,
+    "isBranch": false
+  },
+  {
+    "coordinates": {
+      "latitude": -29.1095023,
+      "longitude": 26.1844674
+    },
+    "address": "205 Nelson Mandela Dr, Park West, Bloemfontein, 9301, South Africa",
+    "isAtm": true,
+    "isBranch": false
+  },
+  {
+    "coordinates": {
+      "latitude": -28.741684,
+      "longitude": 24.7650357
+    },
+    "address": "43 Chapel St, Kimberley, 8300, South Africa",
+    "isAtm": false,
+    "isBranch": true
+  },
+  {
+    "coordinates": {
+      "latitude": -29.7819848,
+      "longitude": 30.7630889
+    },
+    "address": "47 Old Main Rd, Hilldene, Hillcrest, 3610, South Africa",
+    "isAtm": true,
+    "isBranch": false
+  },
+  {
+    "coordinates": {
+      "latitude": -28.7412921,
+      "longitude": 24.7641706
+    },
+    "address": "69 Jones St, Kimberley, 8300, South Africa",
+    "isAtm": false,
+    "isBranch": true
+  },
+  {
+    "coordinates": {
+      "latitude": -23.9113423,
+      "longitude": 29.4529308
+    },
+    "address": "18 R101, Polokwane Central, Polokwane, 0700, South Africa",
+    "isAtm": false,
+    "isBranch": true
+  },
+  {
+    "coordinates": {
+      "latitude": -24.8849669,
+      "longitude": 28.2922626
+    },
+    "address": "55 Voortrekker Rd, Bela-Bela, 0480, South Africa",
+    "isAtm": false,
+    "isBranch": true
+  },
+  {
+    "coordinates": {
+      "latitude": -26.1770991,
+      "longitude": 27.7045959
+    },
+    "address": "13 Main Reef Rd, West Porges, Randfontein, 1759, South Africa",
+    "isAtm": false,
+    "isBranch": true
+  },
+  {
+    "coordinates": {
+      "latitude": -33.9498905,
+      "longitude": 25.6074719
+    },
+    "address": "456 Govan Mbeki St, North End, Gqeberha, 6001, South Africa",
+    "isAtm": false,
+    "isBranch": true
+  },
+  {
+    "coordinates": {
+      "latitude": -34.0521283,
+      "longitude": 24.9216545
+    },
+    "address": "5 Goedehoop St, Jeffreys Bay, 6330, South Africa",
+    "isAtm": false,
+    "isBranch": true
+  },
+  {
+    "coordinates": {
+      "latitude": -33.9601063,
+      "longitude": 25.6036504
+    },
+    "address": "Richmond Hill, 39 Westbourne Rd, Gqeberha Central, Gqeberha, 6001, South Africa",
+    "isAtm": true,
+    "isBranch": false
+  },
+  {
+    "coordinates": {
+      "latitude": -26.1942643,
+      "longitude": 28.0575194
+    },
+    "address": "10 Pearse St, Doornfontein, Johannesburg, 2028, South Africa",
+    "isAtm": false,
+    "isBranch": true
+  },
+  {
+    "coordinates": {
+      "latitude": -26.34344,
+      "longitude": 28.1817126
+    },
+    "address": "M54J+JM Vosloorus, South Africa",
+    "isAtm": false,
+    "isBranch": true
+  },
+  {
+    "coordinates": {
+      "latitude": -26.1083308,
+      "longitude": 28.0864478
+    },
+    "address": "13 Third St, Wynberg, Sandton, 2014, South Africa",
+    "isAtm": false,
+    "isBranch": true
+  },
+  {
+    "coordinates": {
+      "latitude": -26.1973506,
+      "longitude": 28.042548
+    },
+    "address": "Rissik St Mezzanine Level, Transit Centre, Johannesburg Park Station, Braamfontein, Johannesburg, 2017, South Africa",
+    "isAtm": false,
+    "isBranch": true
+  },
+  {
+    "coordinates": {
+      "latitude": -23.8830241,
+      "longitude": 29.5005953
+    },
+    "address": "4G82+Q6 Polokwane, South Africa",
+    "isAtm": false,
+    "isBranch": true
+  },
+  {
+    "coordinates": {
+      "latitude": -31.1797662,
+      "longitude": 24.9523343
+    },
+    "address": "29 Piet Retief St, Noupoort, 5950, South Africa",
+    "isAtm": true,
+    "isBranch": false
+  },
+  {
+    "coordinates": {
+      "latitude": -26.0991626,
+      "longitude": 27.997853
+    },
+    "address": "261 Surrey Ave, Ferndale, Randburg, 2194, South Africa",
+    "isAtm": false,
+    "isBranch": true
+  },
+  {
+    "coordinates": {
+      "latitude": -29.8369798,
+      "longitude": 30.999519
+    },
+    "address": "Shop 335, Overport City, Peter Mokaba Ridge, Essenwood, Berea, 4001, South Africa",
+    "isAtm": false,
+    "isBranch": true
+  },
+  {
+    "coordinates": {
+      "latitude": -33.9803901,
+      "longitude": 18.4647664
+    },
+    "address": "120 Main Rd, Claremont, Cape Town, 7735, South Africa",
+    "isAtm": true,
+    "isBranch": false
+  },
+  {
+    "coordinates": {
+      "latitude": -33.9304984,
+      "longitude": 18.4526081
+    },
+    "address": "230 M4, Woodstock, Cape Town, 7915, South Africa",
+    "isAtm": false,
+    "isBranch": true
+  },
+  {
+    "coordinates": {
+      "latitude": -34.4171273,
+      "longitude": 19.2416565
+    },
+    "address": "18 Royal St, Hermanus, 7200, South Africa",
+    "isAtm": false,
+    "isBranch": true
+  },
+  {
+    "coordinates": {
+      "latitude": -25.674874,
+      "longitude": 28.1738968
+    },
+    "address": "Cnr Gerrit Maritz Road &, Ben Viljoen St, Pretoria North, Pretoria, 0116, South Africa",
+    "isAtm": false,
+    "isBranch": true
+  },
+  {
+    "coordinates": {
+      "latitude": -23.2864047,
+      "longitude": 29.1377573
+    },
+    "address": "Shop 22, Bochum Plaza Blouberg Road, Senwabarwana-A, Senwabarwana, 0790, South Africa",
+    "isAtm": false,
+    "isBranch": true
+  },
+  {
+    "coordinates": {
+      "latitude": -27.9108326,
+      "longitude": 25.1687968
+    },
+    "address": "15 Voortrekker, Christiana, 2680, South Africa",
+    "isAtm": true,
+    "isBranch": false
+  },
+  {
+    "coordinates": {
+      "latitude": -26.1487506,
+      "longitude": 28.0437501
+    },
+    "address": "Ground Floor, 30 Baker St, Rosebank, Johannesburg, 2196, South Africa",
+    "isAtm": false,
+    "isBranch": true
+  },
+  {
+    "coordinates": {
+      "latitude": -30.9519872,
+      "longitude": 19.4435541
+    },
+    "address": "28 Main Rd, Loeriesfontein, 8185, South Africa",
+    "isAtm": false,
+    "isBranch": true
+  },
+  {
+    "coordinates": {
+      "latitude": -26.6598682,
+      "longitude": 28.5866875
+    },
+    "address": "13 Johnny Mokoena Dr, Balfour, 2410, South Africa",
+    "isAtm": false,
+    "isBranch": true
+  },
+  {
+    "coordinates": {
+      "latitude": -26.1503167,
+      "longitude": 27.9172957
+    },
+    "address": "4 Ellis St, Constantia Kloof, Roodepoort, 1709, South Africa",
+    "isAtm": false,
+    "isBranch": true
+  },
+  {
+    "coordinates": {
+      "latitude": -25.8586266,
+      "longitude": 25.6437896
+    },
+    "address": "80 Nelson Mandela Dr, Golf View, Mahikeng, 2745, South Africa",
+    "isAtm": false,
+    "isBranch": true
+  },
+  {
+    "coordinates": {
+      "latitude": -26.1588665,
+      "longitude": 29.7167735
+    },
+    "address": "32 Beukes St, Hendrina, 1095, South Africa",
+    "isAtm": false,
+    "isBranch": true
+  },
+  {
+    "coordinates": {
+      "latitude": -24.959007,
+      "longitude": 27.2620165
+    },
+    "address": "5 Botha Rd, Northam, 0360, South Africa",
+    "isAtm": false,
+    "isBranch": true
+  },
+  {
+    "coordinates": {
+      "latitude": -33.4006388,
+      "longitude": 25.4435503
+    },
+    "address": "28 Main Street, Nqweba, 6120, South Africa",
+    "isAtm": false,
+    "isBranch": true
+  },
+  {
+    "coordinates": {
+      "latitude": -25.7461845,
+      "longitude": 28.1899455
+    },
+    "address": "236 WF Nkomo St, Pretoria Central, Pretoria, 0001, South Africa",
+    "isAtm": false,
+    "isBranch": true
+  },
+  {
+    "coordinates": {
+      "latitude": -28.4149654,
+      "longitude": 32.1810866
+    },
+    "address": "13310 Msinsi Rd, Mtubatuba, 3935, South Africa",
+    "isAtm": false,
+    "isBranch": true
+  },
+  {
+    "coordinates": {
+      "latitude": -34.1520443,
+      "longitude": 19.0200261
+    },
+    "address": "26 Oudebrug Rd, Grabouw, 7160, South Africa",
+    "isAtm": false,
+    "isBranch": true
+  },
+  {
+    "coordinates": {
+      "latitude": -34.0350177,
+      "longitude": 23.0442958
+    },
+    "address": "Mall Shop Z4, Knysna Central, Knysna, 6570, South Africa",
+    "isAtm": false,
+    "isBranch": true
+  },
+  {
+    "coordinates": {
+      "latitude": -27.3935114,
+      "longitude": 26.6177811
+    },
+    "address": "21 President St, Bothaville, 9660, South Africa",
+    "isAtm": false,
+    "isBranch": true
+  },
+  {
+    "coordinates": {
+      "latitude": -33.9354203,
+      "longitude": 18.8589971
+    },
+    "address": "Shop 25, 1st floor, Drostdy Centre, corner Bird & Alexander Street, Stellenbosch Central, Stellenbosch, 7600, South Africa",
+    "isAtm": true,
+    "isBranch": false
+  },
+  {
+    "coordinates": {
+      "latitude": -25.8244945,
+      "longitude": 28.3158474
+    },
+    "address": "Woodlands Boulevard, Garsfontein Rd, Pretorius Park, Pretoria, 0081, South Africa",
+    "isAtm": false,
+    "isBranch": true
+  },
+  {
+    "coordinates": {
+      "latitude": -33.9044691,
+      "longitude": 18.4192766
+    },
+    "address": "Dock Rd Shop Bh2, Victoria & Alfred Waterfront, Cape Town, 8001, South Africa",
+    "isAtm": false,
+    "isBranch": true
+  },
+  {
+    "coordinates": {
+      "latitude": -29.5242264,
+      "longitude": 31.2025756
+    },
+    "address": "608B Leonora Dr, Ballito, 4339, South Africa",
+    "isAtm": false,
+    "isBranch": true
+  },
+  {
+    "coordinates": {
+      "latitude": -26.1886178,
+      "longitude": 28.1216961
+    },
+    "address": "4 Bradford Rd, Bedford Gardens, Germiston, 2007, South Africa",
+    "isAtm": false,
+    "isBranch": true
+  },
+  {
+    "coordinates": {
+      "latitude": -32.3959477,
+      "longitude": 20.6611498
+    },
+    "address": "21 Piet Retief St, Sutherland, 6920, South Africa",
+    "isAtm": false,
+    "isBranch": true
+  }
+]

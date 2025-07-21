@@ -1,5 +1,6 @@
 # ZA Public Data
 
+(Work in Progress)
 A comprehensive South African public data library for developers, providing easy access to provinces, municipalities, government entities, banks, educational institutions, and more.
 
 ## Installation

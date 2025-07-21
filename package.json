@@ -1,0 +1,24 @@
+{
+  "name": "public-data",
+  "version": "1.0.0",
+  "description": "A comprehensive South African public data library for developers, providing easy access to provinces, municipalities, government entities, banks, educational institutions, and more.",
+  "homepage": "https://github.com/tech-bros-sa/public-data#readme",
+  "bugs": {
+    "url": "https://github.com/tech-bros-sa/public-data/issues"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/tech-bros-sa/public-data.git"
+  },
+  "license": "ISC",
+  "author": "",
+  "type": "commonjs",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "dependencies": {
+    "@googlemaps/google-maps-services-js": "^3.4.2",
+    "@googlemaps/js-api-loader": "^1.16.10"
+  }
+}
